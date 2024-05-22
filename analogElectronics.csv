@@ -1,0 +1,151 @@
+Qid,Question,A,B,C,D,Answer,Level
+1,Which of the following is a characteristic of a bipolar junction transistor (BJT)?,High input impedance,Low output impedance,Exponential input-output relationship,Linear input-output relationship,c,easy
+2,What is the primary function of a voltage divider circuit?,To amplify signals,To regulate voltage,To divide voltage,To control current,c,easy
+3,Which of the following is NOT a characteristic of an ideal operational amplifier (Op-amp)?,Infinite bandwidth,Infinite slew rate,Finite open-loop gain,Zero input bias current,c,easy
+4,What is the primary function of a transistor in common emitter configuration?,Voltage amplification,Current regulation,Impedance matching,Voltage division,a,easy
+5,Which of the following statements is true about a Schottky diode?,It has a high forward voltage drop,It is a type of rectifier diode,It has a fast recovery time,It is commonly used for voltage regulation,c,easy
+6,What is the primary function of a coupling capacitor in an amplifier circuit?,To provide DC isolation between stages,To provide AC coupling between stages,To regulate voltage,To amplify signals,b,easy
+7,Which of the following is true about a Darlington pair transistor configuration?,It has a high input impedance,It has a high output impedance,It provides high current gain,It has a low voltage gain,c,easy
+8,What is the function of a snubber circuit?,To protect against voltage surges,To provide impedance matching,To regulate current,To filter out high-frequency noise,a,easy
+9,Which of the following components is commonly used as a voltage reference in analog-to-digital converters (ADCs)?,Resistor,Capacitor,Zener diode,Inductor,c,easy
+10,What is the purpose of negative feedback in an amplifier circuit?,To increase gain,To decrease gain,To reduce distortion,To increase output impedance,c,easy
+11,Which of the following is NOT a type of amplifier?,Differential amplifier,Push-pull amplifier,Comparator amplifier,Class D amplifier,c,easy
+12,What is the primary function of a choke in a power supply filter circuit?,To block DC current,To block AC current,To smooth out voltage fluctuations,To provide impedance matching,c,easy
+13,Which of the following components is commonly used as a switch in digital circuits?,Capacitor,Transistor,Inductor,Resistor,b,easy
+14,Which type of amplifier operates in the linear region for the entire input signal cycle?,Class A amplifier,Class B amplifier,Class AB amplifier,Class C amplifier,a,easy
+15,What is the primary function of a voltage comparator?,To amplify signals,To compare two input voltages and produce a digital output,To regulate voltage,To store energy,b,easy
+16,Which of the following components is commonly used to generate a square wave output?,Capacitor,Diode,Operational amplifier,Astable multivibrator circuit,d,easy
+17,What is the main purpose of a voltage multiplier circuit?,To increase current,To decrease voltage,To generate a higher DC voltage from a lower input voltage,To regulate current,c,easy
+18,Which of the following is true about a common collector (emitter follower) transistor configuration?,It provides voltage gain,It provides current gain,It has a high input impedance,It has a low output impedance,b,easy
+19,What is the function of a varactor diode?,To store energy,To amplify signals,To regulate voltage,To vary its capacitance with applied voltage,d,easy
+20,What is the purpose of a phase-locked loop (PLL) circuit?,To generate a stable output frequency,To amplify signals,To regulate voltage,To store energy,a,easy
+21,Which of the following is a characteristic of a common gate transistor configuration?,It provides voltage gain,It provides current gain,It has a high input impedance,It has a low output impedance,c,easy
+22,What is the function of a voltage divider bias circuit in a transistor amplifier?,To provide DC biasing to the transistor,To amplify signals,To regulate voltage,To store energy,a,easy
+23,What is the purpose of a resistor in a circuit?,To store energy,To amplify signals,To regulate voltage,To limit current,d,easy
+24,Which of the following components is used for signal amplification?,Capacitor,Diode,Transistor,Inductor,c,easy
+25,Which of the following is a passive electronic component?,Transistor,Op-amp,Resistor,Voltage Regulator,c,easy
+26,What is the unit of capacitance?,Ampere,Ohm,Farad,Volt,c,easy
+27,"In a DC circuit, what happens when a capacitor is fully charged?",It blocks current flow,It conducts current,It increases resistance,It decreases voltage,a,easy
+28,Which of the following components allows current flow in only one direction?,Capacitor,Inductor,Diode,Resistor,c,easy
+29,What is the function of a rectifier circuit?,To convert DC to AC,To convert AC to DC,To amplify signals,To regulate voltage,b,easy
+30,Which of the following is a characteristic of an ideal op-amp?,Low input impedance,High output impedance,Infinite open-loop gain,High voltage gain,c,easy
+31,What is the purpose of a voltage regulator?,To convert AC to DC,To stabilize output voltage,To amplify signals,To block current flow,b,easy
+32,Which of the following components stores energy in a magnetic field?,Capacitor,Diode,Transistor,Inductor,d,easy
+33,What is the SI unit of resistance?,Ohm,Farad,Ampere,Volt,a,easy
+34,"In a series circuit, how does the total resistance change as more resistors are added?",Increases,Decreases,Remains the same,Depends on the value of resistors,a,easy
+35,"What does the term ""biasing"" refer to in electronics?",Filtering unwanted signals,Adjusting the operating point of a component,Amplifying signals,Regulating voltage,b,easy
+36,What is the primary function of a capacitor in a circuit?,To store energy,To amplify signals,To regulate current,To control voltage,a,easy
+37,Which type of diode emits light when forward biased?,Zener diode,Schottky diode,Photodiode,Light-emitting diode (LED),d,easy
+38,What is the main purpose of a transistor?,To store energy,To amplify or switch electronic signals,To regulate voltage,To block current flow,b,easy
+39,Which of the following components is commonly used as a voltage reference in electronic circuits?,Resistor,Transistor,Zener diode,Inductor,c,easy
+40,What is the characteristic curve of a diode called?,Transfer curve,Load line,I-V curve,Q-point,c,easy
+41,"What does the term ""gain"" refer to in electronic circuits?",The rate of change of voltage with respect to current,The ratio of output voltage to input voltage,The total resistance in a circuit,The efficiency of a circuit,b,easy
+42,What is the function of a capacitor in a filter circuit?,To limit current,To store energy,To amplify signals,To block certain frequencies,d,easy
+43,Which of the following is true about an NPN transistor?,It conducts when the base-emitter junction is reverse biased,It conducts when the base-emitter junction is forward biased,It has a positive collector voltage,It has a negative collector voltage,b,easy
+44,Which type of amplifier has a very high input impedance and very low output impedance?,Class A amplifier,Class B amplifier,Operational amplifier (Op-amp),Class AB amplifier,c,easy
+45,What is the function of a flyback diode connected across an inductive load?,To prevent reverse voltage spikes,To amplify signals,To regulate current,To store energy,a,easy
+46,Which of the following statements is true about a Zener diode?,It has a constant forward voltage drop,It is always operated in the forward bias region,It is used for voltage regulation,It has a high reverse breakdown voltage,c,easy
+47,Which of the following is NOT a characteristic of an ideal diode?,Zero forward voltage drop,Infinitely large reverse breakdown voltage,Infinite forward current,Zero reverse current,a,easy
+48,What is the primary purpose of a voltage follower circuit?,Voltage amplification,Voltage regulation,Impedance matching,To provide high input impedance and low output impedance,d,easy
+49,What is the output voltage of an inverting op-amp circuit if the input voltage is positive?,Positive,Negative,Zero,Depends on the op-amp configuration,b,easy
+50,Which of the following is NOT a characteristic of an ideal operational amplifier (Op-amp)?,Infinite bandwidth,Infinite slew rate,Zero input offset voltage,Zero output impedance,d,medium
+51,"In a common emitter amplifier, the input signal is applied to which terminal?",Base,Collector,Emitter,None of the above,a,medium
+52,What is the purpose of a bypass capacitor in a power supply?,To provide DC isolation,To stabilize the voltage,To filter out high-frequency noise,To regulate current,c,medium
+53,Which type of diode has the fastest switching speed?,Schottky diode,Zener diode,Light-emitting diode (LED),Silicon rectifier diode,a,medium
+54,"In a common collector amplifier, the output voltage is taken from which terminal?",Base,Collector,Emitter,None of the above,c,medium
+55,Which of the following statements about a BJT transistor is true?,"It has three terminals: source, gate, and drain.",It operates in the saturation region when both junctions are reverse-biased.,It has a negative temperature coefficient of resistance.,It exhibits current gain when used in the active region.,d,medium
+56,What is the purpose of negative feedback in an amplifier circuit?,To increase gain,To decrease gain,To improve stability and linearity,To increase distortion,c,medium
+57,Which of the following components can be used to implement a low-pass filter?,Inductor,Capacitor,Resistor,All of the above,d,medium
+58,"In a full-wave rectifier circuit, how many diodes are used?",One,Two,Three,Four,b,medium
+59,Which type of transistor has the highest input impedance?,NPN bipolar junction transistor (BJT),PNP bipolar junction transistor (BJT),N-channel MOSFET,P-channel MOSFET,c,medium
+60,What is the primary function of a differentiator circuit?,To integrate the input signal,To differentiate the input signal,To amplify the input signal,To attenuate the input signal,b,medium
+61,What is the purpose of a decoupling capacitor in a circuit?,To provide negative feedback,To block DC while allowing AC to pass,To regulate voltage,To amplify signals,b,medium
+62,Which of the following is a characteristic of an ideal diode?,Zero forward voltage drop,Infinite reverse breakdown voltage,Zero reverse current,All of the above,d,medium
+63,What is the purpose of a voltage follower circuit?,To amplify signals,To regulate voltage,To provide high input impedance and low output impedance,To provide negative feedback,c,medium
+64,Which of the following configurations provides the highest current gain in a bipolar junction transistor (BJT)?,Common emitter,Common base,Common collector,None of the above,c,medium
+65,What is the function of a choke coil in a power supply filter circuit?,To block DC current,To block AC current,To smooth out voltage fluctuations,To provide impedance matching,c,medium
+66,Which of the following is true about a JFET?,It has a high input impedance,It operates in the enhancement mode,It has a negative temperature coefficient of resistance,It exhibits current gain,a,medium
+67,What is the purpose of a voltage divider circuit?,To amplify signals,To regulate voltage,To divide voltage,To control current,c,medium
+68,Which of the following components is commonly used as a voltage reference in electronic circuits?,Resistor,Transistor,Zener diode,Inductor,c,medium
+69,Which of the following is NOT a characteristic of a common collector amplifier?,High input impedance,Low output impedance,Voltage gain,Current gain,c,medium
+70,What is the primary function of a Wien bridge oscillator?,To generate a sinusoidal waveform,To amplify signals,To regulate voltage,To provide impedance matching,a,medium
+71,Which of the following is a characteristic of an ideal inductor?,Zero resistance,Infinite self-inductance,Zero inductance,Infinite capacitance,a,medium
+72,What is the primary function of a clamper circuit?,To shift the DC level of a signal,To remove the DC component from a signal,To stabilize the voltage,To amplify signals,a,medium
+73,What is the function of a voltage comparator?,To amplify signals,To compare two input voltages and produce a digital output,To regulate voltage,To store energy,b,medium
+74,Which of the following components is commonly used to generate a sawtooth waveform?,Capacitor,Resistor,Operational amplifier,Ramp generator circuit,d,medium
+75,What is the primary function of a rectifier circuit?,To convert DC to AC,To convert AC to DC,To amplify signals,To regulate voltage,b,medium
+76,Which of the following is a characteristic of an emitter follower configuration?,High input impedance,Voltage gain less than unity,High voltage gain,Low output impedance,b,medium
+77,What is the primary purpose of a cascode amplifier configuration?,To increase voltage gain,To decrease input impedance,To decrease output impedance,To improve bandwidth,d,medium
+78,Which of the following is true about a voltage regulator?,It increases output voltage,It decreases output voltage,It stabilizes output voltage,It amplifies signals,c,medium
+79,What is the function of a sample-and-hold circuit?,To store energy,To convert analog signals to digital signals,To sample an analog signal and hold its value constant for a specified duration,To amplify signals,c,medium
+80,Which of the following components is commonly used as a temperature sensor?,Resistor,Transistor,Thermistor,Capacitor,c,medium
+81,What is the primary function of a differentiator circuit?,To integrate the input signal,To differentiate the input signal,To amplify the input signal,To attenuate the input signal,b,medium
+82,What is the purpose of a voltage divider biasing in a transistor amplifier circuit?,To provide stabilization,To provide temperature compensation,To provide DC biasing,To amplify the input signal,c,medium
+83,Which of the following is a characteristic of a common emitter amplifier?,High input impedance and low output impedance,High input impedance and high output impedance,Low input impedance and low output impedance,Low input impedance and high output impedance,c,medium
+84,What is the purpose of a bootstrapping circuit?,To provide negative feedback,To increase the input impedance of an amplifier,To increase the output impedance of an amplifier,To increase the gain of an amplifier,b,medium
+85,Which of the following is a characteristic of an ideal capacitor?,Infinite capacitance,Zero leakage current,Infinite self-inductance,Zero reactance,b,medium
+86,What is the primary function of a Wien bridge oscillator?,To generate a sinusoidal waveform,To amplify signals,To regulate voltage,To provide impedance matching,a,medium
+87,Which of the following components is commonly used as a voltage reference in electronic circuits?,Resistor,Transistor,Zener diode,Inductor,c,medium
+88,Which of the following configurations provides the highest current gain in a bipolar junction transistor (BJT)?,Common emitter,Common base,Common collector,None of the above,c,medium
+89,What is the purpose of a clamper circuit?,To shift the DC level of a signal,To remove the DC component from a signal,To stabilize the voltage,To amplify signals,a,medium
+90,What is the function of a voltage comparator?,To amplify signals,To compare two input voltages and produce a digital output,To regulate voltage,To store energy,b,medium
+91,Which of the following components is commonly used to generate a sawtooth waveform?,Capacitor,Resistor,Operational amplifier,Ramp generator circuit,d,medium
+92,What is the primary function of a rectifier circuit?,To convert DC to AC,To convert AC to DC,To amplify signals,To regulate voltage,b,medium
+93,Which of the following is true about a JFET?,It has a high input impedance,It operates in the enhancement mode,It has a negative temperature coefficient of resistance,It exhibits current gain,a,medium
+94,What is the primary function of a clamper circuit?,To shift the DC level of a signal,To remove the DC component from a signal,To stabilize the voltage,To amplify signals,a,medium
+95,Which of the following is NOT a characteristic of a common collector amplifier?,High input impedance,Low output impedance,Voltage gain,Current gain,c,medium
+96,What is the primary purpose of a cascode amplifier configuration?,To increase voltage gain,To decrease input impedance,To decrease output impedance,To improve bandwidth,d,medium
+97,Which of the following is true about a voltage regulator?,It increases output voltage,It decreases output voltage,It stabilizes output voltage,It amplifies signals,c,medium
+98,What is the function of a sample-and-hold circuit?,To store energy,To convert analog signals to digital signals,To sample an analog signal and hold its value constant for a specified duration,To amplify signals,c,medium
+99,Which of the following components is commonly used as a temperature sensor?,Resistor,Transistor,Thermistor,Capacitor,c,medium
+100,What is the function of a phase-locked loop (PLL) circuit in communication systems?,To regulate voltage,To generate frequency-modulated signals,To provide impedance matching,To synchronize the phase of an output signal with a reference signal,d,medium
+101,"In an operational amplifier (Op-amp), what is the purpose of the compensation capacitor?",To stabilize the gain-bandwidth product,To provide negative feedback,To increase the slew rate,To reduce input bias current,a,hard
+102,Which of the following configurations provides the highest voltage gain in a bipolar junction transistor (BJT)?,Common emitter,Common base,Common collector,Differential pair,b,hard
+103,What is the function of a gyrator circuit?,To simulate an inductor using capacitors and resistors,To amplify signals,To generate a sinusoidal waveform,To regulate voltage,a,hard
+104,What is the primary function of a Wien bridge oscillator?,To generate a sinusoidal waveform,To amplify signals,To regulate voltage,To provide impedance matching,a,hard
+105,Which of the following is a characteristic of a current mirror circuit?,It has a low output impedance,It has a high input impedance,It produces a constant output current,It provides voltage amplification,c,hard
+106,What is the function of a switched-capacitor circuit?,To provide voltage regulation,To amplify signals,To simulate resistors,To perform analog-to-digital conversion,d,hard
+107,Which type of transistor configuration is commonly used in radio frequency (RF) amplifiers?,Common emitter,Common base,Common collector,Darlington pair,b,hard
+108,What is the primary function of a bootstrap circuit?,To provide negative feedback,To increase the input impedance of an amplifier,To increase the output impedance of an amplifier,To increase the gain of an amplifier,b,hard
+109,Which of the following is true about a Darlington pair transistor configuration?,It has a high input impedance,It provides voltage gain,It provides high current gain,It has a low output impedance,c,hard
+110,What is the purpose of a Gilbert cell in analog multiplier circuits?,To provide voltage regulation,To perform current-to-voltage conversion,To generate a reference voltage,To perform multiplication of two input signals,d,hard
+111,Which of the following components is commonly used in Wien bridge oscillators for frequency stabilization?,Resistor,Capacitor,Inductor,Thermistor,d,hard
+112,"In a differential amplifier, what is the purpose of the tail resistor?",To provide voltage gain,To stabilize the biasing current,To provide negative feedback,To block DC components,b,hard
+113,Which of the following is true about a current feedback amplifier (CFA)?,It has a high input impedance,It has a low output impedance,It exhibits voltage gain,It provides wide bandwidth with high slew rate,d,hard
+114,What is the primary function of a transconductance amplifier?,To amplify voltage signals,To amplify current signals,To convert voltage signals to current signals,To perform impedance matching,c,hard
+115,Which of the following is NOT a characteristic of a Colpitts oscillator?,It uses a tapped capacitor for feedback,It has a frequency-stable output,It provides wide frequency tuning range,It requires a crystal for operation,d,hard
+116,What is the primary function of a voltage-controlled oscillator (VCO)?,To amplify voltage signals,To convert voltage signals to current signals,To generate a frequency-modulated output,To provide negative feedback,c,hard
+117,Which of the following components is commonly used in voltage-controlled filters (VCFs) for frequency tuning?,Resistor,Capacitor,Inductor,Varactor diode,d,hard
+118,What is the primary function of a phase detector in a phase-locked loop (PLL) circuit?,To generate a reference signal,To compare the phase of an input signal with a reference signal,To amplify signals,To provide negative feedback,b,hard
+119,Which of the following is true about a Wien bridge oscillator?,It uses an op-amp and resistors for feedback,It provides frequency stability over a wide range,It requires a crystal for operation,It generates square wave output,b,hard
+120,What is the primary function of a gyrator circuit?,To amplify signals,To simulate an inductor using capacitors and resistors,To generate a sinusoidal waveform,To regulate voltage,b,hard
+121,Which of the following is true about a cascode amplifier configuration?,It provides high voltage gain,It provides high current gain,It has a low input impedance,It has a high output impedance,a,hard
+122,What is the primary function of a Gilbert cell in analog multiplier circuits?,To provide voltage regulation,To perform current-to-voltage conversion,To generate a reference voltage,To perform multiplication of two input signals,d,hard
+123,"In a differential amplifier, what is the purpose of the tail resistor?",To provide voltage gain,To stabilize the biasing current,To provide negative feedback,To block DC components,b,hard
+124,Which of the following is true about a current feedback amplifier (CFA)?,It has a high input impedance,It has a low output impedance,It exhibits voltage gain,It provides wide bandwidth with high slew rate,d,hard
+125,What is the primary function of a transconductance amplifier?,To amplify voltage signals,To amplify current signals,To convert voltage signals to current signals,To perform impedance matching,c,hard
+126,Which of the following is NOT a characteristic of a Colpitts oscillator?,It uses a tapped capacitor for feedback,It has a frequency-stable output,It provides wide frequency tuning range,It requires a crystal for operation,d,hard
+127,What is the primary function of a voltage-controlled oscillator (VCO)?,To amplify voltage signals,To convert voltage signals to current signals,To generate a frequency-modulated output,To provide negative feedback,c,hard
+128,Which of the following components is commonly used in voltage-controlled filters (VCFs) for frequency tuning?,Resistor,Capacitor,Inductor,Varactor diode,d,hard
+129,What is the primary function of a phase detector in a phase-locked loop (PLL) circuit?,To generate a reference signal,To compare the phase of an input signal with a reference signal,To amplify signals,To provide negative feedback,b,hard
+130,Which of the following is true about a Wien bridge oscillator?,It uses an op-amp and resistors for feedback,It provides frequency stability over a wide range,It requires a crystal for operation,It generates square wave output,b,hard
+131,What is the primary function of a gyrator circuit?,To amplify signals,To simulate an inductor using capacitors and resistors,To generate a sinusoidal waveform,To regulate voltage,b,hard
+132,Which of the following is true about a cascode amplifier configuration?,It provides high voltage gain,It provides high current gain,It has a low input impedance,It has a high output impedance,a,hard
+133,What is the primary function of a Gilbert cell in analog multiplier circuits?,To provide voltage regulation,To perform current-to-voltage conversion,To generate a reference voltage,To perform multiplication of two input signals,d,hard
+134,"In a differential amplifier, what is the purpose of the tail resistor?",To provide voltage gain,To stabilize the biasing current,To provide negative feedback,To block DC components,b,hard
+135,Which of the following is true about a current feedback amplifier (CFA)?,It has a high input impedance,It has a low output impedance,It exhibits voltage gain,It provides wide bandwidth with high slew rate,d,hard
+136,What is the primary function of a transconductance amplifier?,To amplify voltage signals,To amplify current signals,To convert voltage signals to current signals,To perform impedance matching,c,hard
+137,Which of the following is NOT a characteristic of a Colpitts oscillator?,It uses a tapped capacitor for feedback,It has a frequency-stable output,It provides wide frequency tuning range,It requires a crystal for operation,d,hard
+138,What is the primary function of a voltage-controlled oscillator (VCO)?,To amplify voltage signals,To convert voltage signals to current signals,To generate a frequency-modulated output,To provide negative feedback,c,hard
+139,Which of the following components is commonly used in voltage-controlled filters (VCFs) for frequency tuning?,Resistor,Capacitor,Inductor,Varactor diode,d,hard
+140,What is the primary function of a phase detector in a phase-locked loop (PLL) circuit?,To generate a reference signal,To compare the phase of an input signal with a reference signal,To amplify signals,To provide negative feedback,b,hard
+141,Which of the following is true about a Wien bridge oscillator?,It uses an op-amp and resistors for feedback,It provides frequency stability over a wide range,It requires a crystal for operation,It generates square wave output,b,hard
+142,What is the primary function of a gyrator circuit?,To amplify signals,To simulate an inductor using capacitors and resistors,To generate a sinusoidal waveform,To regulate voltage,b,hard
+143,Which of the following is true about a cascode amplifier configuration?,It provides high voltage gain,It provides high current gain,It has a low input impedance,It has a high output impedance,a,hard
+144,What is the primary function of a Gilbert cell in analog multiplier circuits?,To provide voltage regulation,To perform current-to-voltage conversion,To generate a reference voltage,To perform multiplication of two input signals,d,hard
+145,"In a differential amplifier, what is the purpose of the tail resistor?",To provide voltage gain,To stabilize the biasing current,To provide negative feedback,To block DC components,b,hard
+146,Which of the following is true about a current feedback amplifier (CFA)?,It has a high input impedance,It has a low output impedance,It exhibits voltage gain,It provides wide bandwidth with high slew rate,d,hard
+147,Which of the following is true about a current feedback amplifier (CFA)?,It has a high input impedance,It has a low output impedance,It exhibits voltage gain,It provides wide bandwidth with high slew rate,d,hard
+148,What is the primary function of a transconductance amplifier?,To amplify voltage signals,To amplify current signals,To convert voltage signals to current signals,To perform impedance matching,c,hard
+149,Which of the following is NOT a characteristic of a Colpitts oscillator?,It uses a tapped capacitor for feedback,It has a frequency-stable output,It provides wide frequency tuning range,It requires a crystal for operation,d,hard
+150,What is the primary function of a voltage-controlled oscillator (VCO)?,To amplify voltage signals,To convert voltage signals to current signals,To generate a frequency-modulated output,To provide negative feedback,c,hard

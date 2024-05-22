@@ -1,0 +1,151 @@
+Qid,Question,A,B,C,D,Answer,Level
+1,What is the fundamental unit of digital data representation?,Bit,Byte,Word,Nibble,A,Easy
+2,Which logic gate outputs a high signal only when all inputs are high?,AND gate,OR gate,NOT gate,XOR gate,A,Easy
+3,What is the result of performing a logical AND operation between 0 and 1?,0,1,Undefined,Error,A,Easy
+4,Which gate produces the complement of its input?,NOT gate,OR gate,AND gate,XOR gate,A,Easy
+5,How many bits are in a byte?,4,8,16,32,B,Easy
+6,Which logic gate outputs a high signal when any of its inputs are high?,OR gate,AND gate,NOT gate,XOR gate,A,Easy
+7,What is the result of performing a logical OR operation between 0 and 1?,0,1,Undefined,Error,B,Easy
+8,Which gate performs addition in binary arithmetic?,Half Adder,Full Adder,XOR gate,OR gate,B,Easy
+9,What is the output of an XOR gate if both inputs are the same?,0,1,Undefined,Error,A,Easy
+10,Which gate is equivalent to the negation of an AND gate?,NOR gate,XOR gate,NAND gate,XNOR gate,C,Easy
+11,What is the result of performing a logical NAND operation between 1 and 1?,0,1,Undefined,Error,A,Easy
+12,Which gate is known as the Universal Gate?,NOR gate,NAND gate,XOR gate,XNOR gate,B,Easy
+13,What is the binary representation of the decimal number 5?,101,1010,11,1001,D,Easy
+14,Which gate outputs a high signal only when one input is high and the other is low?,XOR gate,AND gate,OR gate,NOT gate,A,Easy
+15,What is the result of performing a logical NOR operation between 0 and 0?,0,1,Undefined,Error,B,Easy
+16,Which gate performs subtraction in binary arithmetic?,Half Subtractor,Full Subtractor,XOR gate,AND gate,B,Easy
+17,What is the output of an XNOR gate if both inputs are different?,0,1,Undefined,Error,A,Easy
+18,What is the binary representation of the decimal number 10?,100,1010,11,1101,B,Easy
+19,Which gate is equivalent to the negation of an OR gate?,NOR gate,XOR gate,NAND gate,XNOR gate,A,Easy
+20,What is the result of performing a logical XNOR operation between 1 and 0?,0,1,Undefined,Error,A,Easy
+21,What is the output of an AND gate if one input is 0 and the other is 1?,0,1,Undefined,Error,A,Easy
+22,Which gate is equivalent to the negation of an XOR gate?,NOR gate,NAND gate,OR gate,XNOR gate,D,Easy
+23,What is the binary representation of the decimal number 3?,10,110,11,1101,C,Easy
+24,Which gate is used to implement addition with carry in binary arithmetic?,Half Adder,Full Adder,XOR gate,AND gate,B,Easy
+25,What is the output of an OR gate if both inputs are 0?,0,1,Undefined,Error,A,Easy
+26,Which gate is equivalent to the negation of a NOR gate?,AND gate,XOR gate,NAND gate,XNOR gate,C,Easy
+27,What is the binary representation of the decimal number 7?,111,1001,101,1110,A,Easy
+28,Which gate is used to implement subtraction with borrow in binary arithmetic?,Half Subtractor,Full Subtractor,XOR gate,OR gate,B,Easy
+29,What is the output of a NAND gate if both inputs are 1?,0,1,Undefined,Error,A,Easy
+30,Which gate is equivalent to the negation of an XNOR gate?,NOR gate,NAND gate,OR gate,XOR gate,D,Easy
+31,What is the binary representation of the decimal number 15?,1100,1010,1111,100,C,Easy
+32,Which gate is used to implement the logical function A'B + AB'?,XOR gate,NAND gate,OR gate,AND gate,B,Easy
+33,What is the output of an OR gate if one input is 1 and the other is 0?,0,1,Undefined,Error,B,Easy
+34,Which gate is used to implement the logical function A XOR B?,XOR gate,NAND gate,OR gate,AND gate,A,Easy
+35,What is the result of performing a logical AND operation between 1 and 0?,0,1,Undefined,Error,A,Easy
+36,Which gate is used to implement the logical function A OR B?,OR gate,NAND gate,XOR gate,AND gate,A,Easy
+37,What is the binary representation of the decimal number 12?,1010,1100,1110,110,B,Easy
+38,Which gate is used to implement the logical function A AND B?,AND gate,NAND gate,XOR gate,OR gate,A,Easy
+39,What is the result of performing a logical OR operation between 0 and 0?,0,1,Undefined,Error,A,Easy
+40,Which gate is used to implement the logical function A NOR B?,NOR gate,NAND gate,XOR gate,AND gate,A,Easy
+41,What is the binary representation of the decimal number 9?,1001,1010,110,11,A,Easy
+42,Which gate is used to implement the logical function A XNOR B?,XNOR gate,NAND gate,OR gate,AND gate,A,Easy
+43,What is the result of performing a logical XOR operation between 1 and 0?,0,1,Undefined,Error,B,Easy
+44,Which gate is used to implement the logical function A + B?,OR gate,NAND gate,XOR gate,AND gate,A,Easy
+45,What is the binary representation of the decimal number 6?,1001,110,100,1100,B,Easy
+46,Which gate is used to implement the logical function A' + B'?,NOR gate,NAND gate,XOR gate,AND gate,A,Easy
+47,What is the result of performing a logical NAND operation between 0 and 1?,0,1,Undefined,Error,B,Easy
+48,Which gate is used to implement the logical function A + B'?,OR gate,NAND gate,XOR gate,AND gate,B,Easy
+49,What is the binary representation of the decimal number 14?,1010,110,1110,101,C,Easy
+50,Which gate is used to implement the logical function A'B'?,NOR gate,NAND gate,XOR gate,AND gate,B,Easy
+51,Which logic gate outputs a high signal if any of its inputs are high and the others are low?,OR gate,NOR gate,NAND gate,XOR gate,B,Medium
+52,What is the output of an XOR gate if both inputs are the same?,0,1,Undefined,Error,A,Medium
+53,Which gate is used to implement subtraction in binary arithmetic?,Half Adder,Full Adder,Half Subtractor,Full Subtractor,C,Medium
+54,What is the result of performing a logical XOR operation between 0 and 0?,0,1,Undefined,Error,A,Medium
+55,Which gate is used to implement the logical function A AND B?,AND gate,NOR gate,NAND gate,XOR gate,A,Medium
+56,What is the binary representation of the decimal number 13?,1101,1011,1110,1001,A,Medium
+57,Which gate is used to implement the logical function A OR B?,OR gate,NOR gate,NAND gate,XOR gate,A,Medium
+58,What is the output of an OR gate if both inputs are 1?,0,1,Undefined,Error,B,Medium
+59,Which gate is used to implement the logical function A XOR B?,XOR gate,NOR gate,NAND gate,OR gate,A,Medium
+60,What is the result of performing a logical AND operation between 1 and 1?,0,1,Undefined,Error,B,Medium
+61,Which gate is used to implement addition in binary arithmetic?,Half Adder,Full Adder,Half Subtractor,Full Subtractor,B,Medium
+62,What is the output of an AND gate if one input is 0 and the other is 1?,0,1,Undefined,Error,A,Medium
+63,Which gate is used to implement the logical function A' + B'?,NOR gate,NAND gate,XOR gate,AND gate,A,Medium
+64,What is the binary representation of the decimal number 11?,1001,1011,1101,1111,B,Medium
+65,Which gate is used to implement the logical function A + B'?,OR gate,NOR gate,NAND gate,XOR gate,C,Medium
+66,What is the result of performing a logical NAND operation between 0 and 0?,0,1,Undefined,Error,B,Medium
+67,Which gate is used to implement the logical function A + B?,OR gate,NOR gate,NAND gate,XOR gate,A,Medium
+68,What is the binary representation of the decimal number 15?,1001,1011,1111,1101,C,Medium
+69,Which gate is used to implement the logical function A NOR B?,NOR gate,NAND gate,XOR gate,AND gate,A,Medium
+70,What is the output of a NOR gate if both inputs are 0?,0,1,Undefined,Error,B,Medium
+71,Which gate is used to implement the logical function A XNOR B?,XNOR gate,NOR gate,NAND gate,XOR gate,A,Medium
+72,What is the result of performing a logical XNOR operation between 1 and 0?,0,1,Undefined,Error,B,Medium
+73,Which gate is used to implement the logical function A'B'?,NOR gate,NAND gate,XOR gate,AND gate,B,Medium
+74,What is the binary representation of the decimal number 7?,111,1011,1110,1111,A,Medium
+75,Which gate is used to implement the logical function A XOR B XOR C?,XOR gate,XNOR gate,NAND gate,NOR gate,A,Medium
+76,What is the output of a MUX (Multiplexer) with 3 select lines and 8 data inputs when select lines are 101?,Data input 1,Data input 3,Data input 5,Data input 7,C,Medium
+77,Which flip-flop type does not require a clock signal for operation?,SR Flip-Flop,JK Flip-Flop,D Flip-Flop,T Flip-Flop,A,Medium
+78,What is the purpose of a Gray code?,To encode digital signals with minimal transition errors,To implement error detection in digital circuits,To simplify the design of sequential logic circuits,To improve the speed of digital data transmission,A,Medium
+79,"In a 4-bit binary ripple counter, how many flip-flops are needed?",4,8,16,32,A,Medium
+80,What is the characteristic of a synchronous counter?,It has flip-flops connected in a cascade fashion,It has flip-flops with asynchronous clock inputs,It uses clock signals to synchronize the state changes of flip-flops,It is slower than an asynchronous counter,C,Medium
+81,Which type of ADC (Analog-to-Digital Converter) divides the analog input range into equal intervals?,Flash ADC,Successive Approximation ADC,Dual Slope ADC,Sigma-Delta ADC,A,Medium
+82,What is the primary function of a decoder in digital circuits?,To generate clock signals,To perform arithmetic operations,To convert binary data into a specific output format,To select one of several output lines based on an input code,D,Medium
+83,"In a combinational circuit, what is the propagation delay?",The time taken for input changes to affect the output,The time taken for output changes to propagate through the circuit,The time taken for a signal to reach the maximum voltage level,The time taken for a flip-flop to change its state,A,Medium
+84,Which type of logic gate is the basis for all other logic gates?,NOT gate,NAND gate,NOR gate,XOR gate,B,Medium
+85,What is the function of a digital comparator?,To compare analog signals,To compare digital signals and determine their relative magnitudes,To perform arithmetic operations on digital data,To convert digital signals into analog signals,B,Medium
+86,"In a sequential logic circuit, what is a race condition?",A condition where two signals arrive at a flip-flop simultaneously,A condition where the output oscillates between two states,A condition where the output depends on the race outcome,A condition where the clock signal is too slow for proper operation,A,Medium
+87,What is the purpose of a multiplexer?,To perform arithmetic operations on multiple inputs,To encode digital signals into Gray code,To select one of several input signals and route it to a single output,To decode encoded digital signals,C,Medium
+88,Which logic gate is equivalent to an AND gate followed by a NOT gate?,NAND gate,NOR gate,XOR gate,XNOR gate,A,Medium
+89,What is the primary function of a counter in digital circuits?,To count the number of clock cycles,To perform arithmetic operations,To convert analog signals into digital signals,To generate sequential binary codes,D,Medium
+90,"In a digital circuit, what is metastability?",A condition where the circuit output becomes unstable,A condition where a flip-flop enters an invalid state,A condition where signals oscillate due to interference,A condition where flip-flop inputs change close to the clock edge,D,Medium
+91,Which type of flip-flop is commonly used for frequency division?,SR Flip-Flop,D Flip-Flop,JK Flip-Flop,T Flip-Flop,D,Medium
+92,What is the function of a shift register in digital circuits?,To perform left or right shifts on binary numbers,To store and shift data serially,To perform bitwise AND or OR operations,To convert analog signals into digital signals,B,Medium
+93,Which logic gate can be used to implement any logical function?,NAND gate,NOR gate,XOR gate,AND gate,A,Medium
+94,What is the purpose of a D flip-flop's D input?,To provide the clock signal,To reset the flip-flop,To set the flip-flop to a specific state,To input the data to be stored in the flip-flop,D,Medium
+95,Which type of ADC (Analog-to-Digital Converter) is most suitable for high-resolution applications?,Flash ADC,Successive Approximation ADC,Dual Slope ADC,Sigma-Delta ADC,D,Medium
+96,"In a digital circuit, what is fan-out?",The number of inputs a gate can handle,The maximum frequency at which a circuit operates,The maximum current a gate can source or sink,The number of gates a signal can drive without degradation,A,Medium
+97,Which type of counter suffers from propagation delays and glitches?,Asynchronous counter,Synchronous counter,Ring counter,Johnson counter,A,Medium
+98,What is the function of a flip-flop in digital circuits?,To amplify digital signals,To store binary data,To perform arithmetic operations,To decode binary numbers,B,Medium
+99,"In digital logic, what is the purpose of using hysteresis in Schmitt Trigger circuits?",To reduce power consumption,To increase the speed of signal transitions,To provide noise immunity and improve signal integrity,To eliminate signal distortion,C,Medium
+100,Which type of flip-flop is used for frequency division?,SR Flip-Flop,D Flip-Flop,JK Flip-Flop,T Flip-Flop,D,Medium
+101,What is the characteristic of a Johnson counter?,It counts in binary-coded decimal (BCD) format,It produces a complementary output sequence,It has a self-correcting mechanism for errors,It has an output that circulates between 0 and 1 in a sequence,D,Hard
+102,What is the primary function of a digital-to-analog converter (DAC)?,To convert analog signals into digital signals,To amplify digital signals,To convert binary data into an analog voltage or current,To perform logical operations on digital signals,C,Hard
+103,Which type of logic gate is equivalent to an OR gate followed by an inverter?,NAND gate,NOR gate,XOR gate,AND gate,B,Hard
+104,What is the purpose of a comparator in digital circuits?,To compare analog signals,To compare digital signals and perform logical operations,To detect errors in data transmission,To synchronize clock signals,B,Hard
+105,Which type of flip-flop has separate inputs for setting and resetting its state?,SR Flip-Flop,D Flip-Flop,JK Flip-Flop,T Flip-Flop,A,Hard
+106,"In digital circuits, what is a glitch?",A brief pulse or disturbance in the output signal,A type of flip-flop,A synchronous counter,A type of logic gate,A,Hard
+107,Which type of counter has a single flip-flop and a feedback path?,Ring counter,Johnson counter,Asynchronous counter,Synchronous counter,B,Hard
+108,What is the purpose of a D flip-flop's clock input?,To set the flip-flop to a specific state,To input the data to be stored in the flip-flop,To provide the clock signal for state transitions,To reset the flip-flop,C,Hard
+109,Which type of ADC uses a staircase approximation approach?,Flash ADC,Successive Approximation ADC,Dual Slope ADC,Sigma-Delta ADC,B,Hard
+110,"In digital logic, what is metastability?",A condition where signals oscillate due to interference,A condition where the circuit output becomes unstable,A condition where flip-flop inputs change close to the clock edge,A condition where a flip-flop enters an invalid state,D,Hard
+111,What is the primary function of a multiplexer (MUX) in digital circuits?,To perform logical operations on multiple inputs,To store binary data temporarily,To route one of several input signals to a single output,To decode encoded digital signals,C,Hard
+112,Which type of logic gate has the highest noise margin?,NAND gate,NOR gate,XOR gate,AND gate,B,Hard
+113,"In a digital circuit, what is fan-in?",The number of gates a signal can drive without degradation,The maximum current a gate can source or sink,The maximum frequency at which a circuit operates,The number of input signals connected to a gate,D,Hard
+114,Which type of counter requires an external clock signal for operation?,Asynchronous counter,Synchronous counter,Ring counter,Johnson counter,B,Hard
+115,What is the primary function of a latch in digital circuits?,To store binary data,To perform logical operations on digital signals,To generate clock signals,To decode binary numbers,A,Hard
+116,What is the primary purpose of a PLA (Programmable Logic Array)?,To perform arithmetic operations,To provide configurable logic functions,To store digital data,To generate clock signals,B,Hard
+117,Which type of flip-flop is commonly used for synchronous circuits?,SR Flip-Flop,D Flip-Flop,JK Flip-Flop,T Flip-Flop,B,Hard
+118,What is the primary difference between a combinational circuit and a sequential circuit?,"Combinational circuits use memory elements, while sequential circuits do not.","Combinational circuits have feedback paths, while sequential circuits do not.","Combinational circuits produce outputs solely based on current inputs, while sequential circuits store state information.",Combinational circuits operate faster than sequential circuits.,C,Hard
+119,Which type of flip-flop is commonly used for state storage in digital systems?,SR Flip-Flop,D Flip-Flop,JK Flip-Flop,T Flip-Flop,B,Hard
+120,What is the main advantage of using a CPLD (Complex Programmable Logic Device) over an FPGA (Field-Programmable Gate Array)?,Lower power consumption,Higher performance,Lower cost,Greater flexibility in design modifications,B,Hard
+121,"In digital circuit design, what is meant by the term ""setup time""?",The minimum time a data signal must be stable before the clock edge,The maximum time a data signal can be stable after the clock edge,The time taken for a flip-flop to change its state after the clock edge,The time taken for a signal to propagate through a combinational circuit,A,Hard
+122,Which type of ADC (Analog-to-Digital Converter) is known for its simplicity but relatively slow conversion speed?,Flash ADC,Successive Approximation ADC,Dual Slope ADC,Sigma-Delta ADC,C,Hard
+123,What is the purpose of a DAC (Digital-to-Analog Converter)?,To convert analog signals into digital signals,To perform arithmetic operations on digital data,To convert digital signals into analog signals,To store digital data,C,Hard
+124,What is the primary function of a digital-to-analog converter (DAC)?,To convert analog signals into digital signals,To perform arithmetic operations on digital data,To convert digital signals into analog signals,To store digital data,C,Hard
+125,Which type of flip-flop has the ability to "toggle" its output state?,SR Flip-Flop,D Flip-Flop,JK Flip-Flop,T Flip-Flop,D,Hard
+126,What is the purpose of a counter in digital circuits?,To count the number of clock cycles,To perform arithmetic operations,To convert analog signals into digital signals,To generate sequential binary codes,D,Hard
+127,Which type of ADC (Analog-to-Digital Converter) is known for its high resolution and accuracy but requires a longer conversion time?,Flash ADC,Successive Approximation ADC,Dual Slope ADC,Sigma-Delta ADC,B,Hard
+128,What is the primary function of a ROM (Read-Only Memory)?,To store digital data that cannot be modified,To perform arithmetic operations on digital data,To provide temporary storage for intermediate results,To convert digital signals into analog signals,A,Hard
+129,"In digital circuits, what is meant by the term ""hazard""?",A condition where a signal oscillates between high and low states,A condition where the output transitions before the input,A condition where two signals arrive at a flip-flop simultaneously,A condition where a flip-flop enters an invalid state,B,Hard
+130,What is the function of a demultiplexer in digital circuits?,To select one of several input signals and route it to a single output,To perform arithmetic operations on multiple inputs,To provide configurable logic functions,To decode encoded digital signals,A,Hard
+131,Which type of flip-flop has the ability to "hold" its output state until a clock pulse occurs?,SR Flip-Flop,D Flip-Flop,JK Flip-Flop,T Flip-Flop,B,Hard
+132,"In digital circuit design, what is meant by the term ""hold time""?",The minimum time a data signal must be stable before the clock edge,The maximum time a data signal can be stable after the clock edge,The time taken for a flip-flop to change its state after the clock edge,The time taken for a signal to propagate through a combinational circuit,B,Hard
+133,What is the primary function of a shift register in digital circuits?,To perform left or right shifts on binary numbers,To store and shift data serially,To perform bitwise AND or OR operations,To convert analog signals into digital signals,B,Hard
+134,What is the primary function of a multiplexer in digital circuits?,To perform arithmetic operations on multiple inputs,To encode digital signals into Gray code,To select one of several input signals and route it to a single output,To decode encoded digital signals,C,Hard
+135,Which type of flip-flop has the ability to "hold" its output state until a clock pulse occurs?,SR Flip-Flop,D Flip-Flop,JK Flip-Flop,T Flip-Flop,B,Hard
+136,What is the purpose of a flip-flop's clock input?,To set the flip-flop to a specific state,To reset the flip-flop,To input the data to be stored in the flip-flop,To synchronize state changes with other flip-flops,D,Hard
+137,"In digital circuit design, what is meant by the term ""hold time""?",The minimum time a data signal must be stable before the clock edge,The maximum time a data signal can be stable after the clock edge,The time taken for a flip-flop to change its state after the clock edge,The time taken for a signal to propagate through a combinational circuit,B,Hard
+138,What is the purpose of a ROM (Read-Only Memory)?,To provide temporary storage for intermediate results,To perform arithmetic operations on digital data,To store digital data that cannot be modified,To convert digital signals into analog signals,C,Hard
+139,"In digital circuit design, what is meant by the term ""metastability""?",A condition where the circuit output becomes unstable,A condition where a flip-flop enters an invalid state,A condition where signals oscillate due to interference,A condition where flip-flop inputs change close to the clock edge,B,Hard
+140,Which type of flip-flop has the ability to "toggle" its output state?,SR Flip-Flop,D Flip-Flop,JK Flip-Flop,T Flip-Flop,D,Hard
+141,What is the primary function of a counter in digital circuits?,To count the number of clock cycles,To perform arithmetic operations,To convert analog signals into digital signals,To generate sequential binary codes,D,Hard
+142,Which type of ADC (Analog-to-Digital Converter) is known for its ability to achieve high resolution and low noise?,Flash ADC,Successive Approximation ADC,Dual Slope ADC,Sigma-Delta ADC,D,Hard
+143,"In digital circuit design, what is meant by the term ""glitch""?",A condition where a signal oscillates between high and low states,A momentary output pulse that occurs when inputs change,A condition where the output transitions before the input,A condition where a flip-flop enters an invalid state,B,Hard
+144,What is the primary purpose of a FPGA (Field-Programmable Gate Array)?,To provide configurable logic functions,To perform arithmetic operations on digital data,To store digital data,To generate clock signals,A,Hard
+145,"In digital circuit design, what is meant by the term ""critical path""?",The longest propagation delay from input to output,The shortest propagation delay from input to output,The maximum frequency at which a circuit operates,The minimum frequency at which a circuit operates,A,Hard
+146,What is the primary function of a counter in digital circuits?,To count the number of clock cycles,To perform arithmetic operations,To convert analog signals into digital signals,To generate sequential binary codes,D,Hard
+147,Which type of ADC (Analog-to-Digital Converter) is known for its ability to achieve high resolution and low noise?,Flash ADC,Successive Approximation ADC,Dual Slope ADC,Sigma-Delta ADC,D,Hard
+148,"In digital circuit design, what is meant by the term ""glitch""?",A condition where a signal oscillates between high and low states,A momentary output pulse that occurs when inputs change,A condition where the output transitions before the input,A condition where a flip-flop enters an invalid state,B,Hard
+149,What is the primary purpose of a FPGA (Field-Programmable Gate Array)?,To provide configurable logic functions,To perform arithmetic operations on digital data,To store digital data,To generate clock signals,A,Hard
+150,What is the purpose of a ROM (Read-Only Memory)?,To provide temporary storage for intermediate results,To perform arithmetic operations on digital data,To store digital data that cannot be modified,To convert digital signals into analog signals,C,Hard

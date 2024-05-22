@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>Look for a Job</title>
+<style>
+body{
+margin:0;
+background-color:rgb(215,192,250);
+}
+#b1.active,#b2.active,#b3.active,#b4.active,#b5.active{
+background-color:white;
+color:black;
+}
+#b1,#b2,#b3,#b4,#b5{
+font-size:30px;
+color:white;
+font-weight:bold;
+}
+#b1{
+background-color:rgb(201,164,243);
+height:300px;
+width:300px;
+position:absolute;
+top:200px;
+left:60px;
+transition:background-color 0.5s ease;
+}
+#b2{
+background-color:rgb(201,164,243);
+height:300px;
+width:300px;
+position:absolute;
+top:200px;
+left:480px;
+transition:background-color 0.5s ease;
+}
+#b3{
+background-color:rgb(201,164,243);
+height:300px;
+width:300px;
+position:absolute;
+top:200px;
+left:900px;
+transition:background-color 0.5s ease;
+}
+#b4{
+background-color:rgb(201,164,243);
+height:300px;
+width:300px;
+position:absolute;
+top:550px;
+left:250px;
+transition:background-color 0.5s ease;
+}
+#b5{
+background-color:rgb(201,164,243);
+height:300px;
+width:300px;
+position:absolute;
+top:550px;
+left:700px;
+transition:background-color 0.5s ease;
+}
+#b1:hover,#b2:hover,#b3:hover,#b4:hover,#b5:hover{
+cursor:pointer;
+}
+#next{
+height:70px;
+width:300px;
+background-color:rgb(201,164,243);
+border-radius:50px;
+font-size:30px;
+color:white;
+font-weight:bold;
+position:absolute;
+top:950px;
+left:900px;
+transition:background-color 0.5s ease;
+}
+#next:hover{
+color:black;
+background-color:white;
+cursor:pointer;
+}
+</style>
+<script>
+function selectoption(button){
+  button.classList.toggle('active');
+}
+function getselecteddomains(){
+   var array=[];
+   var buttons = document.getElementsByTagName("button");
+    for(var i=0;i<buttons.length;i++){
+	if(buttons[i].classList.contains("active")){
+		array.push(buttons[i].textContent);
+	}
+     }
+     var domains=array.join();
+      document.cookie="selectedDomains="+domains;
+}
+</script>
+</head>
+<body>
+<div style="background-color:rgb(201,164,243); width:1263px; height:100px;">
+<p style="position:absolute; left:20px; top:-30px; font-size:50px; font-weight:bold; color:white;">CareerNest</p>
+</div>
+<p style="position:absolute; left:400px; top:70px; font-size:40px; color:white;">YOUR STRONGHOLDS?</p>
+<button id="b1" onclick="selectoption(this)">ANALOG ELECTRONICS</button>
+<button id="b2" onclick="selectoption(this)">DIGITAL ELECTRONICS</button>
+<button id="b3" onclick="selectoption(this)">POWER ELECTRONICS</button>
+<button id="b4" onclick="selectoption(this)">EMBEDDED SYSTEMS</button>
+<button id="b5" onclick="selectoption(this)">COMMUNICATION ENGINEERING</button>
+<form>
+<button id="next" onclick="getselecteddomains()" formaction="initialize.php">START QUIZ</button>
+</form>
+</body>
+</html>

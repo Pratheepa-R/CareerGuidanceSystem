@@ -1,0 +1,151 @@
+Qid,Questions,A,B,C,D,Options,Levels
+1,What does Bioreactor refer to in biochemical engineering?,A device for chemical synthesis,A vessel for growing cells or microorganisms,A tool for measuring enzyme activity,A unit for distillation,B,easy
+2,"What does the term ""biomass"" refer to in biochemical engineering?",Total mass of organic matter in an ecosystem,Total mass of living organisms in a bioreactor,Mass of proteins in a cell,Mass of minerals in a cell,B,easy
+3,Which of the following is NOT a commonly used bioreactor type?,Stirred tank reactor,Packed bed reactor,Tubular reactor,Distillation reactor,D,easy
+4,What is the primary function of enzymes in biochemical processes?,Providing structural support to cells,Catalyzing biochemical reactions,Storing genetic information,Facilitating cell communication,B,easy
+5,Which of the following is NOT a renewable feedstock commonly used in biochemical engineering?,Sugar cane,Corn,Petroleum,Switchgrass,C,easy
+6,What is the main product of alcoholic fermentation?,Ethanol,Methanol,Butanol,Acetic acid,A,easy
+7,Which process involves the conversion of glucose into pyruvate?,Glycolysis,Krebs cycle,Electron transport chain,Calvin cycle,A,easy
+8,What is the role of oxygen in aerobic fermentation?,To provide energy,To act as a reactant in the fermentation process,To oxidize glucose into carbon dioxide and water,To inhibit microbial growth,C,easy
+9,Which of the following is NOT a common product of microbial fermentation?,Acetic acid,Lactic acid,Ethanol,Hydrochloric acid,D,easy
+10,What is the primary function of biocatalysts in biochemical processes?,Providing energy,Speeding up chemical reactions,Transporting molecules across membranes,Storing genetic information,B,easy
+11,Which of the following is NOT a factor affecting enzyme activity?,pH,Temperature,Pressure,Substrate concentration,C,easy
+12,What is the primary role of a bioreactor in biochemical engineering?,Separating biomolecules,Monitoring enzyme activity,Providing optimal conditions for microbial growth,Purifying water,C,easy
+13,Which of the following is a common unit operation in biochemical engineering?,Polymerization,Fermentation,Distillation,Crystallization,B,easy
+14,"What does the term ""batch culture"" refer to in biochemical engineering?",Continuous feeding of nutrients to a bioreactor,Periodic harvesting of biomass from a bioreactor,Cultivation of microorganisms in a closed system without replenishing nutrients,High-pressure culture of cells,C,easy
+15,Which of the following is a primary substrate for anaerobic fermentation?,Glucose,Oxygen,Nitrogen,Carbon dioxide,A,easy
+16,What is the primary function of a bioreactor agitator?,Heating the bioreactor,Cooling the bioreactor,Mixing the contents of the bioreactor,Providing oxygen to the bioreactor,C,easy
+17,Which of the following is a common downstream process in biochemical engineering?,Fermentation,Filtration,Cell culture,Bioreactor design,B,easy
+18,What is the primary role of immobilized enzymes in bioprocessing?,Enhancing enzyme stability,Increasing enzyme substrate affinity,Reducing enzyme activity,Inhibiting enzyme reactions,A,easy
+19,"What does the term ""yield"" refer to in biochemical engineering?",The amount of product obtained per unit time,The efficiency of a bioreactor,The ratio of desired product to substrate consumed,The purity of a product,C,easy
+20,Which of the following is NOT a common mode of bioreactor operation?,Batch,Continuous,Semi-batch,Randomized,D,easy
+21,What is the primary role of nutrients in microbial fermentation?,Providing energy,Acting as reactants in biochemical reactions,Enhancing enzyme stability,Inhibiting microbial growth,B,easy
+22,Which of the following is a common method for biomass separation in downstream processing?,Distillation,Filtration,Crystallization,Polymerization,B,easy
+23,What is the primary function of a bioreactor in biochemical engineering?,Separating biomolecules,Monitoring enzyme activity,Providing optimal conditions for microbial growth,Purifying water,C,easy
+24,Which of the following is a common unit operation in biochemical engineering?,Polymerization,Fermentation,Distillation,Crystallization,B,easy
+25,"What does the term ""batch culture"" refer to in biochemical engineering?",Continuous feeding of nutrients to a bioreactor,Periodic harvesting of biomass from a bioreactor,Cultivation of microorganisms in a closed system without replenishing nutrients,High-pressure culture of cells,C,easy
+26,Which of the following is a primary substrate for anaerobic fermentation?,Glucose,Oxygen,Nitrogen,Carbon dioxide,A,easy
+27,What is the primary function of a bioreactor agitator?,Heating the bioreactor,Cooling the bioreactor,Mixing the contents of the bioreactor,Providing oxygen to the bioreactor,C,easy
+28,Which of the following is a common downstream process in biochemical engineering?,Fermentation,Filtration,Cell culture,Bioreactor design,B,easy
+29,What is the primary role of immobilized enzymes in bioprocessing?,Enhancing enzyme stability,Increasing enzyme substrate affinity,Reducing enzyme activity,Inhibiting enzyme reactions,A,easy
+30,"What does the term ""yield"" refer to in biochemical engineering?",The amount of product obtained per unit time,The efficiency of a bioreactor,The ratio of desired product to substrate consumed,The purity of a product,C,easy
+31,Which of the following is NOT a common mode of bioreactor operation?,Batch,Continuous,Semi-batch,Randomized,D,easy
+32,What is the primary role of nutrients in microbial fermentation?,Providing energy,Acting as reactants in biochemical reactions,Enhancing enzyme stability,Inhibiting microbial growth,B,easy
+33,Which of the following is a common method for biomass separation in downstream processing?,Distillation,Filtration,Crystallization,Polymerization,B,easy
+34,What is the primary role of a bioreactor in biochemical engineering?,Separating biomolecules,Monitoring enzyme activity,Providing optimal conditions for microbial growth,Purifying water,C,easy
+35,Which of the following is a common unit operation in biochemical engineering?,Polymerization,Fermentation,Distillation,Crystallization,B,easy
+36,"What does the term ""batch culture"" refer to in biochemical engineering?",Continuous feeding of nutrients to a bioreactor,Periodic harvesting of biomass from a bioreactor,Cultivation of microorganisms in a closed system without replenishing nutrients,High-pressure culture of cells,C,easy
+37,Which of the following is a primary substrate for anaerobic fermentation?,Glucose,Oxygen,Nitrogen,Carbon dioxide,A,easy
+38,What is the primary function of a bioreactor agitator?,Heating the bioreactor,Cooling the bioreactor,Mixing the contents of the bioreactor,Providing oxygen to the bioreactor,C,easy
+39,Which of the following is a common downstream process in biochemical engineering?,Fermentation,Filtration,Cell culture,Bioreactor design,B,easy
+40,"What does the term ""yield"" refer to in biochemical engineering?",The amount of product obtained per unit time,The efficiency of a bioreactor,The ratio of desired product to substrate consumed,The purity of a product,C,easy
+41,Which of the following is NOT a common mode of bioreactor operation?,Batch,Continuous,Semi-batch,Randomized,D,easy
+42,What is the primary role of nutrients in microbial fermentation?,Providing energy,Acting as reactants in biochemical reactions,Enhancing enzyme stability,Inhibiting microbial growth,B,easy
+43,Which of the following is a common method for biomass separation in downstream processing?,Distillation,Filtration,Crystallization,Polymerization,B,easy
+44,What is the primary role of a bioreactor in biochemical engineering?,Separating biomolecules,Monitoring enzyme activity,Providing optimal conditions for microbial growth,Purifying water,C,easy
+45,Which of the following is a common unit operation in biochemical engineering?,Polymerization,Fermentation,Distillation,Crystallization,B,easy
+46,"What does the term ""batch culture"" refer to in biochemical engineering?",Continuous feeding of nutrients to a bioreactor,Periodic harvesting of biomass from a bioreactor,Cultivation of microorganisms in a closed system without replenishing nutrients,High-pressure culture of cells,C,easy
+47,Which of the following is a primary substrate for anaerobic fermentation?,Glucose,Oxygen,Nitrogen,Carbon dioxide,A,easy
+48,What is the primary function of a bioreactor agitator?,Heating the bioreactor,Cooling the bioreactor,Mixing the contents of the bioreactor,Providing oxygen to the bioreactor,C,easy
+49,Which of the following is a common downstream process in biochemical engineering?,Fermentation,Filtration,Cell culture,Bioreactor design,B,easy
+50,What is the primary role of immobilized enzymes in bioprocessing?,Enhancing enzyme,Cooling the bioreactor,Mixing the contents of the bioreactor,Providing oxygen to the bioreactor,C,easy
+51,Which of the following is NOT a primary factor influencing enzyme activity?,pH,Temperature,Pressure,Substrate concentration,C,medium
+52,What is the primary function of a bioreactor impeller?,Heating the bioreactor,Cooling the bioreactor,Mixing the contents of the bioreactor,Providing oxygen to the bioreactor,C,medium
+53,What is the purpose of cell immobilization in bioprocessing?,To increase enzyme activity,To enhance cell growth rate,To facilitate downstream processing,To increase cell viability and stability,D,medium
+54,Which of the following is a common method for monitoring cell growth in a bioreactor?,Optical density measurement,pH measurement,Temperature measurement,Pressure measurement,A,medium
+55,What is the primary advantage of continuous bioreactor operation over batch operation?,Higher product yield,Lower equipment cost,Lower operating costs,Greater control over process parameters,A,medium
+56,What is the primary role of a fermenter in biochemical engineering?,Separating biomolecules,Producing biopolymers,Providing optimal conditions for microbial growth,Purifying water,C,medium
+57,Which of the following is NOT a common downstream processing step in bioprocessing?,Filtration,Centrifugation,Fermentation,Chromatography,C,medium
+58,What is the primary purpose of sterilization in bioprocessing?,To remove impurities from the bioreactor,To kill microorganisms and prevent contamination,To increase enzyme activity,To improve product yield,B,medium
+59,Which of the following is a primary substrate for aerobic fermentation?,Glucose,Oxygen,Nitrogen,Carbon dioxide,A,medium
+60,What is the purpose of aeration in aerobic fermentation?,To remove impurities from the bioreactor,To provide oxygen for microbial growth,To increase enzyme activity,To enhance product yield,B,medium
+61,Which of the following factors can affect enzyme stability?,pH,Temperature,Substrate concentration,Pressure,A,medium
+62,What is the primary role of a bioreactor pH controller?,To control nutrient feeding rate,To regulate oxygen concentration,To maintain optimal pH for microbial growth,To monitor product yield,C,medium
+63,Which of the following is a common method for measuring biomass concentration in a bioreactor?,Optical density measurement,pH measurement,Temperature measurement,Pressure measurement,A,medium
+64,What is the primary function of a bioreactor temperature controller?,To control nutrient feeding rate,To regulate oxygen concentration,To maintain optimal temperature for microbial growth,To monitor product yield,C,medium
+65,Which of the following is a common downstream processing step in bioprocessing?,Filtration,Sterilization,Fermentation,Cell culture,A,medium
+66,What is the purpose of cell disruption in downstream processing?,To remove impurities from the bioreactor,To release intracellular products,To increase enzyme stability,To improve product yield,B,medium
+67,Which of the following is NOT a primary factor influencing microbial growth in a bioreactor?,Nutrient availability,pH,Temperature,Pressure,D,medium
+68,What is the primary function of a bioreactor dissolved oxygen sensor?,To control nutrient feeding rate,To monitor oxygen concentration,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+69,Which of the following is a common method for biomass separation in downstream processing?,Centrifugation,Sterilization,Filtration,Homogenization,A,medium
+70,What is the primary role of a bioreactor foam sensor?,To control nutrient feeding rate,To monitor foam formation,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+71,Which of the following is NOT a common method for cell immobilization in bioprocessing?,Entrapment in a polymer matrix,Adsorption to a solid support,Encapsulation in a lipid bilayer,Free suspension in the bioreactor,D,medium
+72,What is the primary function of a bioreactor turbidity sensor?,To control nutrient feeding rate,To monitor cell density,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+73,Which of the following is a common method for maintaining sterility in a bioreactor?,Filtration,Homogenization,Decantation,Crystallization,A,medium
+74,What is the primary purpose of agitation in a bioreactor?,To remove impurities from the bioreactor,To increase dissolved oxygen concentration,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+75,Which of the following factors can affect the mass transfer rate in a bioreactor?,Temperature,Agitation rate,Pressure,All of the above,D,medium
+76,What is the primary role of a bioreactor level sensor?,To control nutrient feeding rate,To monitor the level of liquid in the bioreactor,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+77,Which of the following is a common method for monitoring dissolved oxygen concentration in a bioreactor?,Optical density measurement,pH measurement,Polarographic electrode,Pressure measurement,C,medium
+78,What is the primary function of a bioreactor pressure sensor?,To control nutrient feeding rate,To monitor the pressure inside the bioreactor,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+79,Which of the following is a common method for controlling pH in a bioreactor?,Addition of acid or base,Adjustment of temperature,Variation of agitation rate,Injection of oxygen,A,medium
+80,What is the primary role of a bioreactor feed pump?,To control nutrient feeding rate,To monitor cell density,To maintain optimal pH for microbial growth,To measure biomass concentration,A,medium
+81,Which of the following is NOT a common method for monitoring cell growth in a bioreactor?,Optical density measurement,Turbidity measurement,Pressure measurement,Cell counting,C,medium
+82,What is the primary purpose of downstream processing in bioprocessing?,To control nutrient feeding rate,To monitor cell density,To isolate and purify the desired product,To measure biomass concentration,C,medium
+83,Which of the following is a common method for monitoring biomass concentration in a bioreactor?,Optical density measurement,pH measurement,Pressure measurement,Turbidity measurement,A,medium
+84,What is the primary function of a bioreactor pH sensor?,To control nutrient feeding rate,To monitor the pH of the bioreactor,To maintain optimal temperature for microbial growth,To measure biomass concentration,B,medium
+85,Which of the following is a common method for controlling dissolved oxygen concentration in a bioreactor?,Adjustment of temperature,Variation of agitation rate,Addition of acid or base,Injection of oxygen,D,medium
+86,What is the primary role of a bioreactor temperature sensor?,To control nutrient feeding rate,To monitor the temperature of the bioreactor,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+87,Which of the following is a common method for monitoring foam formation in a bioreactor?,Optical density measurement,pH measurement,Turbidity measurement,Foam sensor,D,medium
+88,What is the primary purpose of cell harvesting in bioprocessing?,To control nutrient feeding rate,To monitor cell density,To isolate and recover the desired product,To measure biomass concentration,C,medium
+89,Which of the following factors can affect microbial growth in a bioreactor?,pH,Temperature,Nutrient availability,All of the above,D,medium
+90,What is the primary function of a bioreactor flow meter?,To control nutrient feeding rate,To monitor the flow rate of media into the bioreactor,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+91,Which of the following is NOT a common method for cell disruption in downstream processing?,Homogenization,Filtration,Sonication,Centrifugation,B,medium
+92,What is the primary purpose of a bioreactor gas analyzer?,o measure the concentration of gases in the bioreactor,To control nutrient feeding rate,To maintain optimal pH for microbial growth,To measure biomass concentration,A,medium
+93,Which of the following is a common method for monitoring cell viability in a bioreactor?,Optical density measurement,pH measurement,Viability staining,Turbidity measurement,C,medium
+94,What is the primary function of a bioreactor dissolved carbon dioxide sensor?,To control nutrient feeding rate,To monitor the concentration of carbon dioxide in the bioreactor,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+95,Which of the following is a common method for controlling foam formation in a bioreactor?,Adjustment of temperature,Variation of agitation rate,Addition of anti-foaming agents,Injection of air,C,medium
+96,What is the primary role of a bioreactor conductivity sensor?,To control nutrient feeding rate,To monitor the conductivity of the bioreactor medium,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+97,Which of the following is a common method for controlling temperature in a bioreactor?,Adjustment of agitation rate,Addition of acid or base,Injection of oxygen,Heating or cooling jacket,D,medium
+98,What is the primary function of a bioreactor dissolved methane sensor?,To control nutrient feeding rate,To monitor the concentration of methane in the bioreactor,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+99,Which of the following is NOT a common method for monitoring cell metabolism in a bioreactor?,Oxygen uptake rate measurement,Carbon dioxide production rate measurement,Glucose consumption rate measurement,Optical density measurement,D,medium
+100,What is the primary purpose of a bioreactor foam control system?,To control nutrient feeding rate,To prevent foam overflow from the bioreactor,To maintain optimal pH for microbial growth,To measure biomass concentration,B,medium
+101,Which of the following factors can significantly affect enzyme kinetics in a bioreactor?,Substrate concentration,Temperature,pH,All of the above,D,hard
+102,What is the significance of Michaelis-Menten constant (Km) in enzyme kinetics?,It represents the maximum enzyme velocity,It indicates the substrate concentration at half-maximal velocity,It measures the enzyme-substrate binding affinity,It determines the turnover number of the enzyme,B,hard
+103,Which of the following is a common strategy for overcoming substrate inhibition in enzymatic reactions?,Increasing enzyme concentration,Decreasing substrate concentration,Optimizing pH and temperature,Using immobilized enzymes,A,hard
+104,What is the primary challenge in scaling up enzymatic reactions from laboratory to industrial scale?,Enzyme denaturation,Substrate inhibition,Mass transfer limitations,pH fluctuations,C,hard
+105,Which of the following factors can affect the specificity of enzyme-substrate interactions?,pH,Temperature,Ionic strength,All of the above,D,hard
+106,What is the significance of enzyme immobilization in industrial biocatalysis?,It enhances enzyme activity,It enables enzyme reuse,It improves enzyme stability,All of the above,D,hard
+107,Which of the following is NOT a common method for enzyme immobilization?,Adsorption,Covalent binding,Entrapment,Solvent extraction,D,hard
+108,What is the role of enzyme engineering in biocatalysis?,To optimize enzyme activity and specificity,To increase enzyme stability,To develop novel enzymes for specific applications,All of the above,D,hard
+109,Which of the following factors can limit the efficiency of enzyme-catalyzed reactions in non-aqueous media?,Enzyme denaturation,Solubility of substrates,pH fluctuations,Temperature variations,B,hard
+110,What is the primary advantage of using whole cells over isolated enzymes in biotransformations?,Higher catalytic activity,Greater stability,Versatility in substrate specificity,Enhanced cofactor recycling,D,hard
+111,Which of the following is NOT a common method for cofactor regeneration in biocatalysis?,Enzymatic regeneration,Chemical regeneration,Photochemical regeneration,Electrochemical regeneration,C,hard
+112,What is the primary challenge in using genetically modified organisms (GMOs) in industrial bioprocesses?,High production costs,Regulatory concerns,Environmental impact,Low enzyme activity,B,hard
+113,Which of the following is a common method for increasing the stability of enzymes in harsh reaction conditions?,Immobilization,Chemical modification,Encapsulation,All of the above,D,hard
+114,What is the primary advantage of using directed evolution in enzyme engineering?,Rapid generation of diverse enzyme variants,Precise control over enzyme structure,Enhanced enzyme specificity,Higher enzyme yield,A,hard
+115,Which of the following factors can limit the industrial applicability of enzymatic reactions?,Enzyme specificity,Substrate availability,Product inhibition,All of the above,D,hard
+116,What is the primary role of computational modeling in enzyme engineering?,Prediction of enzyme activity,Design of novel enzyme variants,Optimization of reaction conditions,All of the above,D,hard
+117,Which of the following is NOT a common challenge in downstream processing of biocatalytic products?,Enzyme recovery,Product purification,Cofactor recycling,Substrate inhibition,D,hard
+118,What is the primary advantage of using biocatalysis over traditional chemical catalysis?,Higher reaction rates,Lower energy consumption,Greater product selectivity,All of the above,C,hard
+119,Which of the following is NOT a common application of biocatalysis in industry?,Pharmaceutical synthesis,Food processing,Petroleum refining,Environmental remediation,C,hard
+120,What is the primary limitation of using enzymes derived from extremophiles in industrial processes?,Low enzyme activity,High production costs,Limited substrate specificity,Incompatibility with standard reaction conditions,D,hard
+121,Which of the following is a common method for enzyme recovery in downstream processing?,Chromatography,Dialysis,Filtration,All of the above,D,hard
+122,What is the primary role of process intensification in biocatalysis?,To increase enzyme stability,To enhance reaction rates,To reduce enzyme inhibition,To improve product selectivity,B,hard
+123,Which of the following is NOT a common method for enhancing enzyme stability in biocatalysis?,Protein engineering,Immobilization,pH adjustment,Chemical modification,C,hard
+124,What is the primary limitation of using isolated enzymes in industrial biocatalysis?,High cost of enzyme production,Limited substrate specificity,Poor enzyme stability,Incompatibility with non-aqueous media,A,hard
+125,Which of the following factors can influence enzyme-substrate binding kinetics?,Hydrophobic interactions,Electrostatic interactions,Steric hindrance,All of the above,D,hard
+126,What is the primary role of coenzymes in enzymatic reactions?,To act as catalysts,To transfer functional groups,To stabilize enzyme structure,To regulate enzyme activity,B,hard
+127,Which of the following is a common method for reducing enzyme inhibition in biocatalytic processes?,Increasing substrate concentration,Decreasing enzyme concentration,Optimizing pH and temperature,Using cofactor recycling systems,D,hard
+128,What is the primary advantage of using enzyme cascades in biocatalysis?,Increased reaction selectivity,Enhanced enzyme stability,Greater substrate specificity,Higher reaction rates,A,hard
+129,Which of the following is a common strategy for enhancing enzyme activity in biocatalysis?,Protein engineering,Immobilization,pH adjustment,All of the above,D,hard
+130,What is the primary challenge in using metalloenzymes in industrial bioprocesses?,Limited substrate specificity,Requirement for metal cofactors,Poor enzyme stability,Incompatibility with organic solvents,B,hard
+131,Which of the following is NOT a common method for improving enzyme-substrate specificity?,Protein engineering,Directed evolution,Immobilization,Chemical modification,C,hard
+132,What is the primary role of kinetic modeling in biocatalysis?,Prediction of enzyme stability,Optimization of reaction conditions,Design of novel enzymes,All of the above,B,hard
+133,Which of the following is a common challenge in enzyme immobilization?,Loss of enzyme activity,High production costs,Limited substrate availability,Incompatibility with reaction conditions,A,hard
+134,What is the primary advantage of using multi-enzyme complexes in biocatalysis?,Enhanced enzyme stability,Greater reaction selectivity,Higher catalytic efficiency,Improved substrate specificity,C,hard
+135,Which of the following is NOT a common method for enzyme stabilization?,Covalent attachment to a support,Encapsulation in a polymer matrix,Freeze-drying,Addition of denaturants,D,hard
+136,What is the primary role of cofactor regeneration systems in biocatalysis?,To recycle enzymes,To stabilize enzymes,To regenerate cofactors,To increase reaction rates,C,hard
+137,Which of the following is a common method for enzyme immobilization in organic solvents?,Covalent binding to a support,Adsorption to a solid surface,Entrapment in a hydrogel,All of the above,A,hard
+138,What is the primary limitation of using whole cells in biocatalytic processes?,Low enzyme activity,Limited substrate specificity,Cell permeability,Poor enzyme stability,C,hard
+139,Which of the following factors can affect enzyme activity in non-aqueous media?,Water content,pH,Temperature,All of the above,A,hard
+140,What is the primary advantage of using enzymes derived from extremophiles in biocatalysis?,Greater stability,Higher activity at extreme conditions,Enhanced substrate specificity,All of the above,B,hard
+141,Which of the following is a common method for enzyme immobilization in gas-phase reactions?,Adsorption to a solid support,Encapsulation in a polymer matrix,Covalent binding to a support,All of the above,C,hard
+142,What is the primary challenge in using enzymes in biphasic reactions?,Mass transfer limitations,Cofactor regeneration,Limited enzyme stability,Low reaction rates,A,hard
+143,Which of the following is NOT a common method for enzyme immobilization in biphasic reactions?,Covalent binding to a support,Adsorption to a solid surface,Entrapment in a hydrogel,Solvent extraction,D,hard
+144,What is the primary advantage of using immobilized enzymes in continuous flow systems?,Higher enzyme stability,Increased reaction selectivity,Enhanced mass transfer,Improved substrate specificity,C,hard
+145,Which of the following is a common challenge in industrial-scale enzyme production?,Low enzyme activity,High production costs,Limited substrate availability,Incompatibility with reaction conditions,B,hard
+146,What is the primary role of enzyme kinetics in biocatalysis?,To predict enzyme stability,To optimize reaction conditions,To design novel enzymes,All of the above,B,hard
+147,Which of the following is NOT a common strategy for enhancing enzyme stability?,Protein engineering,Immobilization,Chemical modification,Substrate inhibition,D,hard
+148,What is the primary limitation of using enzymes in organic solvents?,Low enzyme activity,Limited substrate availability,High production costs,Poor enzyme stability,D,hard
+149,Which of the following is a common method for enzyme immobilization in supercritical fluids?,Adsorption to a solid support,Covalent binding to a support,Entrapment in a hydrogel,All of the above,D,hard
+150,What is the primary advantage of using immobilized enzymes in biocatalysis?,Enhanced enzyme stability,Greater reaction selectivity,Improved substrate specificity,All of the above,D,hard

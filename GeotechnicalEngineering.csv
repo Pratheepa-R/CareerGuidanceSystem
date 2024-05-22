@@ -1,0 +1,154 @@
+﻿id,question,a,b,c,d,answer,level
+1,What is the primary purpose of a geotechnical investigation?,To design structural components,To determine soil properties at a site,To estimate construction costs,To monitor groundwater levels,b,easy
+2,"What does the term ""bearing capacity"" refer to in geotechnical engineering?",The ability of a soil to support a foundation without failure,The weight of soil excavated from a site,The rate of settlement of a structure,The permeability of a soil layer,a,easy
+3,Which type of soil is composed of particles larger than 0.075 mm in diameter?,Clay,Silt,Sand,Gravel,c,easy
+4,What is the term for the process by which soil particles settle and rearrange themselves due to the application of a load?,Consolidation,Compaction,Erosion,Liquefaction,a,easy
+5,Which factor does not influence the shear strength of a soil?,Soil type,Moisture content,Grain size distribution,Atterberg limits,d,easy
+6,"What does the term ""angle of internal friction"" represent in soil mechanics?",The maximum angle at which a soil slope can be stable,The angle between the horizontal plane and the shear stress line,The angle at which soil particles repel each other,The maximum angle at which a soil can be sheared without failure,d,easy
+7,Which soil type has the smallest particle size?,Clay,Silt,Sand,Gravel,a,easy
+8,What is the term for the reduction in soil volume due to the expulsion of water under load?,Swelling,Settlement,Consolidation,Liquefaction,c,easy
+9,Which test is commonly used to determine the moisture content of a soil sample?,Proctor compaction test,Atterberg limits test,Permeability test,Moisture-density relationship test,b,easy
+10,What is the purpose of a sieve analysis in geotechnical engineering?,To determine the grain size distribution of soil,To measure the water content of soil,To assess the compressibility of soil,To evaluate the strength of soil,a,easy
+11,Which soil type is characterized by high compressibility and low shear strength when saturated?,Clay,Silt,Sand,Gravel,a,easy
+12,"What does the term ""permeability"" refer to in soil mechanics?",The ability of a soil to retain water,The rate at which water flows through soil,The volume change of soil under load,The resistance of soil to shear stresses,b,easy
+13,Which soil property is most closely related to its ability to bear loads without excessive settlement?,Cohesion,Angle of internal friction,Porosity,Permeability,b,easy
+14,What is the term for the capacity of a soil to transmit water?,Porosity,Permeability,Shear strength,Compressibility,b,easy
+15,Which type of soil is highly susceptible to volume change due to changes in moisture content?,Clay,Silt,Sand,Gravel,a,easy
+16,What is the primary cause of soil erosion?,Mechanical loading,Chemical weathering,Water or wind action,Soil compaction,c,easy
+17,What is the term for the process of removing excess water from saturated soil?,Dewatering,Consolidation,Compaction,Liquefaction,a,easy
+18,Which type of soil has the highest shear strength?,Clay,Silt,Sand,Gravel,d,easy
+19,Which test is used to determine the maximum dry density and optimum moisture content of a soil?,Permeability test,Atterberg limits test,Compaction test,Consolidation test,c,easy
+20,What is the term for the phenomenon in which soil loses its strength and stiffness due to an increase in pore water pressure?,Liquefaction,Compaction,Erosion,Swelling,a,easy
+21,Which soil property is primarily responsible for cohesion?,Grain size distribution,Particle shape,Moisture content,Clay mineralogy,d,easy
+22,"What is the term for the process by which soil particles are pressed together, reducing pore space and increasing density?",Erosion,Swelling,Compaction,Consolidation,c,easy
+23,Which type of soil has the highest plasticity index?,Clay,Silt,Sand,Gravel,a,easy
+24,Which type of foundation is suitable for supporting heavy structures on soft clay soils?,Spread footing,Pile foundation,Mat foundation,Raft foundation,b,easy
+25,What is the term for the phenomenon in which soil swells and expands upon wetting?,Liquefaction,Compaction,Erosion,Swelling,d,easy
+26,Which soil property is associated with the ability of a soil to retain water?,Porosity,Permeability,Capillarity,Atterberg limits,d,easy
+27,Which type of soil exhibits cohesion but negligible friction?,Cohesive soil,Granular soil,Cohesionless soil,Organic soil,a,easy
+28,Which test is used to determine the liquid limit and plastic limit of a soil?,Proctor compaction test,Hydrometer analysis,Atterberg limits test,Direct shear test,c,easy
+29,What is the term for the natural soil deposit formed by the accumulation of wind-blown dust and silt?,Alluvium,Colluvium,Loess,Marl,c,easy
+30,Which type of soil exhibits the highest compressibility?,Sand,Gravel,Clay,Silt,c,easy
+31,What is the term for the process of soil particles settling into a denser arrangement under the influence of a static load?,Consolidation,Liquefaction,Compaction,Erosion,a,easy
+32,Which instrument is used to measure the moisture content of a soil sample in the field?,Hydrometer,Proctor compaction apparatus,Siltometer,Soil moisture meter,d,easy
+33,What is the primary purpose of using geotextiles in geotechnical engineering?,To improve soil drainage,To increase soil permeability,To reinforce soil,To reduce soil compaction,c,easy
+34,Which type of foundation is suitable for supporting tall structures in seismic zones?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,easy
+35,What is the term for the reduction in soil volume due to the application of external loads?,Swelling,Consolidation,Liquefaction,Compaction,b,easy
+36,Which soil property is associated with the ability of a soil to transmit water?,Porosity,Permeability,Cohesion,Plasticity,b,easy
+37,"What does the term ""angle of repose"" represent in geotechnical engineering?",The maximum angle at which a pile of soil can remain stable,The angle at which soil particles become frictionless,The angle between the horizontal plane and the line representing the weight of soil,The steepest angle at which a slope of loose material is stable,d,easy
+38,Which soil type has the highest shear strength?,Sand,Silt,Gravel,Clay,c,easy
+39,What is the term for the weight per unit volume of soil?,Porosity,Bulk density,Void ratio,Specific gravity,b,easy
+40,Which type of soil has the lowest permeability?,Sand,Silt,Clay,Gravel,c,easy
+41,"What does the term ""soil bearing capacity"" indicate?",The load-carrying capacity of a soil,The settlement characteristics of a soil,The ability of a soil to retain moisture,The plasticity of a soil,a,easy
+42,Which type of foundation spreads the load over a larger area of soil?,Pile foundation,Spread footing,Mat foundation,Raft foundation,b,easy
+43,What is the primary function of a retaining wall?,To support vertical or near-vertical slopes of soil,To increase the permeability of soil,To reduce soil erosion,To stabilize the soil against lateral movement,a,easy
+44,Which test is used to determine the compaction characteristics of soil?,Atterberg limits test,Proctor compaction test,Direct shear test,Triaxial compression test,b,easy
+45,What is the term for the change in volume of soil due to the application of external loads?,Swelling,Consolidation,Liquefaction,Settlement,d,easy
+46,Which type of soil has the highest cohesion?,Sand,Silt,Clay,Gravel,c,easy
+47,Which soil property is related to the ability of a soil to withstand deformation without failure?,Cohesion,Permeability,Plasticity,Shear strength,d,easy
+48,What is the term for the increase in soil strength due to the application of lateral confinement?,Swelling,Consolidation,Compaction,Confinement,d,easy
+49,Which type of foundation is suitable for supporting structures on expansive soils?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,easy
+50,What is the primary purpose of a standard penetration test (SPT) in geotechnical investigations?,To determine the water content of soil,To measure the in-situ density of soil,To assess the shear strength of soil,To evaluate the permeability of soil,c,medium
+51,Which parameter is typically used to classify soils according to the Unified Soil Classification System (USCS)?,Liquid limit,Plasticity index,Particle size distribution,Atterberg limits,c,medium
+52,What is the term for the process of compacting soil layers in the field to improve their engineering properties?,Consolidation,Grading,Compaction,Liquefaction,c,medium
+53,Which test is used to determine the in-situ density of soil using a sand-cone apparatus?,Proctor compaction test,Standard penetration test,Sand replacement test,California bearing ratio test,c,medium
+54,"What does the term ""overconsolidated soil"" mean in geotechnical engineering?",Soil that has experienced higher stress levels in the past,Soil that contains excessive organic matter,Soil that is highly permeable,Soil that has a high plasticity index,a,medium
+55,Which type of foundation is used for supporting structures on soft clay soils?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,medium
+56,What is the primary function of a retaining wall in geotechnical engineering?,To prevent soil erosion,To support vertical or near-vertical slopes of soil,To increase soil permeability,To reduce soil settlement,b,medium
+57,Which soil property determines the rate at which water flows through soil?,Permeability,Porosity,Shear strength,Plasticity index,a,medium
+58,What is the term for the phenomenon in which soil loses its strength and stiffness due to an increase in pore water pressure?,Consolidation,Liquefaction,Compaction,Erosion,b,medium
+59,Which test is used to determine the shear strength parameters of soil in the laboratory?,Standard penetration test,Direct shear test,Proctor compaction test,Cone penetration test,b,medium
+60,What is the purpose of conducting a slope stability analysis?,To determine the moisture content of soil,To assess the compressibility of soil,To evaluate the stability of natural or man-made slopes,To measure the in-situ density of soil,c,medium
+61,Which type of foundation is used for supporting heavy structures on expansive soils?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,medium
+62,What is the term for the maximum stress a soil can withstand without undergoing shear failure?,Cohesion,Angle of internal friction,Bearing capacity,Consolidation,c,medium
+63,Which instrument is used to measure the water content of soil in the field?,Hydrometer,Proctor compaction apparatus,Soil moisture meter,Triaxial testing machine,c,medium
+64,What is the primary purpose of conducting a soil exploration program?,To determine the optimum moisture content of soil,To assess the compressibility of soil,To obtain information about soil properties at a site,To measure the permeability of soil,c,medium
+65,Which type of soil exhibits both cohesion and friction?,Cohesive soil,Granular soil,Cohesionless soil,Organic soil,a,medium
+66,What is the term for the ratio of the volume of voids to the total volume of soil?,Porosity,Void ratio,Specific gravity,Dry unit weight,b,medium
+67,Which soil property is primarily responsible for its compressibility?,Grain size distribution,Plasticity index,Moisture content,Void ratio,d,medium
+68,"What does the term ""angle of internal friction"" represent in soil mechanics?",The maximum angle at which a pile of soil can remain stable,The angle between the horizontal plane and the shear stress line,The angle at which soil particles repel each other,The maximum angle at which a soil can be sheared without failure,d,medium
+69,Which type of foundation is suitable for supporting tall structures on soft clay soils?,Pile foundation,Spread footing,Mat foundation,Raft foundation,c,medium
+70,What is the term for the increase in pore water pressure within a soil mass due to external loads?,Liquefaction,Consolidation,Swelling,Permeability,b,medium
+71,Which soil property is associated with the ability of a soil to retain its strength when submerged under water?,Cohesion,Angle of internal friction,Permeability,Porosity,a,medium
+72,"What does the term ""Atterberg limits"" refer to in soil mechanics?",The range of particle sizes in a soil sample,The maximum density a soil can achieve,The water content at which soil changes from a plastic to a liquid state,The plasticity and shrinkage characteristics of a soil,d,medium
+73,Which type of soil has the highest potential for volume change upon wetting or drying?,Sandy soil,Silty soil,Clayey soil,Gravelly soil,c,medium
+74,What is the term for the measure of the ease with which soil can be deformed under load?,Shear strength,Compressibility,Swell potential,Permeability,b,medium
+75,Which factor does not influence the permeability of soil?,Grain size distribution,Soil compaction,Moisture content,Soil type,b,medium
+76,Which test is used to determine the coefficient of permeability of soil in the laboratory?,Standard penetration test,Triaxial compression test,Permeability test,Atterberg limits test,c,medium
+77,What is the term for the ability of a soil to regain its original volume after being subjected to a load?,Swell potential,Elasticity,Plasticity,Resilience,b,medium
+78,Which type of foundation is used for supporting structures on expansive soils prone to significant volume changes?,Pile foundation,Spread footing,Mat foundation,Raft foundation,d,medium
+79,What is the term for the process of reducing the moisture content of soil through evaporation or drainage?,Consolidation,Dewatering,Compaction,Swelling,b,medium
+80,Which type of soil has the highest natural water content?,Sandy soil,Silty soil,Clayey soil,Loamy soil,c,medium
+81,What is the primary function of a geosynthetic material in geotechnical engineering applications?,To improve soil strength,To enhance soil drainage,To reduce soil erosion,To provide slope stabilization,a,medium
+82,Which type of soil has the lowest bearing capacity?,Sandy soil,Silty soil,Clayey soil,Loamy soil,c,medium
+83,What is the term for the ratio of the weight of water to the weight of solids in a soil sample?,Porosity,Specific gravity,Moisture content,Water content,c,medium
+84,Which type of soil exhibits the highest cohesion?,Sandy soil,Silty soil,Clayey soil,Loamy soil,c,medium
+85,"What does the term ""active earth pressure"" refer to in geotechnical engineering?",The pressure exerted by soil on a retaining wall,The pressure exerted by water on a retaining wall,The pressure exerted by an earthquake on a soil mass,The pressure exerted by wind on a soil slope,a,medium
+86,Which test is used to determine the density and moisture content of soil in the field?,Direct shear test,Proctor compaction test,California bearing ratio test,Plate load test,b,medium
+87,"What is the term for the phenomenon in which soil particles are rearranged due to the application of a load, leading to a decrease in volume?",Liquefaction,Compaction,Consolidation,Erosion,c,medium
+88,Which type of soil has the highest permeability?,Sandy soil,Silty soil,Clayey soil,Loamy soil,a,medium
+89,What is the term for the process of adding water to a soil mass to increase its density and strength?,Compaction,Consolidation,Dewatering,Swelling,a,medium
+90,Which soil property is related to the ability of a soil to undergo large deformations without failure?,Cohesion,Angle of internal friction,Plasticity,Resilience,c,medium
+91,What is the term for the measure of the resistance of soil to shear stresses?,Cohesion,Angle of internal friction,Bearing capacity,Compressibility,a,medium
+92,Which type of foundation is used for supporting structures on loose or weak soils?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,medium
+93,"What is the term for the process by which water causes soil particles to separate and move apart, leading to a reduction in soil strength?",Compaction,Liquefaction,Erosion,Consolidation,c,medium
+94,Which type of foundation is suitable for supporting structures on highly compressible soils with high water content?,Pile foundation,Spread footing,Mat foundation,Raft foundation,d,medium
+95,What is the term for the natural soil deposit formed by the accumulation of wind-blown sand and silt?,Alluvium,Colluvium,Loess,Marl,c,medium
+96,Which soil property is associated with the ability of a soil to resist deformation under load?,Cohesion,Angle of internal friction,Elastic modulus,Swell potential,c,medium
+97,"What is the term for the process by which soil particles settle under their own weight, resulting in a decrease in volume?",Liquefaction,Compaction,Consolidation,Erosion,c,medium
+98,Which test is used to determine the load-carrying capacity of a soil for shallow foundations?,Standard penetration test,Plate load test,Permeability test,Cone penetration test,b,medium
+99,What is the term for the maximum stress a soil can withstand without undergoing shear failure?,Cohesion,Angle of internal friction,Bearing capacity,Consolidation pressure,c,medium
+100,Which soil property is primarily responsible for its shear strength?,Cohesion,Angle of internal friction,Permeability,Atterberg limits,a,medium
+101,"What is the term for the process of compressing soil particles closer together, resulting in a decrease in volume?",Liquefaction,Compaction,Consolidation,Swelling,b,medium
+102,Which type of foundation is typically used for supporting tall structures on soft clay soils?,Pile foundation,Spread footing,Mat foundation,Raft foundation,c,medium
+103,What is the primary function of a retaining wall in geotechnical engineering?,To prevent soil erosion,To support vertical or near-vertical slopes of soil,To increase soil permeability,To reduce soil settlement,b,medium
+104,What is the primary factor contributing to the occurrence of landslides in mountainous regions?,Soil erosion,Slope steepness,Soil permeability,Groundwater level,b,hard
+105,Which type of foundation is most suitable for supporting a bridge pier on a riverbed consisting of soft clay?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,hard
+106,"What is the term for the process by which water causes soil particles to separate and move apart, resulting in a loss of soil strength?",Liquefaction,Erosion,Consolidation,Swelling,b,hard
+107,Which soil property is the most influential factor in determining the stability of a slope?,Permeability,Cohesion,Porosity,Grain size distribution,b,hard
+108,Which test is commonly used to determine the bearing capacity of soil in situ?,Plate load test,California bearing ratio test,Direct shear test,Triaxial compression test,a,hard
+109,What is the term for the resistance of a soil mass to shearing forces?,Cohesion,Angle of internal friction,Compressibility,Elastic modulus,b,hard
+110,Which type of soil is most susceptible to shrink-swell behavior?,Sandy soil,Silty soil,Clayey soil,Gravelly soil,c,hard
+111,"What does the term ""bearing capacity"" refer to in geotechnical engineering?",The ability of a soil to support foundation loads without excessive settlement,The resistance of a soil to erosion by flowing water,The maximum stress a soil can withstand without failure,The rate at which water flows through soil,a,hard
+112,Which type of foundation is commonly used for supporting tall buildings on deep deposits of soft clay?,Pile foundation,Spread footing,Mat foundation,Raft foundation,c,hard
+113,What is the primary factor affecting the stability of a retaining wall?,Wall height,Wall thickness,Soil type,Drainage conditions,c,hard
+114,Which phenomenon leads to the reduction in soil strength and stiffness due to an increase in pore water pressure?,Liquefaction,Swelling,Consolidation,Frost heaving,a,hard
+115,What is the term for the process of removing excess water from a saturated soil mass to improve its engineering properties?,Dewatering,Consolidation,Compaction,Liquefaction,a,hard
+116,Which test is used to determine the unconfined compressive strength of cohesive soils?,Direct shear test,Triaxial compression test,Unconfined compression test,Consolidation test,c,hard
+117,What is the primary function of a geotextile material in geotechnical engineering applications?,To improve soil drainage,To reinforce soil,To stabilize slopes,To prevent soil erosion,b,hard
+118,Which type of soil stabilization technique involves the addition of lime or cement to improve soil properties?,Grouting,Soil nailing,Chemical stabilization,Mechanical stabilization,c,hard
+119,"What is the term for the process of soil particles being rearranged under the influence of an applied load, resulting in a reduction in volume?",Compaction,Consolidation,Swelling,Erosion,b,hard
+120,Which type of foundation is suitable for supporting heavy structures on weak or compressible soils?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,hard
+121,What is the term for the resistance of a soil to shear deformation under load?,Elastic modulus,Shear strength,Cohesion,Permeability,b,hard
+122,Which soil stabilization method involves the insertion of steel bars or rods into the ground to reinforce the soil?,Grouting,Soil nailing,Chemical stabilization,Mechanical stabilization,b,hard
+123,What is the term for the process by which fine-grained soil particles are carried away by flowing water?,Erosion,Deposition,Seepage,Consolidation,a,hard
+124,Which soil property determines the ability of a soil to retain water?,Porosity,Permeability,Swell potential,Atterberg limits,a,hard
+125,Which type of foundation is commonly used for supporting tall structures on deep deposits of loose or weak soil?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,hard
+126,What is the term for the sudden settlement of soil or rock caused by the collapse of underground voids?,Subsidence,Settlement,Liquefaction,Creep,a,hard
+127,Which soil property is a measure of the volume of void spaces in a soil mass?,Porosity,Permeability,Void ratio,Specific gravity,c,hard
+128,What is the term for the process of soil particles being lifted and carried away by wind or water?,Erosion,Deposition,Transportation,Weathering,a,hard
+129,Which test is used to determine the compressibility and swelling characteristics of cohesive soils?,Direct shear test,Triaxial compression test,Consolidation test,Unconfined compression test,c,hard
+130,What is the term for the gradual downslope movement of soil or rock under the influence of gravity?,Creep,Landslide,Subsidence,Settlement,a,hard
+131,Which type of soil stabilization method involves injecting grout into the ground to improve soil properties?,Grouting,Soil nailing,Chemical stabilization,Mechanical stabilization,a,hard
+132,What is the term for the ratio of the weight of water to the weight of solids in a soil mass?,Moisture content,Void ratio,Specific gravity,Water content,a,hard
+133,Which phenomenon leads to the reduction in soil volume and an increase in soil density due to the expulsion of water under load?,Consolidation,Swelling,Liquefaction,Compaction,d,hard
+134,Which type of foundation is commonly used for supporting structures on highly compressible organic soils?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,hard
+135,What is the term for the upward movement of water through soil by capillary action?,Infiltration,Permeation,Seepage,Capillarity,d,hard
+136,Which soil property is a measure of the ability of a soil to transmit water?,Permeability,Porosity,Cohesion,Plasticity index,a,hard
+137,What is the term for the maximum pressure that can be applied to a soil without causing shear failure?,Atterberg limit,Critical state line,Ultimate strength,Peak strength,d,hard
+138,Which type of foundation is suitable for supporting structures on sandy soils with high groundwater tables?,Pile foundation,Spread footing,Mat foundation,Raft foundation,a,hard
+139,"What is the term for the process by which soil particles are gradually worn away by the action of water, wind, or ice?",Erosion,Deposition,Weathering,Transportation,c,hard
+140,Which test is used to determine the shear strength parameters of cohesive soils in the laboratory?,Direct shear test,Triaxial compression test,Unconfined compression test,California bearing ratio test,b,hard
+141,What is the term for the phenomenon in which a sudden decrease in pore water pressure within a soil mass leads to a loss of soil strength and stiffness?,Liquefaction,Compaction,Creep,Colluviation,a,hard
+142,Which type of foundation is most suitable for supporting structures on saturated soft clay deposits with high groundwater levels?,Pile foundation,Spread footing,Mat foundation,Raft foundation,c,hard
+143,What is the term for the ability of a soil mass to return to its original volume and shape after being subjected to deformation?,Plasticity,Resilience,Ductility,Stiffness,b,hard
+144,Which phenomenon involves the gradual downward movement of a soil mass on a slope due to the force of gravity?,Soil creep,Soil collapse,Soil liquefaction,Soil compaction,a,hard
+145,What is the term for the ratio of the volume of void spaces to the total volume of a soil mass?,Porosity,Void ratio,Specific gravity,Saturation,a,hard
+146,Which soil property represents the ability of a soil to regain its original volume after being subjected to deformation?,Plasticity,Elasticity,Cohesion,Swell potential,b,hard
+147,What is the term for the pressure exerted by water on a retaining wall or structure?,Hydrostatic pressure,Atterberg pressure,Osmotic pressure,Capillary pressure,a,hard
+148,Which type of soil stabilization method involves the use of geotextiles or geogrids to reinforce soil slopes or embankments?,Grouting,Soil nailing,Mechanical stabilization,Geosynthetic reinforcement,d,hard
+149,What is the term for the point at which a soil mass transitions from a solid to a liquid state under an applied load?,Yield point,Plastic limit,Liquid limit,Critical state,a,hard
+150,Which phenomenon involves the sudden collapse or sinking of the ground surface into underground voids or cavities?,Subsidence,Settlement,Liquefaction,Erosion,a,hard
+151,What is the term for the ability of a soil to undergo large deformations without significant changes in volume?,Dilatancy,Plasticity,Compressibility,Ductility,b,hard
+152,Which test is used to determine the strength and compressibility of cohesive soils under unconfined conditions?,Direct shear test,Triaxial compression test,Unconfined compression test,California bearing ratio test,c,hard
+153,What is the term for the measure of the resistance of a soil to deformation under load?,Elastic modulus,Shear strength,Cohesion,Permeability,a,hard

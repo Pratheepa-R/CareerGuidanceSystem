@@ -1,0 +1,151 @@
+Qid,Question,A,B,C,D,Answer,Level
+1,What is the primary law of thermodynamics also known as?,Law of conservation of energy,Law of entropy,Law of thermodynamic equilibrium,Law of heat transfer,a,Easy
+2,What is the SI unit of temperature?,Kelvin (K),Celsius (°C),Fahrenheit (°F),Joule (J),a,Easy
+3,Which process involves the transfer of heat due to the movement of fluid particles?,Conduction,Convection,Radiation,Evaporation,b,Easy
+4,What happens to the volume of a gas when it is heated at constant pressure?,Volume decreases,Volume increases,Volume remains constant,Volume fluctuates randomly,b,Easy
+5,Which law of thermodynamics states that no heat engine can be 100% efficient?,Zeroth Law,First Law,Second Law,Third Law,c,Easy
+6,What is the unit of heat energy?,Watt (W),Joule (J),Calorie (cal),Newton (N),b,Easy
+7,Which material is an insulator against heat transfer?,Copper,Aluminum,Wood,Silver,c,Easy
+8,What is the heat capacity of a substance defined as?,The ratio of heat transfer to temperature change,The heat required to raise the temperature of one kilogram of substance by one degree Celsius,The ratio of temperature change to heat transfer,The specific heat of the substance at constant pressure,b,Easy
+9,What is the process by which a liquid turns into vapor at its boiling point throughout the liquid?,Vaporization,Evaporation,Boiling,Sublimation,c,Easy
+10,"Which law of thermodynamics states that energy cannot be created or destroyed, only transformed from one form to another?",Zeroth Law,First Law,Second Law,Third Law,b,Easy
+11,What is the name of the boundary between two phases of matter during a phase change?,Melting point,Freezing point,Phase transition boundary,Interface,d,Easy
+12,Which type of heat transfer occurs through electromagnetic waves?,Conduction,Convection,Radiation,Evaporation,c,Easy
+13,Which material is a good conductor of heat?,Plastic,Glass,Copper,Rubber,c,Easy
+14,What happens to the temperature of a substance during a phase change?,It remains constant,It increases,It decreases,It fluctuates,a,Easy
+15,What is the specific heat capacity of water?,1 J/kg°C,4.18 J/kg°C,10 J/kg°C,100 J/kg°C,b,Easy
+16,What is the name of the process by which heat is transferred between two objects in physical contact with each other?,Conduction,Convection,Radiation,Absorption,a,Easy
+17,Which of the following materials is an example of a good insulator?,Aluminum,Copper,Styrofoam,Iron,c,Easy
+18,What is the heat capacity of an object with a mass of 2 kg and a specific heat capacity of 500 J/kg°C?,250 J/°C,1000 J/°C,500 J/°C,2000 J/°C,d,Easy
+19,Which law of thermodynamics deals with the concept of entropy?,Zeroth Law,First Law,Second Law,Third Law,c,Easy
+20,Which of the following materials is a poor conductor of heat?,Silver,Aluminum,Glass,Iron,c,Easy
+21,What is the process by which heat is transferred from the sun to the Earth?,Conduction,Convection,Radiation,Absorption,c,Easy
+22,What is the SI unit of specific heat capacity?,Joule (J),Joule per kilogram per degree Celsius (J/kg°C),Newton (N),Watt (W),b,Easy
+23,Which of the following is an example of a phase change?,Heating water from 20°C to 40°C,Melting ice to form water,Mixing two liquids together,Dissolving a solid in a liquid,b,Easy
+24,What is the process by which a solid turns directly into vapor without passing through the liquid phase?,Melting,Freezing,Evaporation,Sublimation,d,Easy
+25,Which of the following materials has the highest specific heat capacity?,Water,Aluminum,Iron,Lead,a,Easy
+26,What is the heat capacity of a substance if 500 J of heat raises the temperature of 2 kg of the substance by 50°C?,10 J/°C,20 J/°C,25 J/°C,50 J/°C,a,Easy
+27,Which of the following is an example of convection?,Heating a metal rod,Boiling water in a pot,Sunlight warming the air,Holding an ice cube in your hand,c,Easy
+28,"What is the process by which a liquid turns into vapor at its surface, below its boiling point?",Boiling,Evaporation,Condensation,Sublimation,b,Easy
+29,Which of the following statements is true regarding the first law of thermodynamics?,It states that energy cannot be created or destroyed.,It states that the entropy of a system tends to increase over time.,"It describes the relationship between pressure, volume, and temperature.",It defines the efficiency of heat engines.,a,Easy
+30,Which term refers to the total kinetic and potential energy of a system's particles?,Temperature,Heat,Internal energy,Enthalpy,c,Easy
+31,Which law of thermodynamics states that the entropy of a system increases over time?,Zeroth Law,First Law,Second Law,Third Law,c,Easy
+32,Which process involves the transfer of heat through direct physical contact between molecules?,Conduction,Convection,Radiation,Evaporation,a,Easy
+33,What is the SI unit of heat?,Joule (J),Calorie (cal),Watt (W),Newton (N),a,Easy
+34,Which of the following materials is a good conductor of heat?,Plastic,Glass,Aluminum,Wood,c,Easy
+35,What is the process by which a gas turns into a liquid?,Evaporation,Sublimation,Condensation,Boiling,c,Easy
+36,"Which law of thermodynamics states that energy cannot be created or destroyed, only transformed from one form to another?",Zeroth Law,First Law,Second Law,Third Law,b,Easy
+37,Which term refers to the heat required to raise the temperature of one gram of a substance by one degree Celsius?,Heat capacity,Specific heat capacity,Thermal conductivity,Heat transfer coefficient,b,Easy
+38,Which of the following materials is an example of a good insulator?,Copper,Aluminum,Styrofoam,Silver,c,Easy
+39,What is the process by which a liquid turns into vapor at its boiling point throughout the liquid?,Evaporation,Vaporization,Sublimation,Condensation,b,Easy
+40,What is the specific heat capacity of water?,1 J/kg°C,4.18 J/kg°C,10 J/kg°C,100 J/kg°C,b,Easy
+41,Which law of thermodynamics deals with the concept of entropy?,Zeroth Law,First Law,Second Law,Third Law,c,Easy
+42,Which of the following is an example of convection?,Heating a metal rod,Boiling water in a pot,Sunlight warming the air,Holding an ice cube in your hand,c,Easy
+43,What is the process by which heat is transferred from the sun to the Earth?,Conduction,Convection,Radiation,Absorption,c,Easy
+44,Which of the following materials is a poor conductor of heat?,Silver,Aluminum,Glass,Iron,c,Easy
+45,What is the heat capacity of a substance if 500 J of heat raises the temperature of 2 kg of the substance by 50°C?,10 J/°C,20 J/°C,25 J/°C,50 J/°C,d,Easy
+46,Which of the following is an example of a phase change?,Heating water from 20°C to 40°C,Melting ice to form water,Mixing two liquids together,Dissolving a solid in a liquid,b,Easy
+47,What is the process by which a solid turns directly into vapor without passing through the liquid phase?,Melting,Freezing,Evaporation,Sublimation,d,Easy
+48,Which of the following materials has the highest specific heat capacity?,Water,Aluminum,Iron,Lead,a,Easy
+49,Which of the following is an example of radiation?,Touching a hot pan,Boiling water in a pot,Sunlight warming the Earth,Heating a room with a heater,c,Easy
+50,"What is the process by which a liquid turns into vapor at its surface, below its boiling point?",Boiling,Evaporation,Condensation,Sublimation,b,Easy
+51,"Which law of thermodynamics states that energy cannot be created or destroyed, only transferred or transformed?",Zeroth Law,First Law,Second Law,Third Law,b,Medium
+52,What is the term for the measure of disorder or randomness in a system?,Entropy,Enthalpy,Entropy change,Internal energy,a,Medium
+53,Which of the following is a statement of the Second Law of Thermodynamics?,Energy cannot be created or destroyed,Heat flows from hot to cold objects spontaneously,Entropy of an isolated system never decreases,All processes proceed to attain equilibrium,c,Medium
+54,What is the efficiency of a heat engine that takes in 500 J of heat and does 200 J of work?,40%,50%,60%,80%,a,Medium
+55,Which of the following is a unit of thermal conductivity?,J/kg°C,m/s,W/m°C,N/m²,c,Medium
+56,What is the term for the heat required to change the phase of a substance?,Sensible heat,Latent heat,Specific heat,Enthalpy,b,Medium
+57,"According to the Zeroth Law of Thermodynamics, if two systems are each in thermal equilibrium with a third system, what can be said about those two systems?",They are in thermal equilibrium with each other,They are at different temperatures,They have different internal energies,They have different entropies,a,Medium
+58,Which of the following is an example of an adiabatic process?,Boiling water in an open pot,Heating a metal rod with a flame,Expanding gas in a perfectly insulated cylinder,Stirring a cup of coffee,c,Medium
+59,What is the Carnot efficiency of an engine operating between temperatures of 500°C and 200°C?,40%,50%,60%,80%,c,Medium
+60,What is the unit of specific heat capacity?,Joule (J),Joule per kilogram per degree Celsius (J/kg°C),Watt (W),Pascal (Pa),b,Medium
+61,In which process does the heat transfer occur due to the actual movement of a fluid?,Conduction,Convection,Radiation,Evaporation,b,Medium
+62,Which of the following statements is true about an ideal gas?,Its volume is negligible compared to its mass,It has no intermolecular forces,Its behavior follows Boyle's Law only,Its internal energy is constant,b,Medium
+63,What is the heat capacity of an object with a mass of 2 kg and a specific heat capacity of 100 J/kg°C?,100 J/°C,200 J/°C,300 J/°C,400 J/°C,b,Medium
+64,Which law of thermodynamics states that absolute zero cannot be reached by any physical process?,Zeroth Law,First Law,Second Law,Third Law,d,Medium
+65,What is the term for the heat required to raise the temperature of a unit mass of a substance by one degree Celsius?,Heat capacity,Specific heat capacity,Latent heat,Enthalpy,b,Medium
+66,Which law of thermodynamics deals with the concept of thermal equilibrium?,Zeroth Law,First Law,Second Law,Third Law,a,Medium
+67,What is the formula for calculating the change in internal energy of a system?,ΔU = Q - W,ΔU = Q + W,ΔU = mCΔT,ΔU = mcΔT,a,Medium
+68,Which of the following materials has the highest thermal conductivity?,Air,Water,Copper,Glass,c,Medium
+69,What happens to the internal energy of a system if no heat is added to or removed from the system?,It increases,It decreases,It remains constant,It becomes zero,c,Medium
+70,What is the term for the maximum amount of work that can be obtained from a system at a constant temperature and pressure?,Enthalpy,Entropy,Internal energy,Gibbs free energy,a,Medium
+71,Which law of thermodynamics states that the entropy of a pure crystalline substance approaches zero as the temperature approaches absolute zero?,Zeroth Law,First Law,Second Law,Third Law,d,Medium
+72,What is the process by which a gas turns into a liquid?,Evaporation,Condensation,Sublimation,Vaporization,b,Medium
+73,What is the formula for calculating thermal conductivity?,k = Q/ΔT,k = Q/(AΔT),k = Q/(mtΔT),k = Q/(mtA),b,Medium
+74,What is the term for the transfer of heat energy through direct contact between particles of a substance?,Conduction,Convection,Radiation,Insulation,a,Medium
+75,"What is the relationship between the pressure and volume of a gas at constant temperature, as described by Boyle's Law?",P ∝ V,P ∝ 1/V,P ∝ V^2,P ∝ 1/V^2,b,Medium
+76,Which law of thermodynamics states that heat flows spontaneously from a hotter body to a colder body?,Zeroth Law,First Law,Second Law,Third Law,c,Medium
+77,What is the formula for calculating work done by a gas during an isobaric process?,W = PΔV,W = nRTΔV,W = ΔT,W = Q + ΔU,a,Medium
+78,What is the process by which heat is transferred through electromagnetic waves?,Conduction,Convection,Radiation,Insulation,c,Medium
+79,"What is the relationship between the pressure and temperature of a gas at constant volume, as described by Gay-Lussac's Law?",P ∝ T,P ∝ 1/T,P ∝ T^2,P ∝ 1/T^2,a,Medium
+80,What is the efficiency of a Carnot heat engine operating between temperatures of 400°C and 100°C?,25%,50%,75%,100%,a,Medium
+81,What is the term for the transfer of heat energy through the bulk movement of fluid particles?,Conduction,Convection,Radiation,Absorption,b,Medium
+82,What is the specific heat capacity of a substance?,The amount of heat required to raise the temperature of a unit mass of the substance by one degree Celsius,The amount of heat required to raise the temperature of a unit volume of the substance by one degree Celsius,The ratio of heat transfer to temperature change for the substance,The temperature change produced by a unit amount of heat transfer to the substance,a,Medium
+83,"Which law of thermodynamics states that if two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other?",Zeroth Law,First Law,Second Law,Third Law,a,Medium
+84,What is the heat capacity of a substance with a mass of 2 kg and a specific heat capacity of 500 J/kg°C?,1000 J/°C,2000 J/°C,250 J/°C,500 J/°C,b,Medium
+85,Which law of thermodynamics deals with the concept of entropy?,Zeroth Law,First Law,Second Law,Third Law,c,Medium
+86,What is the heat capacity of an object if 500 J of heat raises its temperature by 10°C?,50 J/°C,100 J/°C,500 J/°C,1000 J/°C,b,Medium
+87,"Which law of thermodynamics states that energy cannot be created or destroyed, only transformed from one form to another?",Zeroth Law,First Law,Second Law,Third Law,b,Medium
+88,What is the efficiency of a Carnot heat engine operating between temperatures of 800 K and 400 K?,33.33%,50%,66.67%,75%,a,Medium
+89,What is the term for the measure of the disorder or randomness of a system?,Entropy,Enthalpy,Energy,Temperature,a,Medium
+90,What is the formula for calculating the efficiency of a heat engine?,Efficiency = W/Qh,Efficiency = (Qh - Qc)/Qh,Efficiency = Qc/Qh,Efficiency = Qh/Qc,b,Medium
+91,What is the process by which a solid changes directly into a gas without passing through the liquid phase?,Evaporation,Sublimation,Condensation,Fusion,b,Medium
+92,What is the term for the heat required to raise the temperature of a substance without changing its phase?,Sensible heat,Latent heat,Specific heat,Enthalpy,a,Medium
+93,What is the process by which a liquid changes into a gas at its boiling point throughout the liquid?,Vaporization,Evaporation,Sublimation,Condensation,a,Medium
+94,What is the SI unit of thermal conductivity?,J/kg°C,m/s,W/m°C,N/m²,c,Medium
+95,Which law of thermodynamics states that absolute zero cannot be reached by any physical process?,Zeroth Law,First Law,Second Law,Third Law,d,Medium
+96,What is the term for the measure of disorder or randomness in a system?,Entropy,Enthalpy,Entropy change,Internal energy,a,Medium
+97,What is the efficiency of a heat engine that takes in 500 J of heat and does 200 J of work?,40%,50%,60%,80%,a,Medium
+98,Which of the following is a unit of thermal conductivity?,J/kg°C,m/s,W/m°C,N/m²,c,Medium
+99,What is the term for the transfer of heat energy through electromagnetic waves?,Conduction,Convection,Radiation,Insulation,c,Medium
+100,Which law of thermodynamics states that heat flows spontaneously from a hotter body to a colder body and not in the reverse direction without external intervention?,Zeroth Law,First Law,Second Law,Third Law,c,Medium
+101,Which law of thermodynamics states that the total entropy of an isolated system can never decrease over time?,Zeroth Law,First Law,Second Law,Third Law,c,Hard
+102,What is the Clausius statement of the Second Law of Thermodynamics?,Heat cannot spontaneously flow from a colder body to a hotter body,The entropy of a perfect crystal at absolute zero is zero,The energy of the universe is constant,Every energy transfer increases the entropy of the universe,a,Hard
+103,"Which law of thermodynamics states that if two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other?",Zeroth Law,First Law,Second Law,Third Law,a,Hard
+104,What is the Carnot cycle?,A cycle that involves isothermal compression and adiabatic expansion,A cycle that involves isothermal expansion and adiabatic compression,"A reversible cycle composed of four reversible processes: isothermal expansion, adiabatic expansion, isothermal compression, and adiabatic compression",A cycle that involves constant volume processes only,c,Hard
+105,What is the formula for the Carnot efficiency of an engine operating between two temperatures T1 and T2?,(T1 - T2)/T1,(T2 - T1)/T2,T1/T2,T2/T1,a,Hard
+106,What is the thermodynamic property that represents the inability of a system to perform work?,Enthalpy,Entropy,Internal energy,Exergy,d,Hard
+107,What is the Gibbs free energy equation?,G = H - TS,G = U + PV,G = H - PV,G = U - TS,a,Hard
+108,What is the reversible process in thermodynamics?,A process that occurs slowly with no friction or other dissipative effects,A process that occurs rapidly with friction and other dissipative effects,A process that occurs at constant volume,A process that occurs at constant pressure,a,Hard
+109,"What is the equation for the efficiency of a heat engine operating between two temperatures, Th (hot) and Tc (cold)?",(Th - Tc)/Th,(Th - Tc)/Tc,(Tc - Th)/Th,(Tc - Th)/Tc,b,Hard
+110,Which law of thermodynamics states that the entropy of a system approaches a constant value as the temperature approaches absolute zero?,Zeroth Law,First Law,Second Law,Third Law,d,Hard
+111,What is the equation for reversible work done in an isothermal expansion of an ideal gas?,W = -nRTln(V2/V1),W = nRTln(V2/V1),W = -nRTln(P2/P1),W = nRTln(P2/P1),a,Hard
+112,"What is the heat transfer equation for a heat exchanger with a temperature difference ΔT, thermal conductivity k, and surface area A?",Q = kAΔT,Q = k/ΔT,Q = A/ΔT,Q = AΔT,a,Hard
+113,What is the formula for the thermal efficiency of a power plant?,Efficiency = 1 - (Qc/Qh),Efficiency = 1 - (Qh/Qc),Efficiency = (Qh - Qc)/Qh,Efficiency = (Qc - Qh)/Qc,a,Hard
+114,"What is the relationship between the pressure and volume of a gas at constant temperature, as described by Boyle's Law?",P ∝ V,P ∝ 1/V,P ∝ V^2,P ∝ 1/V^2,b,Hard
+115,What is the equation for the reversible work done in an isothermal expansion of an ideal gas?,W = -nRTln(V2/V1),W = nRTln(V2/V1),W = -nRTln(P2/P1),W = nRTln(P2/P1),a,Hard
+116,Which law of thermodynamics states that the energy of the universe is constant?,Zeroth Law,First Law,Second Law,Third Law,b,Hard
+117,What is the equation for calculating the change in entropy of a system?,ΔS = Q/T,ΔS = T/Q,ΔS = Q,ΔS = Q/T,a,Hard
+118,What is the efficiency of a Carnot heat engine operating between temperatures of 500 K and 300 K?,33.33%,40.00%,50.00%,60.00%,b,Hard
+119,What is the equation for the work done by an ideal gas in an isothermal expansion process?,W = nRTln(V2/V1),W = -nRTln(V2/V1),W = nRTln(P2/P1),W = -nRTln(P2/P1),b,Hard
+120,What is the thermodynamic property that represents the maximum useful work obtainable from a system as it approaches equilibrium with its surroundings?,Enthalpy,Entropy,Exergy,Internal energy,c,Hard
+121,"What is the relationship between the internal energy, enthalpy, and pressure of a closed system according to the First Law of Thermodynamics?",ΔU = ΔH - PΔV,ΔH = ΔU + PΔV,ΔU = ΔH + PΔV,ΔH = ΔU - PΔV,b,Hard
+122,What is the Clausius statement of the Second Law of Thermodynamics?,"""No heat engine can be more efficient than a Carnot engine operating between the same two temperatures.""","""Heat cannot spontaneously flow from a colder body to a hotter body.""","""The entropy of a perfect crystal is zero at absolute zero temperature.""","""It is impossible to construct a perpetual motion machine that operates in a cycle and produces no effect other than the transfer of heat from a cooler body to a hotter body.""",b,Hard
+123,"According to the Third Law of Thermodynamics, what is the entropy of a perfect crystal at absolute zero temperature?",Infinite,Zero,Negative,Unpredictable,b,Hard
+124,Which law of thermodynamics is considered to be the basis for the concept of temperature?,Zeroth Law,First Law,Second Law,Third Law,a,Hard
+125,What is the reversible work done by an ideal gas during an isothermal expansion process?,Zero,Positive,Negative,Cannot be determined,a,Hard
+126,What is the mathematical expression for the change in entropy of a substance undergoing a reversible process?,ΔS = Q/T,ΔS = T/Q,ΔS = Q/T + ΔU,ΔS = Q/T - ΔU,a,Hard
+127,What is the efficiency of a Carnot heat engine operating between temperatures of 600 K and 300 K?,50%,66.70%,75%,80%,b,Hard
+128,What is the coefficient of performance (COP) of a refrigerator that extracts 200 J of heat from a refrigerated space while consuming 50 J of work?,0.25,1,4,5,c,Hard
+129,Which law of thermodynamics deals with the concept of entropy?,Zeroth Law,First Law,Second Law,Third Law,c,Hard
+130,What is the efficiency of a Carnot heat engine operating between temperatures of 700 K and 200 K?,50%,60%,70%,75%,c,Hard
+131,What is the formula for the entropy change of an ideal gas undergoing an isothermal expansion?,ΔS = nR ln(Vf/Vi),ΔS = nCln(Tf/Ti),ΔS = nCv ln(Tf/Ti),ΔS = nR ln(Tf/Ti),d,Hard
+132,Which law of thermodynamics states that the entropy of a perfect crystal is zero at absolute zero temperature?,Zeroth Law,First Law,Second Law,Third Law,d,Hard
+133,What is the efficiency of a Carnot heat engine operating between temperatures of 500°C and 100°C?,40%,50%,60%,80%,a,Hard
+134,What is the mathematical expression for the reversible work done by an ideal gas during an isothermal compression process?,W = -nRT ln(Vf/Vi),W = -nRT ln(Pf/Pi),W = -nRT ln(Tf/Ti),W = -nRT ln(Pi/Pf),a,Hard
+135,What is the entropy change of a substance when it undergoes an isothermal reversible expansion?,ΔS = Q/T,ΔS = 0,ΔS = -Q/T,ΔS = nR ln(Vf/Vi),b,Hard
+136,What is the efficiency of a Carnot heat engine operating between temperatures of 600 K and 100 K?,50%,60%,70%,75%,c,Hard
+137,What is the Clausius statement of the Second Law of Thermodynamics?,"""No heat engine can be more efficient than a Carnot engine operating between the same two temperatures.""","""Heat cannot spontaneously flow from a colder body to a hotter body.""","""The entropy of a perfect crystal is zero at absolute zero temperature.""","""It is impossible to construct a perpetual motion machine that operates in a cycle and produces no effect other than the transfer of heat from a cooler body to a hotter body.""",b,Hard
+138,What is the efficiency of a Carnot heat engine operating between temperatures of 700 K and 200 K?,50%,60%,70%,75%,c,Hard
+139,Which of the following statements is true regarding irreversible processes?,They are always more efficient than reversible processes.,They violate the First Law of Thermodynamics.,They result in an increase in entropy of the system and its surroundings.,They are only encountered in idealized systems.,c,Hard
+140,What is the efficiency of a Carnot heat engine operating between temperatures of 800 K and 400 K?,33.33%,50%,66.67%,75%,a,Hard
+141,What is the formula for calculating the efficiency of a heat engine?,Efficiency = W/Qh,Efficiency = (Qh - Qc)/Qh,Efficiency = Qc/Qh,Efficiency = Qh/Qc,b,Hard
+142,What is the entropy change of a substance when it undergoes an adiabatic reversible expansion?,ΔS = 0,ΔS = Q/T,ΔS = -Q/T,ΔS = nR ln(Vf/Vi),a,Hard
+143,What is the reversible work done by an ideal gas during an adiabatic expansion process?,Zero,Positive,Negative,Cannot be determined,a,Hard
+144,What is the efficiency of a Carnot heat engine operating between temperatures of 600 K and 300 K?,50%,66.70%,75%,80%,b,Hard
+145,Which law of thermodynamics states that heat flows spontaneously from a hotter body to a colder body and not in the reverse direction without external intervention?,Zeroth Law,First Law,Second Law,Third Law,c,Hard
+146,What is the formula for the entropy change of an ideal gas undergoing an isentropic process?,ΔS = 0,ΔS = nCv ln(Tf/Ti),ΔS = nR ln(Vf/Vi),ΔS = nCln(Tf/Ti),a,Hard
+147,What is the entropy change of a substance when it undergoes a reversible isothermal compression process?,ΔS = 0,ΔS = Q/T,ΔS = -Q/T,ΔS = nR ln(Vf/Vi),a,Hard
+148,What is the efficiency of a Carnot heat engine operating between temperatures of 800 K and 400 K?,33.33%,50%,66.67%,75%,a,Hard
+149,Which law of thermodynamics deals with the concept of entropy?,Zeroth Law,First Law,Second Law,Third Law,c,Hard
+150,What is the coefficient of performance (COP) of a refrigerator that extracts 200 J of heat from a refrigerated space while consuming 50 J of work?,0.25,1,4,5,c,Hard

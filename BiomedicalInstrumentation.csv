@@ -1,0 +1,152 @@
+﻿id,question,a,b,c,d,answer,level
+1,Which of the following is a non-invasive technique used for measuring blood oxygen saturation levels?,ECG,EEG,Pulse oximetry,Spirometry,c,easy
+2,What does ECG stand for?,Electrocardiogram,Electroencephalogram,Electromyogram,Electroretinogram,a,easy
+3,Which instrument is used to measure blood pressure?,Sphygmomanometer,Spirometer,Stethoscope,ECG machine,a,easy
+4,What does EEG measure?,Heart activity,Brain activity,Lung function,Blood pressure,b,easy
+5,Which instrument is used to measure respiratory rate?,Spirometer,ECG machine,Pulse oximeter,Stethoscope,a,easy
+6,What does EMG measure?,Heart activity,Brain activity,Muscle activity,Blood pressure,c,easy
+7,Which instrument is used to measure body temperature?,Spirometer,ECG machine,Thermometer,Pulse oximeter,c,easy
+8,What does MRI stand for?,Magnetic Resonance Imaging,Medical Radiography Instrument,Muscle Response Indicator,Molecular Resonance Instrument,a,easy
+9,Which instrument is used to measure blood glucose levels?,Sphygmomanometer,Glucometer,Spirometer,Thermometer,b,easy
+10,What does PET stand for in PET scan?,Positron Emission Tomography,Photon Emission Technique,Proton Excitation Testing,Positron Excitation Technique,a,easy
+11,Which instrument is used to measure the electrical activity of muscles and nerves?,Spirometer,EMG machine,EEG machine,MRI scanner,b,easy
+12,What does CT stand for in CT scan?,Computerized Tomography,Centralized Testing,Cranial Tomography,Circulatory Technique,a,easy
+13,Which instrument is used to measure the electrical activity of the brain?,Spirometer,EMG machine,EEG machine,MRI scanner,c,easy
+14,What does BPM stand for in healthcare?,Breaths Per Minute,Blood Pressure Monitor,Beats Per Minute,Blood Pulse Monitor,c,easy
+15,Which instrument is used to measure the oxygen saturation of hemoglobin in arterial blood?,Spirometer,EMG machine,EEG machine,Pulse oximeter,d,easy
+16,What does PACEMAKER measure?,Heart activity,Brain activity,Muscle activity,Blood pressure,a,easy
+17,Which instrument is used to measure the electrical activity of the heart?,Spirometer,EMG machine,ECG machine,MRI scanner,c,easy
+18,What does BP stand for in medical terminology?,Blood Pressure,Breathing Pattern,Blood Plasma,Breathing Pressure,a,easy
+19,Which instrument is used to measure the rate and depth of breathing?,Spirometer,EMG machine,EEG machine,MRI scanner,a,easy
+20,What does FHR stand for in fetal monitoring?,Fetal Heart Rate,Fetal Head Response,Fetal Hand Reflex,Fetal Head Rotation,a,easy
+21,Which instrument is used to measure the electrical activity of the heart over a period of time?,Spirometer,EMG machine,ECG Holter monitor,MRI scanner,c,easy
+22,What does ECG Holter monitor measure?,Heart activity,Brain activity,Muscle activity,Blood pressure,a,easy
+23,Which instrument is used to measure the rate and force of blood flow?,Doppler ultrasound,EMG machine,EEG machine,MRI scanner,a,easy
+24,What does BCG stand for in medical terminology?,Ballistocardiogram,Brain Capillary Glucose,Blood Clotting Gene,Brain Cortex Generator,a,easy
+25,Which instrument is used to monitor and record the electrical activity of the heart during physical activity?,ECG stress test,EMG machine,EEG machine,MRI scanner,a,easy
+26,What does ABG stand for in medical terminology?,Arterial Blood Gas,Automated Blood Glucose,Ankle-Brachial Index,Atrial Blood Glucose,a,easy
+27,Which instrument is used to measure the speed and direction of blood flow in the heart and blood vessels?,Echocardiography,EMG machine,EEG machine,MRI scanner,a,easy
+28,What does NIBP stand for in medical terminology?,Non-Invasive Blood Pressure,Neonatal Infant Blood Pressure,Normal Intracranial Blood Pressure,Newborn Intraocular Blood Pressure,a,easy
+29,Which instrument is used to measure the electrical activity of the brain during sleep?,Polysomnography,EMG machine,EEG machine,MRI scanner,a,easy
+30,What does EMG stand for?,Electrocardiogram,Electromagnetic Generator,Electromyography,Echo Magnetic Graph,c,easy
+31,Which instrument is used to measure the electrical activity of the brain using scalp electrodes?,Spirometer,EMG machine,EEG machine,MRI scanner,c,easy
+32,What does PET stand for in medical imaging?,Positron Emission Tomography,Photon Emission Technique,Proton Excitation Testing,Positron Excitation Technique,a,easy
+33,Which instrument is used to measure the force exerted by the heart muscle as it contracts?,Spirometer,Sphygmomanometer,Dynamometer,Thermometer,c,easy
+34,What does MRI stand for in medical imaging?,Magnetic Resonance Instrument,Magnetic Recording Imaging,Magnetic Resonance Imaging,Magnetic Resonance Intensity,c,easy
+35,"Which instrument is used to measure the electrical activity of the heart over a period of time, typically 24 to 48 hours?",ECG Holter monitor,EMG machine,EEG machine,MRI scanner,a,easy
+36,What does BCG stand for in biomedical instrumentation?,Ballistocardiogram,Blood Glucose Control,Brain Cortex Generator,Biochemical Gas Concentration,a,easy
+37,Which instrument is used to measure the pressure within the chambers of the heart?,Spirometer,Sphygmomanometer,Echocardiograph,Catheter manometer,d,easy
+38,What does ABG stand for in medical diagnostics?,Arterial Blood Glucose,Ankle-Brachial Gradient,Arterial Blood Gas,Automated Blood Glucose,c,easy
+39,"Which instrument is used to measure the electrical activity of the heart during physical activity, such as running on a treadmill?",ECG stress test,EMG machine,EEG machine,MRI scanner,a,easy
+40,What does NIBP stand for in medical terminology?,Non-Invasive Blood Pressure,Neonatal Infant Blood Pressure,Normal Intracranial Blood Pressure,Newborn Intraocular Blood Pressure,a,easy
+41,Which instrument is used to measure the pressure exerted by blood against the walls of arteries during each heartbeat?,Spirometer,Sphygmomanometer,Dynamometer,Calorimeter,b,easy
+42,What does ECG measure?,Brain activity,Muscle activity,Heart activity,Lung activity,c,easy
+43,Which instrument is used to measure the electrical activity of the brain during sleep studies?,Polysomnography,EMG machine,EEG machine,MRI scanner,a,easy
+44,What does FHR stand for in fetal monitoring?,Fetal Heart Rate,Fetal Hand Reflex,Fetal Head Rotation,Fetal Hip Ratio,a,easy
+45,Which instrument is used to measure the concentration of oxygen in arterial blood?,Spirometer,Pulse oximeter,Capnometer,Oximeter,b,easy
+46,What does PACEMAKER measure?,Heart activity,Brain activity,Muscle activity,Blood pressure,a,easy
+47,Which instrument is used to measure the electrical activity of the heart during surgery?,ECG machine,EMG machine,EEG machine,MRI scanner,a,easy
+48,What does BPM stand for in medical terminology?,Breaths Per Minute,Blood Pressure Monitor,Beats Per Minute,Blood Pulse Monitor,c,easy
+49,Which instrument is used to measure the electrical activity of the muscles and nerves during diagnostic procedures?,Spirometer,EMG machine,EEG machine,MRI scanner,b,easy
+50,What does EEG stand for in medical diagnostics?,Electroencephalogram,Electrocardiogram,Electromyogram,Echoencephalogram,a,easy
+51,Which instrument is used to measure the electrical impedance of biological tissues?,Impedance spectroscopy,ECG machine,MRI scanner,Spirometer,a,easy
+52,"Which instrument measures the electrical activity of the heart over a period of time, usually 24 to 48 hours?",ECG Holter monitor,Spirometer,Echocardiograph,EMG machine,a,medium
+53,What is the term for the recording of the electrical activity of the brain using scalp electrodes?,Electromyography,Electroencephalography,Electroneurography,Electroretinography,b,medium
+54,Which imaging modality uses radiofrequency waves and a magnetic field to produce detailed images of the body?,Ultrasound,X-ray,MRI,CT scan,c,medium
+55,What is the purpose of a pulse oximeter?,Measure blood pressure,Monitor oxygen saturation,Record brain waves,Analyze muscle activity,b,medium
+56,Which instrument is used to measure the pressure within the chambers of the heart?,Sphygmomanometer,Electrocardiograph,Cardiac catheter,Echocardiograph,c,medium
+57,"What does the term ""echocardiography"" refer to?",Measurement of brain waves,Imaging of the heart using sound waves,Measurement of muscle activity,Imaging of the lungs using X-rays,b,medium
+58,Which instrument is used to measure the electrical activity of muscles and nerves?,Spirometer,Echocardiograph,EMG machine,MRI scanner,c,medium
+59,What is the purpose of a Doppler ultrasound?,Measure blood pressure,Detect fetal heart rate,Assess blood flow,Monitor brain activity,c,medium
+60,Which instrument is used to measure the electrical activity of the heart?,Spirometer,Electrocardiograph,Echocardiograph,Pulse oximeter,b,medium
+61,"What does the term ""spirometry"" refer to?",Measurement of blood pressure,Assessment of lung function,Monitoring of heart rate,Imaging of the brain,b,medium
+62,Which imaging modality uses sound waves to produce images of the inside of the body?,MRI,CT scan,Ultrasound,PET scan,c,medium
+63,What is the function of a Holter monitor?,Measure blood pressure,Monitor heart rhythm over 24 to 48 hours,Measure oxygen saturation,Assess lung function,b,medium
+64,Which instrument is used to measure the force exerted by the heart as it pumps blood?,Sphygmomanometer,Dynamometer,Cardiac catheter,Echocardiograph,c,medium
+65,"What does the term ""angiography"" refer to?",Imaging of the heart using sound waves,Imaging of blood vessels using X-rays,Measurement of brain waves,Assessment of lung function,b,medium
+66,Which instrument is used to measure the concentration of oxygen in arterial blood?,Spirometer,Electrocardiograph,Pulse oximeter,Echocardiograph,c,medium
+67,What is the purpose of a Holter monitor?,Measure blood pressure,Monitor heart rhythm over 24 to 48 hours,Measure oxygen saturation,Assess lung function,b,medium
+68,Which imaging modality is commonly used for detecting tumors and abnormalities in the body?,Ultrasound,MRI,CT scan,PET scan,b,medium
+69,What is the function of a Doppler ultrasound?,Measure blood pressure,Assess blood flow,Detect fetal heart rate,Monitor brain activity,b,medium
+70,Which instrument is used to measure the rate and depth of breathing?,Spirometer,Electrocardiograph,Echocardiograph,Pulse oximeter,a,medium
+71,"What does the term ""echocardiography"" refer to?",Imaging of the brain using sound waves,Measurement of lung function,Imaging of the heart using sound waves,Assessment of blood flow in arteries,c,medium
+72,Which imaging modality is commonly used to visualize the structure and function of the brain?,Ultrasound,MRI,CT scan,X-ray,b,medium
+73,What is the purpose of a cardiac catheterization?,Measure blood pressure,Assess heart function,Detect lung disease,Visualize blood vessels,d,medium
+74,Which instrument is used to measure the electrical activity of the brain during sleep studies?,Electroencephalograph,Spirometer,Echocardiograph,MRI scanner,a,medium
+75,What is the function of an oximeter?,Measure blood pressure,Assess oxygen saturation,Monitor brain activity,Evaluate muscle function,b,medium
+76,Which imaging modality is commonly used for screening and diagnosis of breast cancer?,Ultrasound,MRI,Mammography,PET scan,c,medium
+77,"What does the term ""electromyography"" refer to?",Imaging of the brain using sound waves,Measurement of lung function,Recording of electrical activity in muscles,Assessment of blood flow in arteries,c,medium
+78,Which instrument is used to measure blood pressure directly within an artery?,Sphygmomanometer,Pulse oximeter,Arterial line,Echocardiograph,c,medium
+79,What is the purpose of a PET scan?,Assess bone density,Evaluate blood flow in the heart,Detect cancer and evaluate organ function,Visualize the gastrointestinal tract,c,medium
+80,Which imaging modality is commonly used to diagnose fractures and bone injuries?,Ultrasound,MRI,CT scan,X-ray,d,medium
+81,What is the function of a capnograph?,Measure blood pressure,Assess carbon dioxide levels in exhaled breath,Monitor oxygen saturation,Evaluate brain activity,b,medium
+82,"Which instrument is used to measure the electrical activity of the heart over a period of time, usually 24 to 48 hours?",ECG Holter monitor,Spirometer,Echocardiograph,EMG machine,a,medium
+83,What is the purpose of a pulse oximeter?,Measure blood pressure,Monitor oxygen saturation,Record brain waves,Analyze muscle activity,b,medium
+84,"What does the term ""echocardiography"" refer to?",Measurement of brain waves,Imaging of the heart using sound waves,Measurement of muscle activity,Imaging of the lungs using X-rays,b,medium
+85,Which instrument is used to measure the electrical activity of muscles and nerves?,Spirometer,Echocardiograph,EMG machine,MRI scanner,c,medium
+86,What is the purpose of a Doppler ultrasound?,Measure blood pressure,Detect fetal heart rate,Assess blood flow,Monitor brain activity,c,medium
+87,"What does the term ""spirometry"" refer to?",Measurement of blood pressure,Assessment of lung function,Monitoring of heart rate,Imaging of the brain,b,medium
+88,Which instrument is used to measure the electrical activity of the heart?,Spirometer,Electrocardiograph,Echocardiograph,Pulse oximeter,b,medium
+89,Which imaging modality uses sound waves to produce images of the inside of the body?,MRI,CT scan,Ultrasound,PET scan,c,medium
+90,Which instrument is used to measure the concentration of oxygen in arterial blood?,Spirometer,Electrocardiograph,Pulse oximeter,Echocardiograph,c,medium
+91,What is the purpose of a Holter monitor?,Measure blood pressure,Monitor heart rhythm over 24 to 48 hours,Measure oxygen saturation,Assess lung function,b,medium
+92,Which imaging modality is commonly used for detecting tumors and abnormalities in the body?,Ultrasound,MRI,CT scan,PET scan,b,medium
+93,What is the function of an oximeter?,Measure blood pressure,Assess oxygen saturation,Monitor brain activity,Evaluate muscle function,b,medium
+94,Which imaging modality is commonly used to visualize the structure and function of the brain?,Ultrasound,MRI,CT scan,X-ray,b,medium
+95,"What does the term ""electromyography"" refer to?",Imaging of the brain using sound waves,Measurement of lung function,Recording of electrical activity in muscles,Assessment of blood flow in arteries,c,medium
+96,Which instrument is used to measure blood pressure directly within an artery?,Sphygmomanometer,Pulse oximeter,Arterial line,Echocardiograph,c,medium
+97,What is the purpose of a PET scan?,Assess bone density,Evaluate blood flow in the heart,Detect cancer and evaluate organ function,Visualize the gastrointestinal tract,c,medium
+98,Which imaging modality is commonly used for screening and diagnosis of breast cancer?,Ultrasound,MRI,Mammography,PET scan,c,medium
+99,What is the function of a capnograph?,Measure blood pressure,Assess carbon dioxide levels in exhaled breath,Monitor oxygen saturation,Evaluate brain activity,b,medium
+100,Which instrument is used to measure the rate and depth of breathing?,Spirometer,Electrocardiograph,Echocardiograph,Pulse oximeter,a,medium
+101,Which imaging modality is commonly used to diagnose fractures and bone injuries?,Ultrasound,MRI,CT scan,X-ray,d,medium
+102,Which technique in medical imaging uses high-frequency sound waves to visualize internal structures?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Computed Tomography (CT),Ultrasonography,d,hard
+103,"What does the term ""phlebotomy"" refer to?",Measurement of blood pressure,Study of blood cells,Insertion of an intravenous catheter,Process of drawing blood from a vein,d,hard
+104,Which imaging modality is based on the principle of nuclear magnetic resonance?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Computed Tomography (CT),Single-Photon Emission Computed Tomography (SPECT),a,hard
+105,"What does the term ""sphygmomanometer"" measure?",Heart rate,Blood oxygen saturation,Blood pressure,Respiratory rate,c,hard
+106,"Which instrument is used to measure the electrical activity of the brain over an extended period, typically 24 hours or more?",Electroencephalography (EEG),Electromyography (EMG),Electrocardiography (ECG),Electroretinography (ERG),a,hard
+107,"What does the term ""electroretinography"" measure?",Electrical activity of the heart,Electrical activity of the brain,Electrical activity of the muscles,Electrical activity of the retina,d,hard
+108,Which instrument is used to measure the oxygen content in arterial blood?,Pulse oximeter,Capnograph,Blood gas analyzer,Spirometer,c,hard
+109,What is the purpose of a Holter monitor?,Measure blood pressure,Monitor heart rhythm over an extended period,Measure oxygen saturation,Assess lung function,b,hard
+110,Which imaging modality uses gamma rays emitted by a radioactive tracer to produce images of internal organs?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Computed Tomography (CT),Ultrasound,b,hard
+111,What is the function of a transducer in medical ultrasound?,To convert electrical energy into sound waves,To convert sound waves into electrical signals,To amplify electrical signals,To filter out unwanted frequencies,b,hard
+112,Which imaging modality uses X-rays to produce cross-sectional images of the body?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Computed Tomography (CT),Ultrasound,c,hard
+113,What is the function of a pacemaker in cardiology?,To monitor heart rate,To regulate blood pressure,To maintain normal heart rhythm,To measure cardiac output,c,hard
+114,Which instrument is used to measure the pressure within the chambers of the heart?,Echocardiograph,Cardiac catheter,Sphygmomanometer,Spirometer,b,hard
+115,What is the purpose of a flow cytometer in laboratory medicine?,To measure blood pressure,To count and analyze cells,To measure oxygen saturation,To assess lung function,b,hard
+116,Which imaging modality is used to visualize blood vessels and blood flow in real-time?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Computed Tomography Angiography (CTA),Fluoroscopy,c,hard
+117,"What does the term ""hemodialysis"" refer to?",A technique for measuring blood pressure,A diagnostic test for kidney function,A treatment for kidney failure,A procedure for measuring blood glucose levels,c,hard
+118,Which instrument is used to measure the electrical activity of the heart during physical activity?,Holter monitor,Treadmill stress test,Echocardiogram,Cardiac catheterization,b,hard
+119,What is the function of a defibrillator in emergency medicine?,To measure blood pressure,To regulate heart rate,To deliver an electric shock to restore normal heart rhythm,To administer medication,c,hard
+120,Which instrument is used to measure the electrical activity of muscles and nerves during diagnostic procedures?,Spirometer,Electromyograph (EMG),Electrocardiograph (ECG),Electroencephalograph (EEG),b,hard
+121,What is the purpose of a blood gas analyzer?,To measure blood pressure,To assess oxygen saturation,To analyze the concentration of gases in arterial blood,To measure cardiac output,c,hard
+122,Which instrument is used to measure the electrical activity of the brain during surgery or in intensive care units?,Electroencephalograph (EEG),Electromyograph (EMG),Electrocardiograph (ECG),Electroretinograph (ERG),a,hard
+123,"What does the term ""oximetry"" refer to?",Measurement of blood pressure,Assessment of lung function,Measurement of oxygen saturation,Assessment of blood glucose levels,c,hard
+124,Which imaging modality is used to visualize blood flow in the heart and blood vessels?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Computed Tomography Angiography (CTA),Echocardiography,d,hard
+125,What is the function of a spirometer?,To measure blood pressure,To monitor oxygen saturation,To assess lung function,To measure cardiac output,c,hard
+126,Which instrument is used to measure the concentration of gases in exhaled breath?,Capnograph,Spirometer,Oximeter,Blood gas analyzer,a,hard
+127,What is the purpose of a cardiac catheterization?,To measure blood pressure,To assess heart function,To detect lung disease,To visualize blood vessels,d,hard
+128,Which instrument is used to measure the electrical activity of the heart during exercise?,Holter monitor,Echocardiograph,Treadmill stress test,Cardiac catheter,c,hard
+129,What is the function of a flow cytometer in laboratory medicine?,To measure blood pressure,To count and analyze cells,To measure oxygen saturation,To assess lung function,b,hard
+130,Which imaging modality is used to diagnose and monitor diseases such as cancer and heart disease?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Computed Tomography (CT),X-ray,b,hard
+131,What is the purpose of a Holter monitor?,Measure blood pressure,Monitor heart rhythm over an extended period,Measure oxygen saturation,Assess lung function,b,hard
+132,Which instrument is used to measure the electrical activity of the brain with high temporal resolution?,Electroencephalograph (EEG),Magnetoencephalograph (MEG),Electrocardiograph (ECG),Positron Emission Tomography (PET),b,hard
+133,What is the function of a microelectrode array in neuroscience research?,Measure blood pressure,Record neural activity from multiple locations simultaneously,Monitor oxygen saturation,Analyze brain waves,b,hard
+134,Which imaging modality provides high-resolution images of cellular structures and molecular processes within living organisms?,Optical coherence tomography (OCT),Single-photon emission computed tomography (SPECT),Diffusion tensor imaging (DTI),Fluorescence microscopy,d,hard
+135,"What does the term ""spectroscopy"" refer to in biomedical instrumentation?",Measurement of blood pressure,Analysis of tissue morphology,Measurement of absorption or emission of light by molecules,Assessment of lung function,c,hard
+136,Which instrument is used to measure the electrical activity of the heart with high spatial resolution?,Electroencephalograph (EEG),Electrocardiograph (ECG),Electroretinograph (ERG),Vectorcardiograph (VCG),d,hard
+137,What is the function of a patch clamp electrode in electrophysiology?,Measure blood pressure,Record single-channel ion currents across cell membranes,Monitor oxygen saturation,Analyze brain waves,b,hard
+138,Which imaging modality is used to visualize the distribution of radioactive tracers in the body?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Computed Tomography (CT),Ultrasonography,b,hard
+139,What is the purpose of a gamma camera in nuclear medicine?,Measure blood pressure,Detect and image gamma radiation emitted by radioactive tracers,Monitor oxygen saturation,Analyze brain waves,b,hard
+140,Which instrument is used to measure the mechanical properties of biological tissues?,Sphygmomanometer,Viscometer,Tensiometer,Rheometer,d,hard
+141,"What does the term ""optogenetics"" refer to in neuroscience research?",Measurement of blood pressure using optical sensors,Study of the optical properties of biological tissues,Use of light to control neural activity in genetically modified organisms,Analysis of brain waves using optical techniques,c,hard
+142,Which imaging modality uses sound waves to produce detailed images of blood vessels and soft tissues?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Computed Tomography Angiography (CTA),Intravascular Ultrasound (IVUS),d,hard
+143,What is the function of a confocal microscope in biological research?,Measure blood pressure,Visualize cellular structures with high spatial resolution,Monitor oxygen saturation,Analyze brain waves,b,hard
+144,Which instrument is used to measure the mechanical properties of single cells?,Atomic force microscope (AFM),Scanning electron microscope (SEM),Transmission electron microscope (TEM),Fluorescence microscope,a,hard
+145,"What does the term ""cytometry"" refer to in biomedical research?",Measurement of blood pressure,Analysis of cellular properties and functions,Assessment of lung function,Monitoring of oxygen saturation,b,hard
+146,Which instrument is used to study the mechanics of biological tissues under physiological conditions?,Oscilloscope,Bioreactor,Spectrophotometer,Cryostat,b,hard
+147,What is the purpose of a laser Doppler flowmeter in biomedical research?,Measure blood pressure,Assess blood flow in tissues,Monitor oxygen saturation,Analyze brain waves,b,hard
+148,Which imaging modality provides real-time visualization of cellular and subcellular structures?,Magnetic Resonance Imaging (MRI),Positron Emission Tomography (PET),Optical Coherence Tomography (OCT),Fluorescence Resonance Energy Transfer (FRET),c,hard
+149,What is the function of a patch clamp electrode in electrophysiology?,Measure blood pressure,Record single-channel ion currents across cell membranes,Monitor oxygen saturation,Analyze brain waves,b,hard
+150,Which instrument is used to measure the mechanical properties of biological tissues?,Sphygmomanometer,Viscometer,Tensiometer,Rheometer,d,hard
+151,"What does the term ""optogenetics"" refer to in neuroscience research?",Measurement of blood pressure using optical sensors,Study of the optical properties of biological tissues,Use of light to control neural activity in genetically modified organisms,Analysis of brain waves using optical techniques,c,hard

@@ -1,0 +1,151 @@
+Qid,Questions,A,B,C,D,Options,Levels
+1,Which theory explains the movement of particles in a fluid due to random motion?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,A,Easy
+2,Which theory describes the diffusion of a solute in a solvent?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,B,Easy
+3,What theory governs the transfer of heat through a solid material?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+4,"Which theory explains the relationship between force, mass, and acceleration?",Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,C,Easy
+5,What theory describes the relationship between the concentration gradient and the diffusion flux?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,B,Easy
+6,Which theory explains the transfer of momentum between fluid layers?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+7,What theory governs the movement of particles in a fluid under the influence of an external force?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+8,Which theory explains the relationship between the rate of heat transfer and the temperature gradient?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+9,What theory describes the movement of fluid particles due to differences in pressure?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Bernoulli's equation theory,D,Easy
+10,Which theory explains the relationship between shear stress and velocity gradient in a fluid?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+11,What theory describes the movement of particles in a fluid due to thermal motion?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,A,Easy
+12,Which theory explains the transfer of mass between fluid layers?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,B,Easy
+13,What theory governs the transfer of energy through a fluid medium?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+14,"Which theory explains the relationship between force, mass, and acceleration?",Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,C,Easy
+15,What theory describes the relationship between the concentration gradient and the diffusion flux?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,B,Easy
+16,Which theory explains the transfer of momentum between fluid layers?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+17,What theory governs the movement of particles in a fluid under the influence of an external force?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+18,Which theory explains the relationship between the rate of heat transfer and the temperature gradient?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+19,What theory describes the movement of fluid particles due to differences in pressure?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Bernoulli's equation theory,D,Easy
+20,Which theory explains the relationship between shear stress and velocity gradient in a fluid?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+21,What theory describes the movement of particles in a fluid due to thermal motion?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,A,Easy
+22,Which theory explains the transfer of mass between fluid layers?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,B,Easy
+23,What theory governs the transfer of energy through a fluid medium?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+24,"Which theory explains the relationship between force, mass, and acceleration?",Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,C,Easy
+25,What theory describes the relationship between the concentration gradient and the diffusion flux?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,B,Easy
+26,Which theory explains the transfer of momentum between fluid layers?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+27,What theory governs the movement of particles in a fluid under the influence of an external force?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,C,Easy
+28,Which theory explains the relationship between the rate of heat transfer and the temperature gradient?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+29,What theory describes the movement of fluid particles due to differences in pressure?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Bernoulli's equation theory,D,Easy
+30,Which theory explains the relationship between shear stress and velocity gradient in a fluid?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+31,What theory describes the movement of particles in a fluid due to thermal motion?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,A,Easy
+32,Which theory explains the transfer of mass between fluid layers?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,B,Easy
+33,What theory governs the transfer of energy through a fluid medium?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+34,"Which theory explains the relationship between force, mass, and acceleration?",Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,C,Easy
+35,What theory describes the relationship between the concentration gradient and the diffusion flux?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,B,Easy
+36,Which theory explains the transfer of momentum between fluid layers?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+37,What theory governs the movement of particles in a fluid under the influence of an external force?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,C,Easy
+38,Which theory explains the relationship between the rate of heat transfer and the temperature gradient?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+39,What theory describes the movement of fluid particles due to differences in pressure?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Bernoulli's equation theory,D,Easy
+40,Which theory explains the relationship between shear stress and velocity gradient in a fluid?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+41,What theory describes the movement of particles in a fluid due to thermal motion?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,A,Easy
+42,Which theory explains the transfer of mass between fluid layers?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,B,Easy
+43,What theory governs the transfer of energy through a fluid medium?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+44,"Which theory explains the relationship between force, mass, and acceleration?",Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,C,Easy
+45,What theory describes the relationship between the concentration gradient and the diffusion flux?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Fourier's law theory,B,Easy
+46,Which theory explains the transfer of momentum between fluid layers?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+47,What theory governs the movement of particles in a fluid under the influence of an external force?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,C,Easy
+48,Which theory explains the relationship between the rate of heat transfer and the temperature gradient?,Brownian motion theory,Fick's first law theory,Newton's law of cooling theory,Fourier's law theory,D,Easy
+49,What theory describes the movement of fluid particles due to differences in pressure?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Bernoulli's equation theory,D,Easy
+50,Which theory explains the relationship between shear stress and velocity gradient in a fluid?,Brownian motion theory,Fick's first law theory,Newton's second law theory,Navier-Stokes equations theory,D,Easy
+51,Which equation describes the movement of particles due to concentration gradients?,Fick's First Law,Fourier's Law,Ohm's Law,Newton's Second Law,A,Medium
+52,What phenomenon does Fourier's Law describe?,Diffusion of mass,Conduction of heat,Convection of fluids,Radiation of energy,B,Medium
+53,Which parameter determines the rate of heat transfer through a material?,Thermal conductivity,Thermal diffusivity,Thermal expansion coefficient,Specific heat capacity,A,Medium
+54,Which law describes the relationship between the velocity gradient and shear stress in fluid flow?,Fick's Law,Stokes' Law,Hooke's Law,Newton's Law of Viscosity,D,Medium
+55,What is the fundamental principle behind Bernoulli's equation?,Conservation of mass,Conservation of energy,Conservation of momentum,Conservation of charge,B,Medium
+56,Which equation governs the flow of fluid through a porous medium?,Darcy's Law,Hagen-Poiseuille Equation,Navier-Stokes Equation,Reynolds Transport Theorem,A,Medium
+57,What does the Reynolds number signify in fluid mechanics?,Flow regime,Thermal conductivity,Electrical conductivity,Pressure gradient,A,Medium
+58,Which equation describes the relationship between concentration gradient and diffusion flux in multicomponent systems?,Fick's First Law,Fick's Second Law,Fourier's Law,Newton's Law of Cooling,B,Medium
+59,What is the primary governing equation in the study of fluid flow?,Ohm's Law,Fick's Law,Newton's Second Law,Navier-Stokes Equation,D,Medium
+60,What phenomenon does Newton's Law of Cooling describe?,Diffusion of heat,Convection of fluids,Radiation of energy,Thermal conductivity,B,Medium
+61,Which equation represents the rate of heat transfer through a solid material?,Darcy's Law,Newton's Law of Cooling,Fourier's Law,Navier-Stokes Equation,C,Medium
+62,What parameter determines the diffusion rate of a substance in a medium?,Concentration gradient,Temperature gradient,Viscosity,Density,A,Medium
+63,Which law governs the motion of particles suspended in a fluid medium?,Newton's Second Law,Stokes' Law,Hooke's Law,Bernoulli's Equation,B,Medium
+64,What phenomenon does the Stefan-Boltzmann Law describe?,Conduction of heat,Convection of fluids,Radiation of energy,Diffusion of mass,C,Medium
+65,Which equation describes the motion of a viscous fluid in a pipe?,Darcy's Law,Hagen-Poiseuille Equation,Navier-Stokes Equation,Reynolds Transport Theorem,C,Medium
+66,What does the Peclet number represent in transport phenomena?,Ratio of conduction to convection,Ratio of viscous forces to inertial forces,Ratio of diffusion to convection,Ratio of gravitational to viscous forces,C,Medium
+67,"Which equation describes the relationship between pressure, velocity, and elevation in fluid flow?",Bernoulli's Equation,Navier-Stokes Equation,Hagen-Poiseuille Equation,Darcy's Law,A,Medium
+68,What is the primary force responsible for fluid flow in porous media?,Gravity,Surface tension,Capillary action,Pressure gradient,D,Medium
+69,Which law describes the force exerted by a fluid on an immersed object?,Pascal's Law,Archimedes' Principle,Boyle's Law,Gay-Lussac's Law,B,Medium
+70,What is the primary factor affecting the Reynolds number in fluid flow?,Fluid density,Fluid viscosity,Pipe diameter,Pressure gradient,B,Medium
+71,Which equation describes the flow of electric current through a conducting medium?,Ohm's Law,Coulomb's Law,Ampere's Law,Faraday's Law,A,Medium
+72,What does the Nusselt number signify in convective heat transfer?,Ratio of convective to conductive heat transfer,Ratio of buoyancy to viscous forces,Ratio of heat transfer to temperature gradient,Ratio of fluid density to thermal conductivity,A,Medium
+73,Which equation represents the rate of mass transfer through a medium?,Fourier's Law,Fick's First Law,Ohm's Law,Hooke's Law,B,Medium
+74,What is the primary factor affecting the Schmidt number in mass transfer?,Diffusivity of the solute,Density of the solute,Temperature gradient,Viscosity of the solvent,A,Medium
+75,Which equation governs the flow of current through an electrical conductor?,Ohm's Law,Coulomb's Law,Ampere's Law,Faraday's Law,A,Medium
+76,What phenomenon does Darcy's Law describe?,Fluid flow through porous media,Heat conduction in solids,Mass diffusion in liquids,Electrical conduction in semiconductors,A,Medium
+77,Which parameter determines the flow regime in fluid dynamics?,Reynolds number,Peclet number,Nusselt number,Schmidt number,A,Medium
+78,What is the primary factor affecting the Peclet number in mass transfer?,Diffusivity of the solute,Density of the solvent,Velocity of the fluid,Temperature gradient,C,Medium
+79,Which equation describes the relationship between the pressure drop and flow rate in a pipe?,Poiseuille's Law,Darcy's Law,Hagen-Poiseuille Equation,Bernoulli's Equation,A,Medium
+80,What phenomenon does Navier-Stokes Equation describe?,Heat conduction in fluids,Mass diffusion in fluids,Fluid flow behavior,Electrical conduction in fluids,C,Medium
+81,Which parameter determines the convective heat transfer coefficient in conduction?,Fluid density,Fluid viscosity,Fluid velocity,Fluid thermal conductivity,C,Medium
+82,What does the Prandtl number signify in fluid dynamics?,Ratio of momentum diffusivity to thermal diffusivity,Ratio of viscous forces to inertial forces,Ratio of thermal conductivity to dynamic viscosity,Ratio of gravitational to viscous forces,C,Medium
+83,Which equation describes the relationship between pressure and volume in fluid mechanics?,Boyle's Law,Charles' Law,Dalton's Law,Gay-Lussac's Law,A,Medium
+84,What is the primary factor affecting the Schmidt number in mass transfer?,Diffusivity of the solute,Density of the solute,Temperature gradient,Viscosity of the solvent,A,Medium
+85,Which equation represents the rate of mass transfer through a medium?,Fourier's Law,Fick's First Law,Ohm's Law,Hooke's Law,B,Medium
+86,What is the primary factor affecting the Peclet number in mass transfer?,Diffusivity of the solute,Density of the solvent,Velocity of the fluid,Temperature gradient,C,Medium
+87,Which equation describes the relationship between the pressure drop and flow rate in a pipe?,Poiseuille's Law,Darcy's Law,Hagen-Poiseuille Equation,Bernoulli's Equation,A,Medium
+88,What phenomenon does Navier-Stokes Equation describe?,Heat conduction in fluids,Mass diffusion in fluids,Fluid flow behavior,Electrical conduction in fluids,C,Medium
+89,Which parameter determines the convective heat transfer coefficient in conduction?,Fluid density,Fluid viscosity,Fluid velocity,Fluid thermal conductivity,C,Medium
+90,What does the Prandtl number signify in fluid dynamics?,Ratio of momentum diffusivity to thermal diffusivity,Ratio of viscous forces to inertial forces,Ratio of thermal conductivity to dynamic viscosity,Ratio of gravitational to viscous forces,C,Medium
+91,Which equation describes the relationship between pressure and volume in fluid mechanics?,Boyle's Law,Charles' Law,Dalton's Law,Gay-Lussac's Law,A,Medium
+92,What phenomenon does the Nusselt number describe in convective heat transfer?,Conduction resistance,Convection resistance,Radiation resistance,Heat transfer coefficient,D,Medium
+93,Which equation governs the convective heat transfer between a fluid and a solid surface?,Fourier's Law,Newton's Law of Cooling,Ohm's Law,Fick's First Law,B,Medium
+94,What parameter does the Lewis number characterize in mass transfer?,Rate of mass transfer,Thermal diffusivity to mass diffusivity ratio,Diffusivity of the solute,Diffusivity of the solvent,B,Medium
+95,Which equation governs the motion of particles suspended in a fluid under gravity?,Archimedes' Principle,Newton's Second Law,Stokes' Law,Darcy's Law,C,Medium
+96,What does the Sherwood number represent in mass transfer?,Ratio of convective to diffusive mass transfer,Ratio of viscous forces to inertial forces,Ratio of thermal conductivity to dynamic viscosity,Ratio of gravitational to viscous forces,A,Medium
+97,Which equation describes the relationship between fluid velocity and pressure gradient in a pipe?,Poiseuille's Law,Darcy's Law,Hagen-Poiseuille Equation,Navier-Stokes Equation,D,Medium
+98,What is the primary factor affecting the Stanton number in convective heat transfer?,Fluid density,Fluid velocity,Fluid temperature,Heat transfer coefficient,D,Medium
+99,Which equation represents the rate of heat transfer through a solid material?,Fourier's Law,Newton's Law of Cooling,Ohm's Law,Fick's First Law,A,Medium
+100,What parameter does the Schmidt number characterize in mass transfer?,Rate of mass transfer,Thermal diffusivity to mass diffusivity ratio,Diffusivity of the solute,Diffusivity of the solvent,B,Medium
+101,Which equation describes the non-linear relationship between velocity and pressure gradient in fluid flow?,Navier-Stokes Equation,Hagen-Poiseuille Equation,Reynolds Transport Theorem,Darcy's Law,A,Hard
+102,What phenomenon does the Prandtl number signify in fluid dynamics?,Transition from laminar to turbulent flow,Ratio of thermal diffusivity to momentum diffusivity,Effect of temperature on viscosity,Relationship between pressure and velocity,B,Hard
+103,Which equation describes the convective heat transfer between two fluids with different properties?,Nusselt's Equation,Fourier's Law,Darcy's Law,Fick's Second Law,A,Hard
+104,What is the primary factor affecting the Grashof number in natural convection?,Thermal conductivity,Viscosity,Density,Surface area,C,Hard
+105,Which equation governs the non-linear behavior of fluid flow near a solid boundary?,Stokes' Law,Hagen-Poiseuille Equation,Blasius Equation,Navier-Stokes Equation,C,Hard
+106,What phenomenon does the Sherwood number represent in mass transfer?,Rate of mass transfer,Ratio of convective to diffusive mass transfer,Ratio of thermal conductivity to dynamic viscosity,Ratio of gravitational to viscous forces,B,Hard
+107,Which equation describes the convective heat transfer coefficient for laminar flow over a flat plate?,Stanton's Equation,Prandtl's Equation,Colburn's Equation,Churchill's Equation,D,Hard
+108,What parameter does the Schmidt number characterize in mass transfer?,Rate of mass transfer,Thermal diffusivity to mass diffusivity ratio,Diffusivity of the solute,Diffusivity of the solvent,B,Hard
+109,Which equation governs the behavior of fluid flow in porous media with variable porosity?,Forchheimer's Equation,Brinkman Equation,Ergun Equation,Kozeny-Carman Equation,B,Hard
+110,What is the primary factor affecting the Stanton number in convective heat transfer?,Fluid density,Fluid velocity,Fluid temperature,Heat transfer coefficient,D,Hard
+111,Which equation describes the non-linear relationship between velocity and pressure gradient in fluid flow?,Navier-Stokes Equation,Hagen-Poiseuille Equation,Reynolds Transport Theorem,Darcy's Law,A,Hard
+112,What phenomenon does the Prandtl number signify in fluid dynamics?,Transition from laminar to turbulent flow,Ratio of thermal diffusivity to momentum diffusivity,Effect of temperature on viscosity,Relationship between pressure and velocity,B,Hard
+113,Which equation describes the convective heat transfer between two fluids with different properties?,Nusselt's Equation,Fourier's Law,Darcy's Law,Fick's Second Law,A,Hard
+114,What is the primary factor affecting the Grashof number in natural convection?,Thermal conductivity,Viscosity,Density,Surface area,C,Hard
+115,Which equation governs the non-linear behavior of fluid flow near a solid boundary?,Stokes' Law,Hagen-Poiseuille Equation,Blasius Equation,Navier-Stokes Equation,C,Hard
+116,What phenomenon does the Sherwood number represent in mass transfer?,Rate of mass transfer,Ratio of convective to diffusive mass transfer,Ratio of thermal conductivity to dynamic viscosity,Ratio of gravitational to viscous forces,B,Hard
+117,Which equation describes the convective heat transfer coefficient for laminar flow over a flat plate?,Stanton's Equation,Prandtl's Equation,Colburn's Equation,Churchill's Equation,D,Hard
+118,What parameter does the Schmidt number characterize in mass transfer?,Rate of mass transfer,Thermal diffusivity to mass diffusivity ratio,Diffusivity of the solute,Diffusivity of the solvent,B,Hard
+119,Which equation governs the behavior of fluid flow in porous media with variable porosity?,Forchheimer's Equation,Brinkman Equation,Ergun Equation,Kozeny-Carman Equation,B,Hard
+120,What is the primary factor affecting the Stanton number in convective heat transfer?,Fluid density,Fluid velocity,Fluid temperature,Heat transfer coefficient,D,Hard
+121,Which equation describes the flow of a non-Newtonian fluid?,Hagen-Poiseuille Equation,Bingham Plastic Model,Navier-Stokes Equation,Reynolds Transport Theorem,B,Hard
+122,Which equation describes the flow of a non-Newtonian fluid?,Hagen-Poiseuille Equation,Bingham Plastic Model,Navier-Stokes Equation,Reynolds Transport Theorem,B,Hard
+123,What phenomenon does the Peclet number characterize in transport phenomena?,Ratio of convective to diffusive transport,Ratio of viscous forces to inertial forces,Ratio of thermal conductivity to diffusivity,Ratio of gravitational to viscous forces,A,Hard
+124,Which equation describes the convective mass transfer in laminar flow conditions?,Nusselt's Equation,Sherwood's Equation,Fourier's Law,Fick's Second Law,B,Hard
+125,What is the primary factor affecting the Schmidt number in mass transfer?,Diffusivity of the solute,Density of the fluid,Viscosity of the fluid,Temperature gradient,A,Hard
+126,Which equation governs the flow of fluid through porous media under non-linear conditions?,Ergun Equation,Forchheimer's Equation,Kozeny-Carman Equation,Brinkman Equation,B,Hard
+127,What phenomenon does the Grashof number characterize in natural convection?,The rate of heat transfer in free convection,The ratio of buoyancy to viscous forces,The effect of temperature gradient on fluid flow,The effect of pressure gradient on fluid flow,B,Hard
+128,Which equation describes the convective heat transfer for turbulent flow over a flat plate?,Stanton's Equation,Prandtl's Equation,Colburn's Equation,Churchill's Equation,C,Hard
+129,What parameter does the Reynolds number characterize in fluid dynamics?,Ratio of viscous forces to inertial forces,Ratio of thermal conductivity to diffusivity,Ratio of gravitational to viscous forces,Ratio of convective to diffusive transport,A,Hard
+130,Which equation governs the flow of fluid through a porous medium under non-linear conditions?,Kozeny-Carman Equation,Forchheimer's Equation,Darcy's Law,Brinkman Equation,B,Hard
+131,What phenomenon does the Biot number characterize in heat transfer?,Ratio of convective to conductive resistance,Ratio of buoyancy to viscous forces,Effect of temperature gradient on fluid flow,Effect of pressure gradient on fluid flow,A,Hard
+132,Which equation describes the transport of energy in a solid material?,Fourier's Law,Newton's Law of Cooling,Fick's First Law,Ohm's Law,A,Hard
+133,What is the primary factor affecting the Peclet number in mass transfer?,Diffusivity of the solute,Density of the fluid,Viscosity of the fluid,Temperature gradient,C,Hard
+134,Which equation governs the flow of fluid through porous media under non-linear conditions?,Ergun Equation,Forchheimer's Equation,Kozeny-Carman Equation,Brinkman Equation,B,Hard
+135,What phenomenon does the Grashof number characterize in natural convection?,The rate of heat transfer in free convection,The ratio of buoyancy to viscous forces,The effect of temperature gradient on fluid flow,The effect of pressure gradient on fluid flow,B,Hard
+136,Which equation describes the convective heat transfer for turbulent flow over a flat plate?,Stanton's Equation,Prandtl's Equation,Colburn's Equation,Churchill's Equation,C,Hard
+137,What parameter does the Reynolds number characterize in fluid dynamics?,Ratio of viscous forces to inertial forces,Ratio of thermal conductivity to diffusivity,Ratio of gravitational to viscous forces,Ratio of convective to diffusive transport,A,Hard
+138,Which equation governs the flow of fluid through a porous medium under non-linear conditions?,Kozeny-Carman Equation,Forchheimer's Equation,Darcy's Law,Brinkman Equation,B,Hard
+139,What phenomenon does the Biot number characterize in heat transfer?,Ratio of convective to conductive resistance,Ratio of buoyancy to viscous forces,Effect of temperature gradient on fluid flow,Effect of pressure gradient on fluid flow,A,Hard
+140,Which equation describes the transport of energy in a solid material?,Fourier's Law,Newton's Law of Cooling,Fick's First Law,Ohm's Law,A,Hard
+141,What is the primary factor affecting the Peclet number in mass transfer?,Diffusivity of the solute,Density of the fluid,Viscosity of the fluid,Temperature gradient,C,Hard
+142,Which equation governs the flow of fluid through porous media under non-linear conditions?,Ergun Equation,Forchheimer's Equation,Kozeny-Carman Equation,Brinkman Equation,B,Hard
+143,What phenomenon does the Grashof number characterize in natural convection?,The rate of heat transfer in free convection,The ratio of buoyancy to viscous forces,The effect of temperature gradient on fluid flow,The effect of pressure gradient on fluid flow,B,Hard
+144,Which equation describes the convective heat transfer for turbulent flow over a flat plate?,Stanton's Equation,Prandtl's Equation,Colburn's Equation,Churchill's Equation,C,Hard
+145,What parameter does the Reynolds number characterize in fluid dynamics?,Ratio of viscous forces to inertial forces,Ratio of thermal conductivity to diffusivity,Ratio of gravitational to viscous forces,Ratio of convective to diffusive transport,A,Hard
+146,Which equation governs the flow of fluid through a porous medium under non-linear conditions?,Kozeny-Carman Equation,Forchheimer's Equation,Darcy's Law,Brinkman Equation,B,Hard
+147,What phenomenon does the Biot number characterize in heat transfer?,Ratio of convective to conductive resistance,Ratio of buoyancy to viscous forces,Effect of temperature gradient on fluid flow,Effect of pressure gradient on fluid flow,A,Hard
+148,Which equation describes the transport of energy in a solid material?,Fourier's Law,Newton's Law of Cooling,Fick's First Law,Ohm's Law,A,Hard
+149,What is the primary factor affecting the Peclet number in mass transfer?,Diffusivity of the solute,Density of the fluid,Viscosity of the fluid,Temperature gradient,C,Hard
+150,Which equation governs the flow of fluid through porous media under non-linear conditions?,Ergun Equation,Forchheimer's Equation,Kozeny-Carman Equation,Brinkman Equation,B,Hard

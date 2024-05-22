@@ -1,0 +1,152 @@
+﻿id,question,a ,b,c,d ,answer,level
+1,Which imaging technique uses X-rays to produce detailed images of the inside of the body?,MRI,CT scan,Ultrasound,PET scan,b,easy
+2,What does MRI stand for?,Magnetic Radiation Imaging,Magnetic Resonance Imaging,Medical Radiographic Imaging,Microscopic Radiographic Imaging,b,easy
+3,Which imaging technique is commonly used for examining the fetal development during pregnancy?,X-ray,MRI,Ultrasound,CT scan,c,easy
+4,What is the primary advantage of using ultrasound imaging?,It does not use ionizing radiation,It provides detailed images of bone structures,It is less expensive than other imaging techniques,It can visualize soft tissue with high resolution,a,easy
+5,Which imaging modality is most effective in detecting abnormalities in soft tissues such as the brain and spinal cord?,X-ray,MRI,CT scan,PET scan,b,easy
+6,Which imaging technique is often used for detecting and monitoring cancer?,X-ray,MRI,Ultrasound,PET scan,d,easy
+7,What is the primary disadvantage of X-ray imaging?,It exposes patients to ionizing radiation,It cannot produce detailed images of internal organs,It is expensive,It requires a long scanning time,a,easy
+8,Which imaging technique is commonly used for evaluating the blood flow through arteries and veins?,X-ray,MRI,Ultrasound,CT angiography,d,easy
+9,What does PET stand for in PET scan?,Positron Emission Technology,Positron Emission Tomography,Photon Emission Technology,Photon Emission Tomography,b,easy
+10,Which imaging modality is often used for detecting fractures and evaluating joint injuries?,MRI,CT scan,X-ray,Ultrasound,c,easy
+11,What type of images does a mammogram produce?,Images of the brain,Images of the breasts,Images of the abdomen,Images of the bones,b,easy
+12,Which imaging technique is commonly used for evaluating the function of the heart?,X-ray,MRI,Ultrasound,Echocardiography,d,easy
+13,Which imaging modality is often used for guiding minimally invasive procedures such as biopsies?,X-ray,MRI,Ultrasound,CT scan,c,easy
+14,Which imaging technique is commonly used for visualizing the gastrointestinal tract?,MRI,CT scan,X-ray,Ultrasound,c,easy
+15,What is the primary advantage of using CT scans?,They provide detailed images of soft tissues,They do not use ionizing radiation,They are less expensive than MRI,They can rapidly acquire images of large areas,d,easy
+16,Which imaging modality uses sound waves to create images of the inside of the body?,MRI,CT scan,X-ray,Ultrasound,d,easy
+17,What does CT stand for in CT scan?,Computerized Tomography,Computed Topography,Cranial Tomography,Cerebral Tomography,a,easy
+18,Which imaging technique is commonly used for evaluating the function of the lungs?,X-ray,MRI,Ultrasound,Pulmonary function tests,a,easy
+19,What is the primary advantage of MRI over CT scans?,It provides higher resolution images,It is less expensive,It does not use ionizing radiation,It can rapidly acquire images,c,easy
+20,Which imaging modality is often used for evaluating conditions of the musculoskeletal system such as arthritis?,X-ray,MRI,CT scan,Ultrasound,b,easy
+21,What does MRI stand for?,Magnetic Radiation Imaging,Magnetic Resonance Imaging,Medical Radiographic Imaging,Microscopic Radiographic Imaging,b,easy
+22,What is the primary advantage of using ultrasound imaging?,It does not use ionizing radiation,It provides detailed images of bone structures,It is less expensive than other imaging techniques,It can visualize soft tissue with high resolution,a,easy
+23,23. Which imaging technique is commonly used for examining the fetal development during pregnancy?,X-ray,MRI,Ultrasound,CT scan,c,easy
+24,24. Which imaging modality is most effective in detecting abnormalities in soft tissues such as the brain and spinal cord?,X-ray,MRI,CT scan,PET scan,b,easy
+25,25. Which imaging technique is often used for detecting and monitoring cancer?,X-ray,MRI,Ultrasound,PET scan,d,easy
+26,26. What is the term for the point in a fluid flow where the velocity of the fluid becomes equal to or exceeds the speed of sound?,Sonic point,Supersonic point,Transonic point,Mach point,b,easy
+27,27. Which property of a fluid determines its resistance to changes in shape?,Viscosity,Surface tension,Compressibility,Elasticity,d,easy
+28,28. What is the term for the maximum velocity that a fluid can achieve in a converging-diverging nozzle?,Mach number,Choked flow velocity,Critical velocity,Sonic velocity,b,easy
+29,29. What is the term for the angle between the chord line of an airfoil and the direction of the relative wind?,Angle of incidence,Angle of attack,Angle of divergence,Angle of sweep,b,easy
+30,30. Which imaging technique is commonly used for visualizing the gastrointestinal tract?,MRI,CT scan,X-ray,Ultrasound,c,easy
+31,31. What is the primary advantage of using CT scans?,They provide detailed images of soft tissues,They do not use ionizing radiation,They are less expensive than MRI,They can rapidly acquire images of large areas,d,easy
+32,32. Which imaging modality is often used for guiding minimally invasive procedures such as biopsies?,X-ray,MRI,Ultrasound,CT scan,c,easy
+33,33. Which imaging technique is commonly used for evaluating the function of the heart?,X-ray,MRI,Ultrasound,Echocardiography,d,easy
+34,"34. What is the term for the phenomenon where the air pressure on the upper surface of an airfoil decreases, leading to lift generation?",Bernoulli effect,Coanda effect,Magnus effect,Venturi effect,a,easy
+35,35. What does CT stand for in CT scan?,Computerized Tomography,Computed Topography,Cranial Tomography,Cerebral Tomography,a,easy
+36,36. What is the term for the maximum speed at which an aircraft can travel without experiencing compressibility effects?,Critical Mach number,Mach angle,Sonic Mach number,Transonic Mach number,a,easy
+37,37. Which imaging technique is commonly used for evaluating the function of the lungs?,X-ray,MRI,Ultrasound,Pulmonary function tests,a,easy
+38,38. Which imaging modality is often used for evaluating conditions of the musculoskeletal system such as arthritis?,X-ray,MRI,CT scan,Ultrasound,b,easy
+39,39. What is the primary advantage of MRI over CT scans?,It provides higher resolution images,It is less expensive,It does not use ionizing radiation,It can rapidly acquire images,c,easy
+40,40. Which imaging modality uses sound waves to create images of the inside of the body?,MRI,CT scan,X-ray,Ultrasound,d,easy
+41,41. What is the primary advantage of using ultrasound imaging?,It does not use ionizing radiation,It provides detailed images of bone structures,It is less expensive than other imaging techniques,It can visualize soft tissue with high resolution,a,easy
+42,42. Which imaging modality is often used for evaluating the function of the liver?,X-ray,MRI,Ultrasound,PET scan,c,easy
+43,43. What is the term for the ability of an imaging technique to distinguish between different types of tissue based on their physical properties?,Contrast resolution,Spatial resolution,Temporal resolution,Sensitivity,a,easy
+44,What is the primary disadvantage of X-ray imaging?,It exposes patients to ionizing radiation,It cannot produce detailed images of internal organs,It is expensive,It requires a long scanning time,a,easy
+45,"Which imaging modality is often used for evaluating conditions of the cardiovascular system, such as blocked arteries?",X-ray,MRI,Ultrasound,Angiography,d,easy
+46,What is the term for the process of converting X-ray attenuation data into cross-sectional images of the body?,Reconstruction,Transmission,Diffraction,Absorption,a,easy
+47,Which imaging modality is commonly used for examining the structure and function of the kidneys?,X-ray,MRI,Ultrasound,Intravenous urography,c,easy
+48,What is the primary advantage of using contrast agents in medical imaging?,They improve the visibility of certain structures or abnormalities,They reduce the scanning time,They eliminate the need for ionizing radiation,They lower the cost of imaging procedures,a,easy
+49,Which imaging modality is often used for guiding needle biopsies and other minimally invasive procedures?,MRI,CT scan,Fluoroscopy,Nuclear medicine imaging,c,easy
+50,What is the term for the ability of an imaging technique to produce clear and detailed images of small structures?,Spatial resolution,Temporal resolution,Contrast resolution,Sensitivity,a,easy
+51,Which imaging modality uses gamma rays emitted by a radioactive tracer to produce images of internal organs and tissues?,MRI,Ultrasound,PET scan,X-ray,c,medium
+52,What does PET stand for in PET scan?,Positron Emission Technology,Positron Emission Tomography,Photon Emission Technology,Photon Emission Tomography,b,medium
+53,Which imaging technique is commonly used for detecting bone fractures and evaluating joint disorders?,MRI,Ultrasound,X-ray,CT scan,c,medium
+54,What is the primary advantage of using MRI over CT scans?,It provides higher resolution images,It is less expensive,It does not use ionizing radiation,It can rapidly acquire images,c,medium
+55,Which imaging modality is often used for evaluating conditions of the brain and spinal cord?,X-ray,MRI,Ultrasound,PET scan,b,medium
+56,What is the term for the process of producing a 3D image of an object using X-rays from multiple angles?,Reconstruction,Transmission,Diffraction,Absorption,a,medium
+57,Which imaging technique is commonly used for examining the structure and function of the heart?,X-ray,MRI,Echocardiography,CT scan,c,medium
+58,"What is the term for the phenomenon where the air pressure on the upper surface of an airfoil decreases, leading to lift generation?",Bernoulli effect,Coanda effect,Magnus effect,Venturi effect,a,medium
+59,Which imaging modality is often used for guiding minimally invasive procedures such as biopsies and catheter insertions?,X-ray,MRI,Ultrasound,CT scan,c,medium
+60,What is the primary advantage of using contrast agents in medical imaging?,They improve the visibility of certain structures or abnormalities,They reduce the scanning time,They eliminate the need for ionizing radiation,They lower the cost of imaging procedures,a,medium
+61,Which imaging modality is commonly used for evaluating conditions of the musculoskeletal system such as ligament injuries?,X-ray,MRI,Ultrasound,CT scan,b,medium
+62,What is the primary disadvantage of MRI compared to other imaging modalities?,It is expensive,It uses ionizing radiation,It cannot produce detailed images of bone structures,It requires a long scanning time,d,medium
+63,Which imaging technique is commonly used for evaluating conditions of the gastrointestinal tract such as ulcers?,X-ray,MRI,Ultrasound,CT scan,a,medium
+64,What is the term for the maximum speed at which an aircraft can travel without experiencing compressibility effects?,Critical Mach number,Mach angle,Sonic Mach number,Transonic Mach number,a,medium
+65,Which imaging modality is often used for evaluating conditions of the urinary system such as kidney stones?,X-ray,MRI,Ultrasound,CT scan,d,medium
+66,What is the term for the ability of an imaging technique to produce clear and detailed images of small structures?,Spatial resolution,Temporal resolution,Contrast resolution,Sensitivity,a,medium
+67,Which imaging modality is commonly used for evaluating conditions of the liver such as tumors?,X-ray,MRI,Ultrasound,CT scan,d,medium
+68,Which imaging technique is commonly used for evaluating conditions of the reproductive system such as ovarian cysts?,X-ray,MRI,Ultrasound,CT scan,c,medium
+69,What is the term for the process of converting X-ray attenuation data into cross-sectional images of the body?,Reconstruction,Transmission,Diffraction,Absorption,a,medium
+70,Which imaging modality is often used for monitoring the progression of neurodegenerative diseases such as Alzheimer's?,X-ray,MRI,PET scan,Ultrasound,c,medium
+71,What is the term for the ratio of the signal strength of an image to the amount of noise present in that image?,Contrast resolution,Signal-to-noise ratio,Temporal resolution,Sensitivity,b,medium
+72,Which imaging modality is commonly used for evaluating conditions of the lungs such as pulmonary embolism?,X-ray,MRI,Ultrasound,CT scan,d,medium
+73,What is the primary disadvantage of X-ray imaging?,It exposes patients to ionizing radiation,It cannot produce detailed images of soft tissues,It is expensive,It requires a long scanning time,a,medium
+74,Which imaging modality is often used for guiding minimally invasive procedures such as needle biopsies and ablations?,X-ray,MRI,Ultrasound,CT scan,c,medium
+75,What is the term for the ability of an imaging technique to distinguish between different types of tissue based on their physical properties?,Contrast resolution,Spatial resolution,Temporal resolution,Sensitivity,a,medium
+76,Which imaging modality is commonly used for evaluating conditions of the digestive system such as Crohn's disease?,X-ray,MRI,Ultrasound,CT scan,b,medium
+77,What is the term for the maximum speed at which an aircraft can travel without experiencing compressibility effects?,Critical Mach number,Mach angle,Sonic Mach number,Transonic Mach number,a,medium
+78,Which imaging modality is often used for evaluating conditions of the cardiovascular system such as heart disease?,X-ray,MRI,Echocardiography,CT angiography,c,medium
+79,Which imaging technique is commonly used for evaluating conditions of the urinary system such as kidney stones?,X-ray,MRI,Ultrasound,CT scan,d,medium
+80,What is the primary advantage of using contrast agents in medical imaging?,They improve the visibility of certain structures or abnormalities,They reduce the scanning time,They eliminate the need for ionizing radiation,They lower the cost of imaging procedures,a,medium
+81,Which imaging modality is commonly used for evaluating conditions of the liver such as tumors?,X-ray,MRI,Ultrasound,CT scan,d,medium
+82,Which imaging technique is commonly used for evaluating conditions of the reproductive system such as ovarian cysts?,X-ray,MRI,Ultrasound,CT scan,c,medium
+83,What is the term for the process of converting X-ray attenuation data into cross-sectional images of the body?,Reconstruction,Transmission,Diffraction,Absorption,a,medium
+84,Which imaging modality is often used for monitoring the progression of neurodegenerative diseases such as Alzheimer's?,X-ray,MRI,PET scan,Ultrasound,c,medium
+85,What is the term for the ratio of the signal strength of an image to the amount of noise present in that image?,Contrast resolution,Signal-to-noise ratio,Temporal resolution,Sensitivity,b,medium
+86,Which imaging modality is commonly used for evaluating conditions of the lungs such as pulmonary embolism?,X-ray,MRI,Ultrasound,CT scan,d,medium
+87,What is the primary disadvantage of X-ray imaging?,It exposes patients to ionizing radiation,It cannot produce detailed images of soft tissues,It is expensive,It requires a long scanning time,a,medium
+88,Which imaging modality uses radioactive tracers to visualize the metabolic activity of tissues in the body?,X-ray,MRI,Ultrasound,PET scan,d,medium
+89,What is the primary advantage of using MRI over X-ray imaging?,It provides higher spatial resolution,It does not expose patients to ionizing radiation,It is less expensive,It produces images in real-time,b,medium
+90,"Which imaging technique is commonly used for detecting abnormalities in breast tissue, such as tumors?",X-ray,MRI,Mammography,PET scan,c,medium
+91,What is the term for the process of converting raw data from medical imaging scans into visual images?,Reconstruction,Transmission,Absorption,Diffraction,a,medium
+92,"Which imaging modality is often used for evaluating conditions of the gastrointestinal tract, such as ulcers or inflammation?",MRI,Ultrasound,CT scan,Barium swallow,d,medium
+93,What is the primary advantage of using ultrasound imaging?,It provides detailed images of bone structures,It is less expensive than other imaging modalities,It does not require a contrast agent,It can penetrate bone easily,b,medium
+94,"Which imaging modality is commonly used for evaluating conditions of the brain, such as tumors or hemorrhages?",X-ray,MRI,CT scan,PET scan,b,medium
+95,What is the term for the ratio of the intensity of light emitted by a phosphor to the intensity of X-rays striking the phosphor?,Sensitivity,Signal-to-noise ratio,Contrast resolution,Conversion efficiency,d,medium
+96,Which imaging technique is commonly used for visualizing blood vessels and detecting blockages or aneurysms?,MRI angiography,Ultrasound,CT angiography,PET scan,c,medium
+97,What is the primary disadvantage of using X-ray imaging?,It exposes patients to ionizing radiation,It produces low-resolution images,It is expensive,It requires a long scanning time,a,medium
+98,Which imaging modality is often used for guiding needle biopsies and other minimally invasive procedures?,X-ray fluoroscopy,MRI,Ultrasound,PET scan,a,medium
+99,,,,,,,
+100,"Which imaging modality is commonly used for evaluating conditions of the musculoskeletal system, such as fractures or joint abnormalities?",MRI,Ultrasound,X-ray,CT scan,c,medium
+101,What is the term for the ability of an imaging technique to distinguish between different types of tissue based on their densities?,Sensitivity,Specificity,Contrast resolution,Temporal resolution,c,medium
+102,Which imaging modality is often used for monitoring the function of organs such as the thyroid or kidneys?,X-ray,MRI,Nuclear medicine imaging,Ultrasound,c,medium
+103,"Which imaging modality is often used for evaluating conditions of the gastrointestinal tract, such as Crohn's disease, using a specialized endoscope?",MRI,Endoscopic ultrasound,Fluoroscopy,CT scan,b,hard
+104,What is the term for the process of using high-energy X-rays to destroy cancer cells?,Radiography,Radiotherapy,Fluoroscopy,Tomography,b,hard
+105,Which imaging modality is commonly used for visualizing blood flow in the heart and detecting abnormalities such as stenosis or regurgitation?,MRI,Echocardiography,CT angiography,Nuclear medicine imaging,b,hard
+106,What is the term for the phenomenon where a contrast agent leaks out of blood vessels and accumulates in surrounding tissues?,Contrast extravasation,Contrast migration,Contrast nephropathy,Contrast enhancement,a,hard
+107,Which imaging technique is commonly used for visualizing the internal structure of bones and detecting fractures or bone tumors?,X-ray,MRI,Ultrasound,PET scan,a,hard
+108,"What is the term for the ability of an imaging technique to differentiate between tissues with similar densities, such as distinguishing between gray and white matter in the brain?",Contrast resolution,Spatial resolution,Temporal resolution,Sensitivity,a,hard
+109,"Which imaging modality uses a combination of X-rays and computer algorithms to produce detailed, cross-sectional images of the body?",MRI,Ultrasound,PET scan,CT scan,d,hard
+110,What is the term for the process of using ultrasound waves to break up kidney stones into smaller fragments that can be passed out of the body?,Lithotripsy,Angioplasty,Tomography,Myelography,a,hard
+111,"Which imaging modality is commonly used for detecting and staging cancers, particularly in the breast, lung, and prostate?",MRI,PET scan,CT scan,Nuclear medicine imaging,b,hard
+112,What is the term for the technique used to visualize blood vessels by injecting a contrast agent directly into the vessels?,Fluoroscopy,Angiography,Tomography,SPECT imaging,b,hard
+113,"Which imaging modality is often used for evaluating conditions of the liver, such as cirrhosis or liver tumors?",X-ray,MRI,Ultrasound,CT scan,d,hard
+114,What is the term for the process of using radioactive tracers to diagnose medical conditions by measuring their distribution in the body?,Radiotherapy,Radiography,Nuclear medicine imaging,Mammography,c,hard
+115,"Which imaging technique is commonly used for evaluating conditions of the nervous system, such as brain tumors or spinal cord injuries?",MRI,PET scan,X-ray,Fluoroscopy,a,hard
+116,What is the term for the distortion of an image caused by variations in the speed of sound through different tissues?,Beam hardening,Slice thickness,Refraction artifact,Attenuation artifact,c,hard
+117,Which imaging modality is often used for guiding needle biopsies and other minimally invasive procedures in real-time?,MRI,X-ray fluoroscopy,PET scan,SPECT imaging,b,hard
+118,What is the term for the phenomenon where air bubbles form in the bloodstream due to rapid changes in pressure during medical procedures?,Embolism,Thrombosis,Cavitation,Hemorrhage,c,hard
+119,"Which imaging modality is commonly used for evaluating conditions of the kidneys and urinary system, such as renal cysts or kidney stones?",MRI,PET scan,Ultrasound,CT scan,d,hard
+120,What is the term for the technique used to visualize blood vessels by injecting a contrast agent into the bloodstream and then capturing X-ray images?,MRI angiography,CT angiography,Digital subtraction angiography,Doppler ultrasound,c,hard
+121,"Which imaging modality is often used for evaluating conditions of the lungs, such as pulmonary embolism or lung cancer?",X-ray,MRI,Ultrasound,CT scan,d,hard
+122,What is the term for the process of using a computer to reconstruct images from multiple X-ray projections acquired at different angles?,Tomography,Computed radiography,Fluoroscopy,Image fusion,a,hard
+123,"Which imaging technique is commonly used for evaluating conditions of the gastrointestinal tract, such as inflammatory bowel disease or colorectal polyp?",MRI,Ultrasound,CT colonography,Barium swallow,c,hard
+124,"What is the term for the process of using focused ultrasound waves to heat and destroy abnormal tissue, such as tumors?",Ultrasound lithotripsy,Ultrasound ablation,Ultrasound angioplasty,Ultrasound thrombolysis,b,hard
+125,"Which imaging modality is often used for evaluating conditions of the reproductive system, such as ovarian cysts or testicular tumors?",MRI,X-ray,Ultrasound,PET scan,c,hard
+126,What is the term for the process of using a contrast agent to enhance the visibility of blood vessels in MRI scans?,Magnetic resonance angiography,Magnetic resonance imaging,Magnetic resonance spectroscopy,Magnetic resonance elastography,a,hard
+127,"Which imaging modality is commonly used for evaluating conditions of the spine, such as herniated discs or spinal stenosis?",MRI,X-ray,CT scan,Ultrasound,a,hard
+128,What is the term for the phenomenon where an imaging technique produces false signals or artifacts due to patient movement during the scan?,Motion artifact,Beam hardening,Attenuation artifact,Scatter artifact,a,hard
+129,"Which imaging modality is often used for evaluating conditions of the joints, such as arthritis or ligament tears?",X-ray,MRI,Ultrasound,CT scan,b,hard
+130,What is the term for the process of using a contrast agent to enhance the visibility of blood vessels in X-ray angiography?,Fluoroscopy,Digital subtraction angiography,Computed radiography,Barium swallow,b,hard
+131,"Which imaging modality is commonly used for evaluating conditions of the eyes and orbits, such as retinal detachment or orbital tumors?",MRI,Ultrasound,X-ray,CT scan,a,hard
+132,What is the term for the technique used to visualize blood vessels by injecting a contrast agent into the bloodstream and then capturing X-ray images in real-time?,Magnetic resonance angiography,Digital subtraction angiography,CT angiography,Fluoroscopy,d,hard
+133,"Which imaging modality is commonly used for evaluating conditions of the thyroid gland, such as thyroid nodules or thyroid cancer?",MRI,X-ray,Ultrasound,PET scan,c,hard
+134,What is the term for the phenomenon where a contrast agent leaks out of blood vessels and accumulates in surrounding tissues?,Contrast extravasation,Contrast migration,Contrast nephropathy,Contrast enhancement,a,hard
+135,"Which imaging technique is commonly used for detecting abnormalities in breast tissue, such as tumors, particularly in women with dense breast tissue?",MRI,Mammography,Ultrasound,PET scan,b,hard
+136,What is the term for the process of using high-energy X-rays to destroy cancer cells while minimizing damage to surrounding healthy tissue?,Radiotherapy,Radiography,Fluoroscopy,Tomotherapy,a,hard
+137,"Which imaging modality is often used for evaluating conditions of the gastrointestinal tract, such as Crohn's disease, using a specialized endoscope?",MRI,Endoscopic ultrasound,Fluoroscopy,CT scan,b,hard
+138,What is the term for the process of using ultrasound waves to break up kidney stones into smaller fragments that can be passed out of the body?,Lithotripsy,Angioplasty,Tomography,Myelography,a,hard
+139,"Which imaging modality is commonly used for evaluating conditions of the cardiovascular system, such as heart disease and structural abnormalities?",X-ray,MRI,Echocardiography,CT scan,c,hard
+140,What is the term for the technique used to visualize blood vessels by injecting a contrast agent directly into the vessels?,Fluoroscopy,Angiography,Tomography,SPECT imaging,b,hard
+141,"Which imaging modality is often used for evaluating conditions of the lungs, such as pulmonary embolism or lung cancer, particularly in patients who cannot undergo CT scanning?",MRI,X-ray,Ultrasound,PET scan,b,hard
+142,What is the term for the process of using a contrast agent to enhance the visibility of blood vessels in MRI scans?,Magnetic resonance angiography,Magnetic resonance imaging,Magnetic resonance spectroscopy,Magnetic resonance elastography,a,hard
+143,Which imaging modality utilizes positron-emitting radioactive tracers to map the metabolic activity of tissues?,MRI,PET scan,CT scan,SPECT imaging,b,hard
+144,What is the term for the technique used to visualize blood vessels by injecting a contrast agent directly into the vessels and then capturing X-ray images?,Magnetic resonance angiography,Digital subtraction angiography,CT angiography,Fluoroscopy,b,hard
+145,Which imaging modality employs sound waves and Doppler techniques to evaluate blood flow in the body?,MRI,PET scan,Ultrasound,X-ray,c,hard
+146,What is the term for the process of using X-ray imaging during surgery to guide the surgeon's actions in real-time?,Intraoperative MRI,Intraoperative CT,Intraoperative ultrasound,Intraoperative fluoroscopy,d,hard
+147,Which imaging technique utilizes a combination of X-rays and computer algorithms to create three-dimensional images of internal organs and structures?,MRI,PET scan,CT scan,X-ray fluoroscopy,c,hard
+148,"Which imaging modality is commonly used for evaluating conditions of the musculoskeletal system, such as sports injuries or bone fractures, using a specialized MRI scanner?",Functional MRI,Diffusion-weighted MRI,Spectroscopy,MRI arthrography,d,hard
+149,What is the term for the process of using a contrast agent to enhance the visibility of blood vessels in MRI scans?,Magnetic resonance angiography,Magnetic resonance imaging,Magnetic resonance spectroscopy,Magnetic resonance elastography,a,hard
+150,"Which imaging modality is often used for evaluating conditions of the urinary system, such as kidney stones or renal tumors, using a combination of X-rays and contrast agents?",Intravenous pyelography,Retrograde pyelography,Cystography,Urography,a,hard
+151,"What is the term for the technique used to visualize blood vessels by injecting a contrast agent into the bloodstream and then capturing X-ray images in real-time, often used during cardiac catheterization procedures?",Coronary angiography,Cerebral angiography,Peripheral angiography,Abdominal angiography,a,hard

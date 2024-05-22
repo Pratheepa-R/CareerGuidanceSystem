@@ -1,0 +1,154 @@
+﻿id,question,a,b ,c,d ,answer,level
+1,What is the branch of chemical engineering that deals with the design and optimization of chemical reactors?,Thermodynamics,Kinetics,Reaction engineering,Fluid mechanics,c,easy
+2,Which type of reactor operates at constant volume and is often used for batch reactions?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,d,easy
+3,"In a first-order reaction, the rate of reaction is proportional to which parameter?",Concentration of reactants,Concentration of products,Temperature,Pressure,a,easy
+4,What is the term for the minimum energy required to initiate a chemical reaction?,Activation energy,Gibbs free energy,Enthalpy,Entropy,a,easy
+5,"Which type of reactor is characterized by perfect mixing, leading to uniform concentration throughout the reactor?",Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,easy
+6,Which law describes the relationship between the rate of a chemical reaction and the concentration of reactants?,Boyle's law,Charles's law,Le Chatelier's principle,Law of mass action,d,easy
+7,What is the term for the ratio of the actual reaction rate to the maximum possible reaction rate?,Selectivity,Yield,Conversion,Reaction rate constant,c,easy
+8,Which factor does not affect the rate of a chemical reaction?,Temperature,Pressure,Concentration of reactants,Presence of catalyst,b,easy
+9,Which reactor configuration is commonly used for heterogeneous catalytic reactions?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,c,easy
+10,What is the term for the measure of the extent to which a reactant is converted into products in a chemical reaction?,Rate constant,Selectivity,Yield,Conversion,d,easy
+11,Which parameter describes the selectivity of a reaction?,Temperature,Pressure,Ratio of desired product to undesired products,Concentration of reactants,c,easy
+12,What is the term for a substance that alters the rate of a chemical reaction without being consumed in the process?,Reactant,Product,Catalyst,Inhibitor,c,easy
+13,Which type of reaction occurs when two or more reactants combine to form a single product?,Decomposition,Combination,Displacement,Substitution,b,easy
+14,What is the term for the temperature at which the rate of a forward reaction equals the rate of the reverse reaction in a reversible reaction?,Equilibrium temperature,Activation temperature,Transition temperature,Kinetic temperature,a,easy
+15,Which factor affects the selectivity of a reaction?,Temperature,Pressure,Catalyst,Concentration of reactants,c,easy
+16,Which type of reactor is often used for large-scale industrial processes due to its simplicity and low operating cost?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,easy
+17,What is the term for a reaction in which a single reactant breaks down into two or more products?,Decomposition,Combination,Displacement,Substitution,a,easy
+18,Which law states that the rate of a reaction is directly proportional to the product of the concentrations of the reactants?,Boyle's law,Charles's law,Le Chatelier's principle,Law of mass action,d,easy
+19,What is the term for the time required for the concentration of a reactant to decrease to half of its initial value in a first-order reaction?,Half-life,Reaction time,Residence time,Retention time,a,easy
+20,Which reactor configuration is characterized by the gradual change in concentration along the length of the reactor?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,easy
+21,What is the term for the process of increasing the rate of a chemical reaction by increasing the temperature?,Inhibition,Deactivation,Activation,Saturation,c,easy
+22,Which factor does not affect the equilibrium constant of a reaction?,Temperature,Pressure,Concentration of reactants,Catalyst,d,easy
+23,Which type of reaction occurs when a single reactant breaks down into simpler products?,Decomposition,Combination,Displacement,Substitution,a,easy
+24,What is the term for the temperature at which a chemical reaction proceeds at its maximum rate?,Critical temperature,Boiling temperature,Ignition temperature,Optimum temperature,d,easy
+25,Which reactor configuration is often used for continuous-flow processes in which reactants are fed into the reactor continuously?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,easy
+26,What is the term for the process of slowing down or stopping a chemical reaction?,Inhibition,Deactivation,Activation,Saturation,a,easy
+27,"What is the term for the condition where the rate of the forward reaction equals the rate of the reverse reaction, resulting in no net change in the concentrations of reactants and products?",Equilibrium,Activation,Saturation,Acceleration,a,easy
+28,"Which type of reaction involves the exchange of ions between two compounds, leading to the formation of two new compounds?",Decomposition,Combination,Displacement,Ion-exchange,d,easy
+29,What is the term for the point during a reaction where the rate of the forward reaction equals the rate of the reverse reaction?,Equilibrium point,Half-life point,Transition point,Inflection point,a,easy
+30,Which factor does not affect the selectivity of a reaction?,Temperature,Pressure,Catalyst,Reactant concentration,b,easy
+31,What is the term for the total amount of reactants converted into products in a chemical reaction?,Yield,Rate,Conversion,Selectivity,a,easy
+32,Which reactor configuration is suitable for reactions that require a long residence time?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,easy
+33,What is the term for a reaction in which two reactants exchange atoms or groups of atoms to form two new compounds?,Decomposition,Combination,Displacement,Substitution,d,easy
+34,Which type of reaction involves the breaking down of a compound into simpler substances?,Decomposition,Combination,Displacement,Substitution,a,easy
+35,What is the term for the process of increasing the rate of a chemical reaction by adding a substance that increases the frequency of collisions between reactant molecules?,Activation,Inhibition,Catalysis,Deactivation,c,easy
+36,Which reactor configuration is often used for reactions involving solids that remain stationary while reactants flow over them?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,c,easy
+37,What is the term for the minimum energy required for a reaction to occur?,Activation energy,Gibbs free energy,Enthalpy,Entropy,a,easy
+38,Which factor affects the rate of a chemical reaction?,Temperature,Pressure,Catalyst,All of the above,d,easy
+39,What is the term for the ratio of the rate of the desired reaction to the rate of undesired side reactions?,Rate constant,Selectivity,Yield,Conversion,b,easy
+40,Which law describes the relationship between the rate of a reaction and the concentrations of reactants raised to their respective powers?,Boyle's law,Charles's law,Le Chatelier's principle,Law of mass action,d,easy
+41,What is the term for the temperature at which the rate of a chemical reaction doubles for every 10-degree increase in temperature?,Activation temperature,Optimum temperature,Kinetic temperature,Arrhenius temperature,d,easy
+42,Which type of reactor operates at constant pressure and is often used for gas-phase reactions?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,easy
+43,What is the term for the measure of the change in concentration of reactants or products per unit time?,Rate constant,Reaction rate,Conversion rate,Yield rate,b,easy
+44,Which type of reaction occurs when a compound breaks down into two or more simpler substances?,Decomposition,Combination,Displacement,Substitution,a,easy
+45,What is the term for the ratio of the concentration of a reactant at any given time to its initial concentration in a first-order reaction?,Reaction rate constant,Half-life,Residence time,Reaction order,b,easy
+46,Which factor does not affect the equilibrium constant of a reaction?,Temperature,Pressure,Concentration of products,Presence of catalyst,d,easy
+47,What is the term for the rate of a reaction when all reactants are present in stoichiometric proportions?,Specific rate constant,Arrhenius constant,Kinetic constant,Rate-determining step,a,easy
+48,Which type of reaction involves the transfer of an electron or electrons from one substance to another?,Decomposition,Combination,Displacement,Redox,d,easy
+49,What is the term for a reaction in which the number of atoms of each element is the same in both the reactants and products?,Balanced reaction,Stoichiometric reaction,Equilibrium reaction,Catalytic reaction,a,easy
+50,Which factor does not affect the rate of a chemical reaction?,Temperature,Pressure,Concentration of reactants,Volume of the reactor,d,medium
+51,What is the term for the point during a reaction where the rate of the forward reaction equals the rate of the reverse reaction?,Equilibrium point,Half-life point,Transition point,Inflection point,a,medium
+52,Which type of reactor is characterized by the gradual change in concentration along the length of the reactor?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,medium
+53,What is the term for the ratio of the actual reaction rate to the maximum possible reaction rate?,Selectivity,Yield,Conversion,Reaction rate constant,c,medium
+54,Which law describes the relationship between the rate of a reaction and the concentrations of reactants raised to their respective powers?,Boyle's law,Charles's law,Le Chatelier's principle,Law of mass action,d,medium
+55,What is the term for the total amount of reactants converted into products in a chemical reaction?,Yield,Rate,Conversion,Selectivity,a,medium
+56,Which reactor configuration is often used for gas-phase reactions?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,medium
+57,What is the term for the process of increasing the rate of a chemical reaction by adding a substance that increases the frequency of collisions between reactant molecules?,Activation,Inhibition,Catalysis,Deactivation,c,medium
+58,"Which type of reaction involves the exchange of ions between two compounds, leading to the formation of two new compounds?",Decomposition,Combination,Displacement,Ion-exchange,d,medium
+59,What is the term for the temperature at which the rate of a chemical reaction doubles for every 10-degree increase in temperature?,Activation temperature,Optimum temperature,Kinetic temperature,Arrhenius temperature,d,medium
+60,Which reactor configuration is often used for reactions involving solids that remain stationary while reactants flow over them?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,c,medium
+61,What is the term for the process of slowing down or stopping a chemical reaction?,Inhibition,Deactivation,Activation,Saturation,a,medium
+62,Which factor does not affect the equilibrium constant of a reaction?,Temperature,Pressure,Concentration of products,Presence of catalyst,d,medium
+63,What is the term for the measure of the change in concentration of reactants or products per unit time?,Rate constant,Reaction rate,Conversion rate,Yield rate,b,medium
+64,Which reactor configuration is often used for continuous-flow processes in which reactants are fed into the reactor continuously?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,medium
+65,What is the term for the ratio of the rate of the desired reaction to the rate of undesired side reactions?,Rate constant,Selectivity,Yield,Conversion,b,medium
+66,Which law states that the rate of a reaction is directly proportional to the product of the concentrations of the reactants?,Boyle's law,Charles's law,Le Chatelier's principle,Law of mass action,d,medium
+67,What is the term for the time required for the concentration of a reactant to decrease to half of its initial value in a first-order reaction?,Half-life,Reaction time,Residence time,Retention time,a,medium
+68,Which type of reaction involves the breaking down of a compound into simpler substances?,Decomposition,Combination,Displacement,Substitution,a,medium
+69,What is the term for the ratio of the concentration of a reactant at any given time to its initial concentration in a first-order reaction?,Reaction rate constant,Half-life,Residence time,Reaction order,b,medium
+70,Which reactor configuration is suitable for reactions that require a long residence time?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,medium
+71,What is the term for a reaction in which the number of atoms of each element is the same in both the reactants and products?,Balanced reaction,Stoichiometric reaction,Equilibrium reaction,Catalytic reaction,a,medium
+72,Which factor does not affect the selectivity of a reaction?,Temperature,Pressure,Catalyst,Reactant concentration,b,medium
+73,What is the term for the rate of a reaction when all reactants are present in stoichiometric proportions?,Specific rate constant,Arrhenius constant,Kinetic constant,Rate-determining step,a,medium
+74,Which type of reaction occurs when a single reactant breaks down into simpler products?,Decomposition,Combination,Displacement,Substitution,a,medium
+75,Which factor primarily determines the selectivity of a reaction?,Temperature,Pressure,Catalyst,Reactant concentration,c,medium
+76,What is the term for the ratio of the rate of the desired reaction to the rate of undesired side reactions?,Rate constant,Selectivity,Yield,Conversion,b,medium
+77,Which reactor configuration is often used for gas-phase reactions?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,medium
+78,What is the term for the process of increasing the rate of a chemical reaction by adding a substance that increases the frequency of collisions between reactant molecules?,Activation,Inhibition,Catalysis,Deactivation,c,medium
+79,"Which type of reaction involves the exchange of ions between two compounds, leading to the formation of two new compounds?",Decomposition,Combination,Displacement,Ion-exchange,d,medium
+80,What is the term for the temperature at which the rate of a chemical reaction doubles for every 10-degree increase in temperature?,Activation temperature,Optimum temperature,Kinetic temperature,Arrhenius temperature,d,medium
+81,Which reactor configuration is often used for reactions involving solids that remain stationary while reactants flow over them?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,c,medium
+82,What is the term for the process of slowing down or stopping a chemical reaction?,Inhibition,Deactivation,Activation,Saturation,a,medium
+83,Which factor does not affect the equilibrium constant of a reaction?,Temperature,Pressure,Concentration of products,Presence of catalyst,d,medium
+84,What is the term for the measure of the change in concentration of reactants or products per unit time?,Rate constant,Reaction rate,Conversion rate,Yield rate,b,medium
+85,Which reactor configuration is often used for continuous-flow processes in which reactants are fed into the reactor continuously?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,medium
+86,What is the term for the ratio of the rate of the desired reaction to the rate of undesired side reactions?,Rate constant,Selectivity,Yield,Conversion,b,medium
+87,Which law states that the rate of a reaction is directly proportional to the product of the concentrations of the reactants?,Boyle's law,Charles's law,Le Chatelier's principle,Law of mass action,d,medium
+88,What is the term for the time required for the concentration of a reactant to decrease to half of its initial value in a first-order reaction?,Half-life,Reaction time,Residence time,Retention time,a,medium
+89,Which type of reaction involves the breaking down of a compound into simpler substances?,Decomposition,Combination,Displacement,Substitution,a,medium
+90,What is the term for the ratio of the concentration of a reactant at any given time to its initial concentration in a first-order reaction?,Reaction rate constant,Half-life,Residence time,Reaction order,b,medium
+91,Which reactor configuration is suitable for reactions that require a long residence time?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,medium
+92,What is the term for a reaction in which the number of atoms of each element is the same in both the reactants and products?,Balanced reaction,Stoichiometric reaction,Equilibrium reaction,Catalytic reaction,a,medium
+93,Which factor does not affect the selectivity of a reaction?,Temperature,Pressure,Catalyst,Reactant concentration,b,medium
+94,Which reactor configuration is often used for gas-phase reactions?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,medium
+95,What is the term for the process of increasing the rate of a chemical reaction by adding a substance that increases the frequency of collisions between reactant molecules?,Activation,Inhibition,Catalysis,Deactivation,c,medium
+96,"Which type of reaction involves the exchange of ions between two compounds, leading to the formation of two new compounds?",Decomposition,Combination,Displacement,Ion-exchange,d,medium
+97,What is the term for the temperature at which the rate of a chemical reaction doubles for every 10-degree increase in temperature?,Activation temperature,Optimum temperature,Kinetic temperature,Arrhenius temperature,d,medium
+98,Which reactor configuration is often used for reactions involving solids that remain stationary while reactants flow over them?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,c,medium
+99,What is the term for the process of slowing down or stopping a chemical reaction?,Inhibition,Deactivation,Activation,Saturation,a,medium
+100,Which factor does not affect the equilibrium constant of a reaction?,Temperature,Pressure,Concentration of products,Presence of catalyst,d,medium
+101,What is the term for the measure of the change in concentration of reactants or products per unit time?,Rate constant,Reaction rate,Conversion rate,Yield rate,b,medium
+102,Which reactor configuration is often used for continuous-flow processes in which reactants are fed into the reactor continuously?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,medium
+103,What is the term for the ratio of the rate of the desired reaction to the rate of undesired side reactions?,Rate constant,Selectivity,Yield,Conversion,b,medium
+104,Which factor primarily determines the selectivity of a reaction?,Temperature,Pressure,Catalyst,Reactant concentration,c,hard
+105,What is the term for the ratio of the rate of the desired reaction to the rate of undesired side reactions?,Rate constant,Selectivity,Yield,Conversion,b,hard
+106,Which reactor configuration is often used for gas-phase reactions?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,hard
+107,What is the term for the process of increasing the rate of a chemical reaction by adding a substance that increases the frequency of collisions between reactant molecules?,Activation,Inhibition,Catalysis,Deactivation,c,hard
+108,"Which type of reaction involves the exchange of ions between two compounds, leading to the formation of two new compounds?",Decomposition,Combination,Displacement,Ion-exchange,d,hard
+109,What is the term for the temperature at which the rate of a chemical reaction doubles for every 10-degree increase in temperature?,Activation temperature,Optimum temperature,Kinetic temperature,Arrhenius temperature,d,hard
+110,Which reactor configuration is often used for reactions involving solids that remain stationary while reactants flow over them?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,c,hard
+111,What is the term for the process of slowing down or stopping a chemical reaction?,Inhibition,Deactivation,Activation,Saturation,a,hard
+112,Which factor does not affect the equilibrium constant of a reaction?,Temperature,Pressure,Concentration of products,Presence of catalyst,d,hard
+113,What is the term for the measure of the change in concentration of reactants or products per unit time?,Rate constant,Reaction rate,Conversion rate,Yield rate,b,hard
+114,Which reactor configuration is often used for continuous-flow processes in which reactants are fed into the reactor continuously?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,hard
+115,What is the term for the ratio of the rate of the desired reaction to the rate of undesired side reactions?,Rate constant,Selectivity,Yield,Conversion,b,hard
+116,Which law states that the rate of a reaction is directly proportional to the product of the concentrations of the reactants?,Boyle's law,Charles's law,Le Chatelier's principle,Law of mass action,d,hard
+117,What is the term for the time required for the concentration of a reactant to decrease to half of its initial value in a first-order reaction?,Half-life,Reaction time,Residence time,Retention time,a,hard
+118,Which type of reaction involves the breaking down of a compound into simpler substances?,Decomposition,Combination,Displacement,Substitution,a,hard
+119,What is the term for the ratio of the concentration of a reactant at any given time to its initial concentration in a first-order reaction?,Reaction rate constant,Half-life,Residence time,Reaction order,b,hard
+120,Which reactor configuration is suitable for reactions that require a long residence time?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,hard
+121,What is the term for a reaction in which the number of atoms of each element is the same in both the reactants and products?,Balanced reaction,Stoichiometric reaction,Equilibrium reaction,Catalytic reaction,a,hard
+122,Which factor does not affect the selectivity of a reaction?,Temperature,Pressure,Catalyst,Reactant concentration,b,hard
+123,What is the term for the rate of a reaction when all reactants are present in stoichiometric proportions?,Specific rate constant,Arrhenius constant,Kinetic constant,Rate-determining step,a,hard
+124,Which reactor configuration is often used for reactions involving solids that remain stationary while reactants flow over them?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,c,hard
+125,What is the term for the process of slowing down or stopping a chemical reaction?,Inhibition,Deactivation,Activation,Saturation,a,hard
+126,Which factor does not affect the equilibrium constant of a reaction?,Temperature,Pressure,Concentration of products,Presence of catalyst,d,hard
+127,What is the term for the measure of the change in concentration of reactants or products per unit time?,Rate constant,Reaction rate,Conversion rate,Yield rate,b,hard
+128,Which reactor configuration is often used for continuous-flow processes in which reactants are fed into the reactor continuously?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,hard
+129,What is the term for the ratio of the rate of the desired reaction to the rate of undesired side reactions?,Rate constant,Selectivity,Yield,Conversion,b,hard
+130,Which law states that the rate of a reaction is directly proportional to the product of the concentrations of the reactants?,Boyle's law,Charles's law,Le Chatelier's principle,Law of mass action,d,hard
+131,What is the term for the time required for the concentration of a reactant to decrease to half of its initial value in a first-order reaction?,Half-life,Reaction time,Residence time,Retention time,a,hard
+132,Which type of reaction involves the breaking down of a compound into simpler substances?,Decomposition,Combination,Displacement,Substitution,a,hard
+133,What is the term for the ratio of the concentration of a reactant at any given time to its initial concentration in a first-order reaction?,Reaction rate constant,Half-life,Residence time,Reaction order,b,hard
+134,Which reactor configuration is suitable for reactions that require a long residence time?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,a,hard
+135,What is the term for a reaction in which the number of atoms of each element is the same in both the reactants and products?,Balanced reaction,Stoichiometric reaction,Equilibrium reaction,Catalytic reaction,a,hard
+136,Which factor does not affect the selectivity of a reaction?,Temperature,Pressure,Catalyst,Reactant concentration,b,hard
+137,What is the term for the rate of a reaction when all reactants are present in stoichiometric proportions?,Specific rate constant,Arrhenius constant,Kinetic constant,Rate-determining step,a,hard
+138,Which reactor configuration is often used for reactions involving solids that remain stationary while reactants flow over them?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,c,hard
+139,What is the term for the process of slowing down or stopping a chemical reaction?,Inhibition,Deactivation,Activation,Saturation,a,hard
+140,Which factor does not affect the equilibrium constant of a reaction?,Temperature,Pressure,Concentration of products,Presence of catalyst,d,hard
+141,What is the term for the measure of the change in concentration of reactants or products per unit time?,Rate constant,Reaction rate,Conversion rate,Yield rate,b,hard
+142,Which reactor configuration is often used for continuous-flow processes in which reactants are fed into the reactor continuously?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,hard
+143,What is the term for the ratio of the rate of the desired reaction to the rate of undesired side reactions?,Rate constant,Selectivity,Yield,Conversion,b,hard
+144,Which law describes the relationship between the rate of a chemical reaction and the concentration of reactants?,Avogadro's law,Charles's law,Le Chatelier's principle,Rate law,d,hard
+145,What is the term for the reactant that is completely consumed during a chemical reaction?,Limiting reactant,Excess reactant,Intermediate,Catalyst,a,hard
+146,Which reactor configuration offers the most uniform temperature and concentration profiles?,Plug-flow reactor,Continuous stirred-tank reactor (CSTR),Packed-bed reactor,Batch reactor,b,hard
+147,What is the term for the step in a reaction mechanism that determines the overall rate of the reaction?,Elementary step,Rate-determining step,Intermediate step,Catalytic step,b,hard
+148,Which type of reaction occurs spontaneously and releases energy?,Endothermic,Exothermic,Isothermal,Adiabatic,b,hard
+149,What is the term for the minimum amount of energy required to initiate a chemical reaction?,Activation energy,Enthalpy,Entropy,Gibbs free energy,a,hard
+150,Which factor affects the rate of reaction according to the collision theory?,Volume,Pressure,Surface area,Temperature,d,hard
+151,In which type of reaction does a single reactant produce multiple products?,Decomposition,Combustion,Displacement,Polymerization,d,hard
+152,What is the term for the rate at which reactants are consumed or products are formed in a chemical reaction?,Reaction rate,Reaction order,Rate constant,Rate-determining step,a,hard
+153,Which law states that the rate of a chemical reaction is directly proportional to the product of the concentrations of the reactants?,Boyle's law,Charles's law,Le Chatelier's principle,Law of mass action,d,hard

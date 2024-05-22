@@ -1,0 +1,151 @@
+Qid,Question,A,B,C,D,Answer,Level
+1,What is the primary purpose of comments in a programming code?,To execute specific tasks,To enhance code readability and understanding,To declare variables,To format the output,b,Easy
+2,Which of the following is not a programming language?,Python,HTML,Java,Excel,d,Easy
+3,Which data type is used to store whole numbers in Python?,Float,String,Integer,Boolean,c,Easy
+4,What does the acronym "HTML" stand for?,Hyper Text Markup Language,High-level Text Manipulation Language,Hyperlink and Text Management Language,Hypertext Transfer Model Language,a,Easy
+5,Which programming language is commonly used for web development?,Python,Java,JavaScript,C++,c,Easy
+6,What does the function "print()" do in Python?,Reads user input,Performs mathematical calculations,Displays output to the console,Executes conditional statements,c,Easy
+7,Which operator is used for exponentiation in most programming languages?,^,**,//,%,b,Easy
+8,What does the acronym "GUI" stand for in programming?,Graphical User Interface,General User Interaction,Global Utility Interface,Graphics Unit Integration,a,Easy
+9,What symbol typically represents the assignment operator in programming languages?,=,==,=>,:=,a,Easy
+10,Which of the following is not a valid programming construct?,if-else statement,for loop,while function,switch-case statement,c,Easy
+11,Which symbol is used for single-line comments in Python?,//,#,--,/* */,b,Easy
+12,Which of the following is not a basic data type in Python?,List,String,Integer,Boolean,a,Easy
+13,What does the acronym "IDE" stand for in programming?,Integrated Development Environment,Interactive Data Exchange,Internet Development Engine,Instructional Design Environment,a,Easy
+14,What is the main advantage of using functions in programming?,To perform repetitive tasks,To declare variables,To create comments,To display output,a,Easy
+15,Which symbol is used for the logical AND operator in programming?,&&,||,!,&,a,Easy
+16,Which of the following is not a valid variable name in Python?,my_variable,2nd_variable,_variable,variable_2,b,Easy
+17,What does the term "syntax error" refer to in programming?,Logical error in the code,Typographical error in the code,Error related to hardware,Error in the algorithm,b,Easy
+18,Which of the following is a commonly used programming paradigm?,Alphabetical programming,Sequential programming,Object-oriented programming,Manual programming,c,Easy
+19,"Which data structure uses the Last In, First Out (LIFO) principle?",Queue,Stack,Linked List,Array,b,Easy
+20,What is the purpose of the "break" statement in loops?,To exit the loop immediately,To skip the current iteration and continue with the next,To print the output,To execute a specific block of code,a,Easy
+21,Which of the following is not a comparison operator?,==,!=,++,>,c,Easy
+22,What does the term "algorithm" refer to in programming?,A step-by-step procedure for solving a problem,A programming language,A data structure,A variable,a,Easy
+23,What does the acronym "SQL" stand for in programming?,Structured Query Language,Sequential Query Language,System Query Language,Simplified Query Language,a,Easy
+24,What is the primary purpose of using data structures in programming?,To store and organize data efficiently,To execute mathematical calculations,To display output to the user,To define functions and methods,a,Easy
+25,"Which data structure follows the Last In, First Out (LIFO) principle?",Queue,Stack,Linked List,Array,b,Easy
+26,"In object-oriented programming, what is an object?",A block of code that performs a specific task,A collection of related data and methods,A conditional statement,A variable,b,Easy
+27,Which concept of OOP promotes code reusability and modularity?,Inheritance,Encapsulation,Polymorphism,Abstraction,a,Easy
+28,What is the purpose of encapsulation in OOP?,To hide the internal implementation details of an object,To perform mathematical operations,To control access to class members,To define relationships between classes,a,Easy
+29,Which data structure uses pointers or references to connect elements?,Array,Linked List,Stack,Queue,b,Easy
+30,What is a constructor in OOP?,A method used to destroy objects,A method used to create objects,A special type of variable,A conditional statement,b,Easy
+31,Which data structure allows elements to be accessed randomly using an index?,Linked List,Stack,Queue,Array,d,Easy
+32,What does the acronym "OOP" stand for?,Ordered Object Protocol,Objective Oriented Programming,Object-Oriented Programming,Operative Object Protocol,c,Easy
+33,"In OOP, what is a class?",A specific instance of an object,A blueprint for creating objects,A method used to manipulate data,A data structure for storing elements,b,Easy
+34,Which concept of OOP allows a class to inherit properties and behaviors from another class?,Inheritance,Encapsulation,Polymorphism,Abstraction,a,Easy
+35,What is the purpose of a destructor in OOP?,To create objects,To initialize object properties,To destroy objects,To access object methods,c,Easy
+36,"Which data structure follows the First In, First Out (FIFO) principle?",Stack,Queue,Linked List,Array,b,Easy
+37,What does the term "polymorphism" mean in OOP?,The ability of a function to operate on different data types,The ability of a function to perform multiple tasks,The ability of objects to take on different forms,The ability of a function to call itself,c,Easy
+38,Which OOP concept involves combining data and methods into a single unit?,Inheritance,Encapsulation,Polymorphism,Abstraction,b,Easy
+39,What is the purpose of a method in OOP?,To define the structure of a class,To access class variables,To initialize class objects,To perform operations on class data,d,Easy
+40,What does the term "abstraction" mean in OOP?,The process of hiding implementation details and showing only essential features of an object,The process of defining relationships between classes,The process of combining data and methods into a single unit,The process of accessing class variables,a,Easy
+41,Which data structure represents a collection of elements with no specific order?,Stack,Queue,Linked List,Set,d,Easy
+42,What is the purpose of inheritance in OOP?,To hide implementation details of a class,To combine data and methods into a single unit,To create new classes based on existing classes,To access class variables,c,Easy
+43,. What is the main purpose of the "self" parameter in Python class methods?,It represents the class itself,It indicates the beginning of the method,It refers to the object on which the method is called,It specifies the return value of the method,c,Easy
+44,Which OOP principle states that objects of different classes can be treated as objects of a common superclass?,Polymorphism,Inheritance,Encapsulation,Abstraction,a,Easy
+45,What is the purpose of the "super()" function in Python?,To call the superclass constructor,To create a new object,To access class variables,To define class methods,a,Easy
+46,What is Java primarily used for?,Building web applications,Writing system scripts,Creating database queries,Designing graphic interfaces,a,Easy
+47,Which keyword is used to define a constant value in Java?,final,const,static,var,a,Easy
+48,What does JVM stand for in the context of Java programming?,Java Very Miniature,Java Virtual Machine,Java Virtual Method,Java Version Manager,b,Easy
+49,Which of the following is a valid way to declare a variable of type integer in Java?,int x = "5";,int x = 5.0;,int x = 5;,Integer x = 5;,c,Easy
+50,Which OOP concept involves grouping related variables and methods into a single unit?,Inheritance,Encapsulation,Polymorphism,Abstraction,b,Easy
+51,"Which programming paradigm emphasizes breaking down a problem into smaller, reusable components?",Procedural programming,Object-oriented programming,Functional programming,Event-driven programming,b,Medium
+52,"In programming, what is a compiler?",A tool used to execute code line by line,A program that translates source code into machine code,A debugger used to identify errors in code,A tool for managing code version control,b,Medium
+53,What is the purpose of the "break" statement in loops?,To skip the current iteration and continue with the next,To exit the loop immediately,To execute a specific block of code,To indicate the end of a loop,b,Medium
+54,"n Python, which keyword is used to indicate the end of a block of code?",end,finish,continue,pass,d,Medium
+55,Which type of error occurs during the execution of a program and causes it to terminate abnormally?,Syntax error,Compilation error,Runtime error,Logical error,c,Medium
+56,"In object-oriented programming, what is encapsulation?",The process of hiding implementation details and showing only essential features of an object,The process of combining data and methods into a single unit,The process of defining relationships between classes,The process of calling methods between objects,a,Medium
+57,What is the purpose of the "this" keyword in Java?,To access superclass methods and constructors,To specify access modifiers,To refer to the current object,To perform mathematical calculations,c,Medium
+58,Which of the following is not a valid data type in Python?,float,char,str,bool,b,Medium
+59,What is the output of the following code snippet? int x = 5; System.out.println(x++);,5,6,4,Error,a,Medium
+60,What does the acronym "API" stand for in programming?,Application Programming Interface,Application Process Interface,Algorithmic Programming Interface,Advanced Programming Interface,a,Medium
+61,What is the purpose of the "try-catch" block in Java?,To handle exceptions and errors,To define methods and constructors,To perform mathematical calculations,To specify access modifiers,a,Medium
+62,Which programming language is known for its use in statistical analysis and data visualization?,Python,Java,R,C++,c,Medium
+63,What is the purpose of the "continue" statement in loops?,To exit the loop immediately,To skip the current iteration and continue with the next,To terminate the program,To iterate infinitely,b,Medium
+64,Which of the following is not a sorting algorithm?,Quick Sort,Merge Sort,Binary Search,Bubble Sort,c,Medium
+65,What is the main advantage of using functions in programming?,To perform repetitive tasks,To access class variables,To define instance variables,To control program flow,a,Medium
+66,"In Python, which function is used to read input from the user?",read(),input(),get_input(),read_input(),b,Medium
+67,What is the purpose of the "toString" method in Java?,To convert objects to strings,To convert strings to objects,To compare objects,To perform mathematical calculations,a,Medium
+68,Which operator is used to concatenate strings in Java?,+,-,*,/,a,Medium
+69,Which of the following is a correct way to declare a variable in Python?,int x = 5;,float x = 5.0;,x = 5;,String x = "5";,c,Medium
+70,What is the purpose of the "break" statement in loops?,To exit the loop immediately,To skip the current iteration and continue with the next,To execute a specific block of code,To indicate the end of a loop,a,Medium
+71,Which data structure uses pointers or references to connect elements?,Array,Linked List,Stack,Queue,b,Medium
+72,What is the purpose of the "else" statement in conditional statements?,To define the condition to be met,To execute a block of code if the condition is true,To execute a block of code if the condition is false,To terminate the program,c,Medium
+73,Which data structure is used to implement priority queues?,Stack,Queue,Binary Search Tree,Heap,d,Medium
+74,What is the time complexity of the binary search algorithm?,O(n),O(log n),O(n log n),O(n^2),b,Medium
+75,What is the worst-case time complexity of the quicksort algorithm?,O(n),O(n log n),O(log n),O(n^2),d,Medium
+76,Which sorting algorithm has the best average-case time complexity?,Bubble Sort,Insertion Sort,Merge Sort,Selection Sort,c,Medium
+77,What data structure is typically used to implement a graph?,Array,Linked List,Stack,Adjacency List,d,Medium
+78,What is the purpose of dynamic programming in algorithm design?,To solve problems by dividing them into subproblems,To find the optimal solution for a given problem,To optimize recursive algorithms,To handle cases with overlapping subproblems,b,Medium
+79,Which search algorithm requires the elements to be in sorted order?,Linear Search,Binary Search,Depth-First Search,Breadth-First Search,b,Medium
+80,What does BFS stand for in the context of graph traversal?,Best-First Search,Breadth-First Search,Binary-First Search,Bidirectional-First Search,b,Medium
+81,Which data structure is used in implementing a LIFO ordering of elements?,Queue,Stack,Linked List,Binary Search Tree,b,Medium
+82,What is the purpose of hashing in data structures?,To sort elements in ascending order,To search for elements in a sorted list,To map data to a fixed-size array for faster access,To perform arithmetic operations on elements,c,Medium
+83,"Which traversal method is used to visit the left subtree, then the root, and finally the right subtree in a binary tree?",Preorder,Inorder,Postorder,Level order,b,Medium
+84,What is the time complexity of the linear search algorithm?,O(n),O(log n),O(n^2),O(1),a,Medium
+85,What is the space complexity of the merge sort algorithm?,O(n),O(log n),O(n log n),O(n^2),a,Medium
+86,What is the purpose of the Bellman-Ford algorithm?,To find the shortest path in a weighted graph,To find the minimum spanning tree in a graph,To detect cycles in a graph,To perform topological sorting,a,Medium
+87,What is the main disadvantage of using bubble sort compared to other sorting algorithms?,It requires extra space,It has a high time complexity,It cannot handle large datasets efficiently,It is not stable,b,Medium
+88,"In the context of trees, what is the maximum number of children a node can have in a binary tree?",1,2,3,Unlimited,b,Medium
+89,What is the purpose of the Kruskal's algorithm?,To find the shortest path between two nodes in a graph,To find the minimum spanning tree in a graph,To detect cycles in a graph,To perform topological sorting,b,Medium
+90,What is the time complexity of the selection sort algorithm in the average case?,O(n),O(log n),O(n^2),O(n log n),c,Medium
+91,Which data structure is used to implement a hash table?,Array,Linked List,Stack,Heap,a,Medium
+92,What is the difference between method overloading and method overriding in Java?,"Method overloading allows different methods with the same name but different parameters, while method overriding allows a subclass to provide a specific implementation of a method that is already provided by its superclass.","Method overloading allows a subclass to provide a specific implementation of a method that is already provided by its superclass, while method overriding allows different methods with the same name but different parameters.",Method overloading and method overriding are the same concepts.,Method overloading and method overriding are not supported in Java.,a,Medium
+93,Which keyword is used to prevent inheritance in Java?,super,this,final,static,c,Medium
+94,What is the purpose of the "instanceof" operator in Java?,To create a new instance of a class,To compare two objects for equality,To check if an object is an instance of a particular class or interface,To access instance variables of a class,c,Medium
+95,What is the access level of a class member with no access modifier specified in Java?,Private,Protected,Public,Package-private,d,Medium
+96,What is the difference between "==" and ".equals()" when comparing objects in Java?,"""=="" compares the memory addresses of objects, while "".equals()"" compares their contents.",""".equals()"" compares the memory addresses of objects, while ""=="" compares their contents.","""=="" is used to compare primitive data types, while "".equals()"" is used to compare objects.",""".equals()"" is used to compare primitive data types, while ""=="" is used to compare objects.",a,Medium
+97,What is the purpose of the "super" keyword in Java?,To refer to the superclass of a subclass,To call a method of the superclass,To create a new instance of a class,To access instance variables of a class,b,Medium
+98,Which of the following is not a principle of Object-Oriented Programming?,Inheritance,Encapsulation,Polymorphism,Iteration,d,Medium
+99,What is the purpose of the "static" keyword in Java?,To create a new instance of a class,To access instance variables of a class,"To declare a method or variable that belongs to the class, rather than any instance of the class",To prevent inheritance of a class,c,Medium
+100,What is the time complexity of the Naive String Matching algorithm?,O(n),O(n^2),O(m * n),O(2^n),c,Medium
+101,What is the output of the following code snippet? int x = 5; System.out.println(x++ + ++x);,10,11,12,Compiler error,c,Hard
+102,Which sorting algorithm has the highest worst-case time complexity?,Merge Sort,Quick Sort,Bubble Sort,Heap Sort,d,Hard
+103,What is the purpose of memoization in dynamic programming?,To minimize the space complexity,To store intermediate results to avoid redundant computations,To minimize the time complexity,To ensure thread safety,b,Hard
+104,Which of the following is not a property of a binary search tree (BST)?,Left subtree of a node contains only nodes with keys less than the node's key,Right subtree of a node contains only nodes with keys greater than the node's key,The key in each node must be unique,The height of a BST is always O(n),d,Hard
+105,What is the time complexity of the Floyd-Warshall algorithm for finding all pairs shortest paths?,O(n),O(n log n),O(n^2),O(n^3),d,Hard
+106,What does NP-complete mean in the context of computational complexity theory?,Problems that can be solved in polynomial time,Problems that can be solved in non-deterministic polynomial time,Problems that are at least as hard as the hardest problems in NP,Problems that are easy to solve,c,Hard
+107,What is the main disadvantage of using the Greedy algorithm approach?,It guarantees optimal solutions,It is computationally expensive,It may not always find the globally optimal solution,It is not suitable for dynamic programming,c,Hard
+108,"In the context of data compression, what is Huffman coding used for?",Lossy compression of images,Lossless compression of text,Lossy compression of audio,Lossless compression of images,d,Hard
+109,What is the time complexity of the Boyer-Moore algorithm for string searching?,O(n),O(m * n),O(n log n),O(m + n),d,Hard
+110,Which of the following is not a step in the process of software debugging?,Identifying the problem,Testing the program,Modifying the code,Writing the documentation,d,Hard
+111,What is the purpose of the "volatile" keyword in Java?,To ensure that a variable is not modified by multiple threads simultaneously,To prevent a variable from being garbage collected,To optimize memory usage,To ensure thread safety,a,Hard
+112,What is the time complexity of the A* algorithm for pathfinding in graphs?,O(n),O(n log n),O(n^2),Depends on the heuristic function,d,Hard
+113,What is the purpose of the "synchronized" keyword in Java?,To prevent deadlocks in multithreaded programs,To ensure that only one thread can access a method or block at a time,To synchronize the clocks of multiple threads,To optimize memory usage,b,Hard
+114,Which design pattern is used to restrict the instantiation of a class to one object?,Factory Method,Singleton,Prototype,Observer,b,Hard
+115,What is the purpose of the "transient" keyword in Java?,To prevent a variable from being serialized,To make a variable thread-safe,To declare a variable as a constant,To prevent a variable from being modified,a,Hard
+116,What is the main advantage of using a binary heap over a binary search tree?,Binary heaps have a faster search operation,Binary heaps have a faster insertion and deletion operation,Binary heaps have a smaller memory footprint,Binary heaps can handle unsorted data,b,Hard
+117,What is the time complexity of the Rabin-Karp algorithm for string searching?,O(n),O(m * n),O(n log n),O(m + n),d,Hard
+118,Which of the following is not a type of software testing?,Unit testing,Integration testing,Regression testing,Convergence testing,d,Hard
+119,What is the time complexity of the Bellman-Ford algorithm for finding the shortest path in a graph with negative edge weights?,O(n),O(n log n),O(n^2),O(n^3),c,Hard
+120,What is the purpose of the "strictfp" keyword in Java?,To specify that a class should be loaded by the system class loader,To ensure that floating-point calculations are platform-independent,To enable strict floating-point arithmetic behavior,To optimize memory usage,c,Hard
+121,What is the main disadvantage of using the Floyd-Warshall algorithm for finding all pairs shortest paths?,It has a high time complexity,It requires the graph to be acyclic,It does not work for graphs with negative edge weights,It is not suitable for dense graphs,c,Hard
+122,What is the purpose of the "assert" keyword in Java?,To specify preconditions and post conditions for methods,To handle exceptions,To terminate the program if a condition is false,To synchronize threads,c,Hard
+123,What is the main advantage of using the radix sort algorithm?,It has a worst-case time complexity of O(n log n),It can handle large datasets efficiently,It is stable and does not change the relative order of equal elements,It does not require additional space,d,Hard
+124,Which of the following is a property of a hash function used in hash tables?,It always produces a unique hash code for each input,It maps multiple inputs to the same hash code,It is used only for encryption purposes,It does not affect the performance of a hash table,b,Hard
+125,What is the time complexity of the Bellman-Ford algorithm for single-source shortest path in a weighted graph with negative edge weights?,O(V),O(V^2),O(V^3),O(V * E),b,Hard
+126,"In the context of dynamic programming, what does the term ""optimal substructure"" refer to?","The problem can be broken down into smaller subproblems, and the optimal solution to the problem can be constructed from optimal solutions to the subproblems.",The problem has overlapping subproblems that can be reused to avoid redundant computations.,The problem exhibits both optimal substructure and overlapping subproblems.,The problem can be solved using a greedy algorithm.,a,Hard
+127,What is the main advantage of using memoization over tabulation in dynamic programming?,Memoization typically results in a more intuitive and easier-to-understand implementation.,"Memoization allows for a bottom-up approach, which can be more efficient in terms of space complexity.",Memoization guarantees optimal solutions to problems with overlapping subproblems.,Memoization can handle problems with an infinite number of subproblems.,a,Hard
+128,What is the purpose of the "topological sorting" technique in dynamic programming?,To ensure that the graph is acyclic before applying dynamic programming algorithms.,To sort elements in ascending order based on their weights.,To determine the optimal ordering of tasks or events in a directed graph.,To minimize the time complexity of dynamic programming algorithms.,c,Hard
+129,"In the context of the Longest Common Subsequence (LCS) problem, what is the time complexity of the brute-force recursive approach?",O(2^n),O(n),O(n^2),O(n * m),a,Hard
+130,What is the purpose of the "transient" keyword in Java serialization?,To prevent a variable from being serialized,To specify that a variable should be serialized,To indicate that a variable should be excluded from the serialization process,To ensure that a variable is deserialized correctly,a,Hard
+131,What is the difference between composition and inheritance in Java?,"Inheritance allows a class to inherit the properties and behaviors of another class, while composition allows a class to contain objects of other classes.","Composition allows a class to inherit the properties and behaviors of another class, while inheritance allows a class to contain objects of other classes.",Inheritance and composition are the same concepts.,"Composition is used only in functional programming, while inheritance is used in object-oriented programming.",a,Hard
+132,What is the purpose of the "finalize" method in Java?,To perform final cleanup operations on an object before it is garbage collected,To prevent an object from being garbage collected,To define the final state of an object,To override the default implementation of the Object class,a,Hard
+133,Which design pattern is used to separate the construction of a complex object from its representation?,Singleton,Builder,Prototype,Factory Method,b,Hard
+134,What is the purpose of the "assert" keyword in Java?,To handle exceptions,To specify preconditions and postconditions for methods,To terminate the program if a condition is false,To synchronize threads,c,Hard
+135,What is the role of the "static" keyword in Java method overriding?,To indicate that a method cannot be overridden,To specify that a method should be overridden,To allow a subclass to provide its own implementation of a static method,Static methods cannot be overridden,d,Hard
+136,What is the purpose of the "super()" keyword in a Java constructor?,To call the superclass constructor,To access superclass variables,To initialize superclass objects,To invoke superclass methods,a,Hard
+137,What is the main advantage of using an abstract class over an interface in Java?,"An abstract class can have constructors, while an interface cannot","An abstract class can implement multiple interfaces, while an interface cannot extend multiple classes","An abstract class can provide default implementations for methods, while an interface cannot","An abstract class cannot be extended, while an interface can be implemented",c,Hard
+138,Which of the following statements is true about inner classes in Java?,Inner classes can only be declared as static,Inner classes have access to the members of the enclosing class,Inner classes cannot be instantiated,Inner classes cannot have constructors,b,Hard
+139,What is the purpose of the "volatile" keyword in Java?,To ensure that a variable is not modified by multiple threads simultaneously,To prevent a variable from being garbage collected,To optimize memory usage,To ensure thread safety,a,Hard
+140,What is the time complexity of finding the kth smallest element in an unsorted array using the Quickselect algorithm?,O(n log n),O(n^2),O(n),O(log n),b,Hard
+141,Which data structure is typically used to implement Dijkstra's algorithm for finding the shortest path in a weighted graph?,Queue,Stack,Priority Queue (Min Heap),Linked List,c,Hard
+142,What is the time complexity of finding the maximum flow in a flow network using the Ford-Fulkerson algorithm with the Edmonds-Karp implementation?,O(V),O(E),O(V * E^2),O(E * log V),c,Hard
+143,Which sorting algorithm has the best time complexity in the worst-case scenario?,Quicksort,Heapsort,Mergesort,Bubble sort,c,Hard
+144,"In AVL trees, what is the rotation required to balance the tree after inserting a node that violates the AVL property?",Right rotation,Left rotation,Double right rotation,Double left rotation,c,Hard
+145,What is the space complexity of the Boyer-Moore algorithm for string searching?,O(n),O(m * n),O(n + m),O(1),d,Hard
+146,Which algorithm is used for finding the strongly connected components in a directed graph?,Prim's algorithm,Kruskal's algorithm,Dijkstra's algorithm,Tarjan's algorithm,d,Hard
+147,What is the time complexity of the Floyd-Warshall algorithm for finding all pairs shortest paths in a graph with negative edge weights?,O(V),O(E),O(V^2),O(V^3),d,Hard
+148,Which data structure is used to implement the topological sorting of a directed acyclic graph (DAG)?,Stack,Queue,Heap,Binary Search Tree,a,Hard
+149,What is the time complexity of the Karger's algorithm for finding minimum cuts in an undirected graph?,O(n),O(n log n),O(n^2 * log n),O(n^3),c,Hard
+150,Which of the following statements about AVL trees is true?,AVL trees are binary search trees that do not allow duplicate values.,AVL trees are a type of self-balancing binary search tree where the heights of the two child subtrees of any node differ by at most one.,AVL trees always have the minimum height among all possible binary search trees with the same set of values.,AVL trees are less efficient than red-black trees in terms of insertion and deletion operations.,b,Hard
